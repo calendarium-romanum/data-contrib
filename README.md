@@ -29,6 +29,11 @@ day = calendar[date]
 p day.celebrations
 ```
 
+## Directory Structure
+
+`romcal_converted/` - data files created by converting data packaged
+in the [romcal][romcal] JavaScript library.
+
 ## Contributing
 
 In order to re-run the export of [romcal][romcal] data:
@@ -38,3 +43,4 @@ In order to re-run the export of [romcal][romcal] data:
 
 [caro]: https://github.com/igneus/calendarium-romanum
 [data]: https://github.com/igneus/calendarium-romanum/blob/master/data/README.md
+[romcal]: https://github.com/romcal/romcal
