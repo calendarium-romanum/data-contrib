@@ -29,5 +29,12 @@ day = calendar[date]
 p day.celebrations
 ```
 
+## Contributing
+
+In order to re-run the export of [romcal][romcal] data:
+
+* `npm install` to get romcal and other JS dependencies
+* `rake` to run the export
+
 [caro]: https://github.com/igneus/calendarium-romanum
 [data]: https://github.com/igneus/calendarium-romanum/blob/master/data/README.md
