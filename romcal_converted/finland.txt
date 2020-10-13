@@ -1,0 +1,15 @@
+1/19 s1.4 R saintHenryBishopAndMartyr : Saint Henry, Bishop and Martyr
+2/14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
+4/29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+5/18 m3.11 saintEricIxMartyr : Saint Eric IX, Martyr
+5/22 m3.11 blessedHemmingBishop : Blessed Hemming, Bishop
+5/29 saintUrsulaLedochowskaVirgin : Saint Ursula Ledochowska, Virgin
+6/4 blessedElisabethHesselbaldVirgin : Blessed Elisabeth Hesselbald, Virgin
+6/26 saintJosemariaEscrivaDeBalaguerPriest : Saint Josemaria Escriva de Balaguer, Priest
+7/10 m3.11 saintCanuteMartyr : Saint Canute, Martyr
+7/11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
+7/20 m3.11 saintThorlacBishop : Saint Thorlac, Bishop
+7/23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+5/29 m3.11 R saintOlafIiMartyr : Saint Olaf II, Martyr
+8/9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
+11/25 blessedNicolasStenoBishop : Blessed Nicolas Steno, Bishop

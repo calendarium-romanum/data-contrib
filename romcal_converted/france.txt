@@ -1,0 +1,14 @@
+1/3 saintGenevieveVirgin : Saint Genevieve, Virgin
+1/15 saintRemigiusBishop : Saint Remigius, Bishop
+2/14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
+2/18 saintBernadetteSoubirousVirgin : Saint Bernadette Soubirous, Virgin
+4/29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+5/19 saintIvoPriest : Saint Ivo, Priest
+5/30 m3.11 saintJoanOfArcVirginSecondaryPatronessOfFrance : Saint Joan of Arc, Virgin, Secondary Patroness of France
+6/2 saintPothinusBishopSaintBlAndinaVirginAndTheirCompanionsMartyrs : Saint Pothinus, Bishop, Saint Blandina, Virgin, and Their Companions, Martyrs
+6/4 saintClotilde : Saint Clotilde
+7/11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
+7/23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+8/9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
+8/26 saintCaesariusOfArlesBishop : Saint Caesarius of Arles, Bishop
+10/1 m3.11 saintThereseOfTheChildJesusVirginSecondaryPatronessOfFrance : Saint Therese of The Child Jesus, Virgin, Secondary Patroness of France
