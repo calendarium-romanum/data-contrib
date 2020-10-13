@@ -1,0 +1,38 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    calendarium-romanum (0.7.1)
+      i18n (~> 0.6)
+      roman-numerals (~> 0.3)
+      thor (~> 0.18)
+    concurrent-ruby (1.1.7)
+    diff-lcs (1.4.4)
+    i18n (0.9.5)
+      concurrent-ruby (~> 1.0)
+    rake (13.0.1)
+    roman-numerals (0.3.0)
+    rspec (3.9.0)
+      rspec-core (~> 3.9.0)
+      rspec-expectations (~> 3.9.0)
+      rspec-mocks (~> 3.9.0)
+    rspec-core (3.9.3)
+      rspec-support (~> 3.9.3)
+    rspec-expectations (3.9.2)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.9.0)
+    rspec-mocks (3.9.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.9.0)
+    rspec-support (3.9.3)
+    thor (0.20.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  calendarium-romanum
+  rake
+  rspec
+
+BUNDLED WITH
+   2.1.4

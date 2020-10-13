@@ -1,3 +1,6 @@
+require 'rspec/core/rake_task'
+RSpec::Core::RakeTask.new(:spec)
+
 romcal_export_targets =
   Dir['node_modules/romcal/dist/calendars/*.js']
     .reject {|s| s.end_with? 'index.js' }

@@ -36,10 +36,16 @@ in the [romcal][romcal] JavaScript library.
 
 ## Contributing
 
+* `bundle install` to get Ruby dependencies
+
 In order to re-run the export of [romcal][romcal] data:
 
 * `npm install` to get romcal and other JS dependencies
-* `rake` to run the export
+* `bundle exec rake` to run the export
+
+In order to check data validity:
+
+* `bundle exec rake spec`
 
 [caro]: https://github.com/igneus/calendarium-romanum
 [data]: https://github.com/igneus/calendarium-romanum/blob/master/data/README.md
