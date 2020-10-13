@@ -14,6 +14,8 @@ from time to time, there is noone actively taking care of the whole.
 Copy the data file(s) of your choice to your project and load like this
 
 ```ruby
+require 'calendarium-romanum/cr'
+
 loader = CR::SanctoraleLoader.new
 
 # load the data file
