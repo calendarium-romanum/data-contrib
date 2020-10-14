@@ -79,7 +79,7 @@ const yamlFrontMatter = () => {
     locale: locale
   };
   if (!isGeneralCalendar) {
-    frontMatter['parent'] = 'general-' + locale + '.txt';
+    frontMatter['extends'] = 'general-' + locale + '.txt';
   }
 
   const yfmDelimiter = '---'

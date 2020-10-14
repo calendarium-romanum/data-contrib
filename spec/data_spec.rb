@@ -9,6 +9,11 @@ describe 'data files' do
         expect { loader.load_from_file path }
           .not_to raise_exception
       end
+
+      it 'can be loaded with parents' do
+        expect { CR::SanctoraleFactory.load_with_parents path }
+          .not_to raise_exception
+      end
     end
   end
 end

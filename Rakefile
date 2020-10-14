@@ -8,7 +8,7 @@ LANGUAGES = {
   'poland' => 'pl',
   'slovakia' => 'sk',
 }
-ALL_LANGUAGES = LANGUAGES.values.uniq
+ALL_LANGUAGES = (['en'] + LANGUAGES.values).uniq
 
 # in which languages to generate the given calendar
 def languages_for(path)
