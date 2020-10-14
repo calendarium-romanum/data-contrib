@@ -41,7 +41,7 @@ in the [romcal][romcal] JavaScript library.
 In order to re-run the export of [romcal][romcal] data:
 
 * `npm install` to get romcal and other JS dependencies
-* `bundle exec rake` to run the export
+* `bundle exec rake -B` to run the export
 
 In order to check data validity:
 

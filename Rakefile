@@ -12,8 +12,7 @@ romcal_export_targets =
   )
   jsmodule = path.sub(/^node_modules\//, '')
 
-  # no prerequisites defined => always refresh
-  file target do
+  file target => [path] do
     sh "nodejs bin/romcal-export.js #{jsmodule} > #{target}"
   end
 
