@@ -3,14 +3,26 @@ title: Brazil
 locale: en
 parent: general.txt
 ---
-6/9 m3.11 saintJoseDeAnchietaPriest : Saint Jose de Anchieta, Priest
-6/15 m3.11 R blessedAlbertinaBerkenbrockVirginAndMartyr : Blessed Albertina Berkenbrock, Virgin and Martyr
-7/9 m3.11 saintPaulinaOfTheAgonizingHeartOfJesusVirgin : Saint Paulina of The Agonizing Heart of Jesus, Virgin
-7/16 f2.8 ourLadyOfMountCarmel : Our Lady of Mount Carmel
-7/17 m3.11 R blessedInacioDeAzevedoPriestAndCompanionsMartyrs : Blessed Inacio de Azevedo, Priest, and Companions, Martyrs
-8/23 f2.8 saintRoseOfLima : Saint Rose of Lima, Virgin
-10/3 m3.11 R blessedsAndreDeSoveralAndAmbrosioFranciscoFerroPriestsAndMartyrs : Blesseds Andre de Soveral and Ambrosio Francisco Ferro, Priests and Martyrs
-10/12 s1.4 ourLadyOfAparecidaPatronessOfBrazil : Our Lady of Aparecida (Nossa Senhora Aparecida), Patroness of Brazil
-10/25 m3.11 saintAnthonyOfSaintAnneGalvaoFreiGalvaoPriest : Saint Anthony of Saint Anne Galvao (Frei Galvao), Priest
-11/19 m3.11 R saintsRoqueGonzalezAlfonsoRodriguezOlmedoAndJuanDelCastilloPriestsAndMartyrs : Saints Roque Gonzalez, Alfonso Rodriguez Olmedo, and Juan del Castillo, Priests and Martyrs
-12/12 f2.8 ourLadyOfGuadalupe : Our Lady of Guadalupe
+
+= 6
+9 m3.11 saintJoseDeAnchietaPriest : Saint Jose de Anchieta, Priest
+15 m3.11 R blessedAlbertinaBerkenbrockVirginAndMartyr : Blessed Albertina Berkenbrock, Virgin and Martyr
+
+= 7
+9 m3.11 saintPaulinaOfTheAgonizingHeartOfJesusVirgin : Saint Paulina of The Agonizing Heart of Jesus, Virgin
+16 f2.8 ourLadyOfMountCarmel : Our Lady of Mount Carmel
+17 m3.11 R blessedInacioDeAzevedoPriestAndCompanionsMartyrs : Blessed Inacio de Azevedo, Priest, and Companions, Martyrs
+
+= 8
+23 f2.8 saintRoseOfLima : Saint Rose of Lima, Virgin
+
+= 10
+3 m3.11 R blessedsAndreDeSoveralAndAmbrosioFranciscoFerroPriestsAndMartyrs : Blesseds Andre de Soveral and Ambrosio Francisco Ferro, Priests and Martyrs
+12 s1.4 ourLadyOfAparecidaPatronessOfBrazil : Our Lady of Aparecida (Nossa Senhora Aparecida), Patroness of Brazil
+25 m3.11 saintAnthonyOfSaintAnneGalvaoFreiGalvaoPriest : Saint Anthony of Saint Anne Galvao (Frei Galvao), Priest
+
+= 11
+19 m3.11 R saintsRoqueGonzalezAlfonsoRodriguezOlmedoAndJuanDelCastilloPriestsAndMartyrs : Saints Roque Gonzalez, Alfonso Rodriguez Olmedo, and Juan del Castillo, Priests and Martyrs
+
+= 12
+12 f2.8 ourLadyOfGuadalupe : Our Lady of Guadalupe

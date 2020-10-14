@@ -3,12 +3,24 @@ title: India
 locale: en
 parent: general.txt
 ---
-1/3 blessedKuriakoseEliasChavaraPriest : Blessed Kuriakose Elias Chavara, Priest
-1/16 blessedJosephVazPriest : Blessed Joseph Vaz, Priest
-2/4 m3.11 R saintJohnDeBritoPriestAndMartyr : Saint John de Brito, Priest and Martyr
-2/6 m3.11 R saintGonsaloGarciaMartyr : Saint Gonsalo Garcia, Martyr
-6/8 blessedMariaTheresaChiramelVirgin : Blessed Maria Theresa Chiramel, Virgin
-7/3 s1.4 saintThomasTheApostle : Saint Thomas the Apostle
-7/28 m3.11 saintAlphonsaOfTheImmaculateConceptionVirgin : Saint Alphonsa of The Immaculate Conception, Virgin
-9/5 s1.4 saintTeresaOfCalcuttaReligious : Saint Teresa of Calcutta, Religious
-12/3 s1.4 saintFrancisXavierPriest : Saint Francis Xavier, Priest
+
+= 1
+3 blessedKuriakoseEliasChavaraPriest : Blessed Kuriakose Elias Chavara, Priest
+16 blessedJosephVazPriest : Blessed Joseph Vaz, Priest
+
+= 2
+4 m3.11 R saintJohnDeBritoPriestAndMartyr : Saint John de Brito, Priest and Martyr
+6 m3.11 R saintGonsaloGarciaMartyr : Saint Gonsalo Garcia, Martyr
+
+= 6
+8 blessedMariaTheresaChiramelVirgin : Blessed Maria Theresa Chiramel, Virgin
+
+= 7
+3 s1.4 saintThomasTheApostle : Saint Thomas the Apostle
+28 m3.11 saintAlphonsaOfTheImmaculateConceptionVirgin : Saint Alphonsa of The Immaculate Conception, Virgin
+
+= 9
+5 s1.4 saintTeresaOfCalcuttaReligious : Saint Teresa of Calcutta, Religious
+
+= 12
+3 s1.4 saintFrancisXavierPriest : Saint Francis Xavier, Priest

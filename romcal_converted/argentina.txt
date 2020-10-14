@@ -3,24 +3,42 @@ title: Argentina
 locale: en
 parent: general.txt
 ---
-1/22 blessedLauraVicunaVirgin : Blessed Laura Vicuna, Virgin
-1/24 ourLadyQueenOfPeace : Our Lady, Queen of Peace
-4/27 f2.8 saintTuribiusOfMogrovejoBishop : Saint Turibius of Mogrovejo, Bishop
-5/8 s1.4 ourLadyOfLujanPatronessOfArgentina : Our Lady of Luján, Patroness of Argentina
-5/15 saintIsidoreTheFarmer : Saint Isidore the Farmer
-5/16 saintLuigiOrionePriest : Saint Luigi Orione, Priest
-7/9 m3.11 ourLadyOfItati : Our Lady of Itati
-7/10 saintsAugustineZhaoRongPriestAndCompanionsMartyrs : Saints Augustine Zhao Rong, Priest, and Companions, Martyrs
-7/16 m3.11 ourLadyOfMountCarmel : Our Lady of Mount Carmel
-7/23 saintCharbelMakhloufPriestAndHermit : Saint Charbel Makhlouf, Priest and Hermit
-7/24 m3.11 saintFrancisSolanusPriest : Saint Francis Solanus, Priest
-8/16 saintRocco : Saint Rocco
-8/26 blessedCeferinoNamuncura : Blessed Ceferino Namuncura
-8/30 f2.8 saintRoseOfLima : Saint Rose of Lima, Virgin
-9/24 m3.11 ourLadyOfMercy : Our Lady of Mercy
-10/9 saintHectorValdivielsoSaezMartyr : Saint Héctor Valdivielso Sáez, Martyr
-10/12 ourLadyOfThePillar : Our Lady of The Pillar
-11/17 m3.11 R saintsRoqueGonzalezAlfonsoRodriguezOlmedoAndJuanDelCastilloPriestsAndMartyrs : Saints Roque Gonzalez, Alfonso Rodriguez Olmedo, and Juan del Castillo, Priests and Martyrs
-11/18 m3.11 saintElizabethOfHungary : Saint Elizabeth of Hungary
-12/12 f2.8 ourLadyOfGuadalupe : Our Lady of Guadalupe
-4/28 m3.11 ourLadyOfTheValley : Our Lady of The Valley
+
+= 1
+22 blessedLauraVicunaVirgin : Blessed Laura Vicuna, Virgin
+24 ourLadyQueenOfPeace : Our Lady, Queen of Peace
+
+= 4
+27 f2.8 saintTuribiusOfMogrovejoBishop : Saint Turibius of Mogrovejo, Bishop
+28 m3.11 ourLadyOfTheValley : Our Lady of The Valley
+
+= 5
+8 s1.4 ourLadyOfLujanPatronessOfArgentina : Our Lady of Luján, Patroness of Argentina
+15 saintIsidoreTheFarmer : Saint Isidore the Farmer
+16 saintLuigiOrionePriest : Saint Luigi Orione, Priest
+
+= 7
+9 m3.11 ourLadyOfItati : Our Lady of Itati
+10 saintsAugustineZhaoRongPriestAndCompanionsMartyrs : Saints Augustine Zhao Rong, Priest, and Companions, Martyrs
+16 m3.11 ourLadyOfMountCarmel : Our Lady of Mount Carmel
+23 saintCharbelMakhloufPriestAndHermit : Saint Charbel Makhlouf, Priest and Hermit
+24 m3.11 saintFrancisSolanusPriest : Saint Francis Solanus, Priest
+
+= 8
+16 saintRocco : Saint Rocco
+26 blessedCeferinoNamuncura : Blessed Ceferino Namuncura
+30 f2.8 saintRoseOfLima : Saint Rose of Lima, Virgin
+
+= 9
+24 m3.11 ourLadyOfMercy : Our Lady of Mercy
+
+= 10
+9 saintHectorValdivielsoSaezMartyr : Saint Héctor Valdivielso Sáez, Martyr
+12 ourLadyOfThePillar : Our Lady of The Pillar
+
+= 11
+17 m3.11 R saintsRoqueGonzalezAlfonsoRodriguezOlmedoAndJuanDelCastilloPriestsAndMartyrs : Saints Roque Gonzalez, Alfonso Rodriguez Olmedo, and Juan del Castillo, Priests and Martyrs
+18 m3.11 saintElizabethOfHungary : Saint Elizabeth of Hungary
+
+= 12
+12 f2.8 ourLadyOfGuadalupe : Our Lady of Guadalupe

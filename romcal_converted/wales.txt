@@ -3,29 +3,51 @@ title: Wales
 locale: en
 parent: general.txt
 ---
-2/9 saintTeiloBishop : Saint Teilo, Bishop
-2/14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
-3/1 s1.4 saintDavidBishop : Saint David, Bishop
-4/20 saintBeunoAbbot : Saint Beuno, Abbot
-4/29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
-5/5 saintAsaphBishop : Saint Asaph, Bishop
-6/20 R saintsAlbanJuliusAndAaronMartyrs : Saints Alban, Julius and Aaron, Martyrs
-7/11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
-7/12 R saintJohnJonesPriestAndMartyr : Saint John Jones, Priest and Martyr
-7/23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
-7/25 R saintsPhilipEvansAndJohnLloydPriestsAndMartyrs : Saints Philip Evans and John Lloyd, Priests and Martyrs
-8/3 saintGermanusOfAuxerreBishop : Saint Germanus of Auxerre, Bishop
-8/9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
-8/26 R saintDavidLewisPriestAndMartyr : Saint David Lewis, Priest and Martyr
-9/11 saintDeiniolBishop : Saint Deiniol, Bishop
-10/16 R saintRichardGwynMartyr : Saint Richard Gwyn, Martyr
-10/25 f2.8 R theSixWelshMartyrsAndCompanions : The Six Welsh Martyrs and Companions
-11/3 saintWinefrideVirgin : Saint Winefride, Virgin
-11/6 saintIlltudAbbot : Saint Illtud, Abbot
-11/1 s1.4 allSaints : 
-11/2 f2.8 allSouls : All Souls
-11/6 f2.8 allSaintsOfWales : All Saints of Wales
-11/14 saintDubriciusBishop : Saint Dubricius, Bishop
-12/10 R saintJohnRobertsPriestAndMartyr : Saint John Roberts, Priest and Martyr
-6/29 s1.4 R peterAndPaulApostles : 
-8/15 s1.4 assumption : 
+
+= 2
+9 saintTeiloBishop : Saint Teilo, Bishop
+14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
+
+= 3
+1 s1.4 saintDavidBishop : Saint David, Bishop
+
+= 4
+20 saintBeunoAbbot : Saint Beuno, Abbot
+29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+
+= 5
+5 saintAsaphBishop : Saint Asaph, Bishop
+
+= 6
+20 R saintsAlbanJuliusAndAaronMartyrs : Saints Alban, Julius and Aaron, Martyrs
+29 s1.4 R peterAndPaulApostles : 
+
+= 7
+11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
+12 R saintJohnJonesPriestAndMartyr : Saint John Jones, Priest and Martyr
+23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+25 R saintsPhilipEvansAndJohnLloydPriestsAndMartyrs : Saints Philip Evans and John Lloyd, Priests and Martyrs
+
+= 8
+3 saintGermanusOfAuxerreBishop : Saint Germanus of Auxerre, Bishop
+9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
+26 R saintDavidLewisPriestAndMartyr : Saint David Lewis, Priest and Martyr
+15 s1.4 assumption : 
+
+= 9
+11 saintDeiniolBishop : Saint Deiniol, Bishop
+
+= 10
+16 R saintRichardGwynMartyr : Saint Richard Gwyn, Martyr
+25 f2.8 R theSixWelshMartyrsAndCompanions : The Six Welsh Martyrs and Companions
+
+= 11
+3 saintWinefrideVirgin : Saint Winefride, Virgin
+6 saintIlltudAbbot : Saint Illtud, Abbot
+1 s1.4 allSaints : 
+2 f2.8 allSouls : All Souls
+6 f2.8 allSaintsOfWales : All Saints of Wales
+14 saintDubriciusBishop : Saint Dubricius, Bishop
+
+= 12
+10 R saintJohnRobertsPriestAndMartyr : Saint John Roberts, Priest and Martyr

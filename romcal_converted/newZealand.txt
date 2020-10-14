@@ -3,13 +3,25 @@ title: New Zealand
 locale: en
 parent: general.txt
 ---
-2/6 f2.8 waitangiDay : Waitangi Day
-2/7 m3.11 R saintPaulMikiAndCompanionsMartyrs : Saint Paul Miki and Companions, Martyrs
-3/17 f2.8 saintPatrickBishop : Saint Patrick, Bishop
-4/26 f2.8 saintMarkApostle : Saint Mark, Apostle
-4/27 saintLouisGrignonDeMontfortPriest : Saint Louis Grignon de Montfort, Priest
-4/28 f2.8 R saintPeterChanelPriestAndMartyrSaintLouisGrignonDeMontfortPriest : Saint Peter Chanel, Priest and Martyr/Saint Louis Grignon de Montfort, Priest
-5/24 m3.11 ourLadyHelpOfChristians : Our Lady, Help of Christians
-6/6 saintMarcellinChampagnatPriest : Saint Marcellin Champagnat, Priest
-8/7 saintDominicPriest/SaintSixtusIiPopeAndCompanionsMartyrsSaintCajetanPriest : Saint Dominic, Priest/Saint Sixtus II, Pope, and Companions, Martyrs/Saint Cajetan, Priest
-8/8 f2.8 saintMaryMacKillopVirgin : Saint Mary MacKillop, Virgin
+
+= 2
+6 f2.8 waitangiDay : Waitangi Day
+7 m3.11 R saintPaulMikiAndCompanionsMartyrs : Saint Paul Miki and Companions, Martyrs
+
+= 3
+17 f2.8 saintPatrickBishop : Saint Patrick, Bishop
+
+= 4
+26 f2.8 saintMarkApostle : Saint Mark, Apostle
+27 saintLouisGrignonDeMontfortPriest : Saint Louis Grignon de Montfort, Priest
+28 f2.8 R saintPeterChanelPriestAndMartyrSaintLouisGrignonDeMontfortPriest : Saint Peter Chanel, Priest and Martyr/Saint Louis Grignon de Montfort, Priest
+
+= 5
+24 m3.11 ourLadyHelpOfChristians : Our Lady, Help of Christians
+
+= 6
+6 saintMarcellinChampagnatPriest : Saint Marcellin Champagnat, Priest
+
+= 8
+7 saintDominicPriest/SaintSixtusIiPopeAndCompanionsMartyrsSaintCajetanPriest : Saint Dominic, Priest/Saint Sixtus II, Pope, and Companions, Martyrs/Saint Cajetan, Priest
+8 f2.8 saintMaryMacKillopVirgin : Saint Mary MacKillop, Virgin

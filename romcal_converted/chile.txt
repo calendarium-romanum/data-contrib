@@ -3,15 +3,31 @@ title: Chile
 locale: en
 parent: general.txt
 ---
-1/22 blessedLauraVicunaVirgin : Blessed Laura Vicuna, Virgin
-2/7 blessedPiusIxPope : Blessed Pius IX, Pope
-2/11 m3.11 ourLadyOfLourdes : Our Lady of Lourdes
-5/4 f2.8 saintsPhilipAndJamesApostles : Saints Philip and James, Apostles
-7/13 f2.8 saintTeresaOfLosAndesVirgin : Saint Teresa of Los Andes, Virgin
-7/14 saintCamillusDeLellisPriestOrSaintHenryBishopAndMartyr  : 
-7/16 s1.4 ourLadyOfMountCarmel : Our Lady of Mount Carmel
-8/18 m3.11 saintAlbertoHurtadoPriest : Saint Alberto Hurtado, Priest
-8/30 f2.8 saintRoseOfLima : Saint Rose of Lima, Virgin
-9/24 ourLadyOfMercy : Our Lady of Mercy
-12/12 f2.8 ourLadyOfGuadalupe : Our Lady of Guadalupe
-6/7 f2.8 ourLordJesusChristTheEternalHighPriest : Our Lord Jesus Christ, The Eternal High Priest
+
+= 1
+22 blessedLauraVicunaVirgin : Blessed Laura Vicuna, Virgin
+
+= 2
+7 blessedPiusIxPope : Blessed Pius IX, Pope
+11 m3.11 ourLadyOfLourdes : Our Lady of Lourdes
+
+= 5
+4 f2.8 saintsPhilipAndJamesApostles : Saints Philip and James, Apostles
+
+= 6
+7 f2.8 ourLordJesusChristTheEternalHighPriest : Our Lord Jesus Christ, The Eternal High Priest
+
+= 7
+13 f2.8 saintTeresaOfLosAndesVirgin : Saint Teresa of Los Andes, Virgin
+14 saintCamillusDeLellisPriestOrSaintHenryBishopAndMartyr  : 
+16 s1.4 ourLadyOfMountCarmel : Our Lady of Mount Carmel
+
+= 8
+18 m3.11 saintAlbertoHurtadoPriest : Saint Alberto Hurtado, Priest
+30 f2.8 saintRoseOfLima : Saint Rose of Lima, Virgin
+
+= 9
+24 ourLadyOfMercy : Our Lady of Mercy
+
+= 12
+12 f2.8 ourLadyOfGuadalupe : Our Lady of Guadalupe

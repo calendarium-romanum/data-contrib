@@ -3,14 +3,32 @@ title: Puerto Rico
 locale: en
 parent: general.txt
 ---
-1/3 mostHolyNameOfJesusOrOurLadyOfBethlehem : Most Holy Name of Jesus Or Our Lady of Bethlehem
-1/10 blessedMariaDoloresRodriguezSopenaVirgin : Blessed Maria Dolores Rodriguez Sopena, Virgin
-5/4 blessedCarlosManuelRodriguez : Blessed Carlos Manuel Rodriguez
-7/16 f2.8 ourLadyOfMountCarmel : Our Lady of Mount Carmel
-8/26 saintTeresaOfJesusJornetEIbarsVirgin : Saint Teresa of Jesus Jornet e Ibars, Virgin
-8/30 f2.8 saintRoseOfLima : Saint Rose of Lima, Virgin
-9/10 blessedsCarlosSpinolaAndJeronimoDeAngelisPriestsAndMartyrs : Blesseds Carlos Spinola and Jeronimo de Angelis, Priests and Martyrs
-10/11 saintSoledadTorresAcostaVirgin : Saint Soledad Torres Acosta, Virgin
-11/19 s1.4 ourLadyMotherOfDivineProvidencePatronessOfPuertoRico : Our Lady, Mother of Divine Providence, Patroness of Puerto Rico
-12/12 f2.8 ourLadyOfGuadalupe : Our Lady of Guadalupe
-6/7 f2.8 ourLordJesusChristTheEternalHighPriest : Our Lord Jesus Christ, The Eternal High Priest
+
+= 1
+3 mostHolyNameOfJesusOrOurLadyOfBethlehem : Most Holy Name of Jesus Or Our Lady of Bethlehem
+10 blessedMariaDoloresRodriguezSopenaVirgin : Blessed Maria Dolores Rodriguez Sopena, Virgin
+
+= 5
+4 blessedCarlosManuelRodriguez : Blessed Carlos Manuel Rodriguez
+
+= 6
+7 f2.8 ourLordJesusChristTheEternalHighPriest : Our Lord Jesus Christ, The Eternal High Priest
+
+= 7
+16 f2.8 ourLadyOfMountCarmel : Our Lady of Mount Carmel
+
+= 8
+26 saintTeresaOfJesusJornetEIbarsVirgin : Saint Teresa of Jesus Jornet e Ibars, Virgin
+30 f2.8 saintRoseOfLima : Saint Rose of Lima, Virgin
+
+= 9
+10 blessedsCarlosSpinolaAndJeronimoDeAngelisPriestsAndMartyrs : Blesseds Carlos Spinola and Jeronimo de Angelis, Priests and Martyrs
+
+= 10
+11 saintSoledadTorresAcostaVirgin : Saint Soledad Torres Acosta, Virgin
+
+= 11
+19 s1.4 ourLadyMotherOfDivineProvidencePatronessOfPuertoRico : Our Lady, Mother of Divine Providence, Patroness of Puerto Rico
+
+= 12
+12 f2.8 ourLadyOfGuadalupe : Our Lady of Guadalupe

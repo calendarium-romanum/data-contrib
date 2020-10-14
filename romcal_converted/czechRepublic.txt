@@ -3,31 +3,51 @@ title: Czech Republic
 locale: en
 parent: general.txt
 ---
-1/18 m3.11 ourLadyMotherOfChristianUnity : Our Lady, Mother of Christian Unity
-5/8 ourLadyMediatrixOfAllGrace : Our Lady, Mediatrix of All Grace
-4/23 m3.11 R saintAdalbertBishopAndMartyr : Saint Wojciech (Adalbert of Prague), Bishop and Martyr
-4/29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
-4/30 saintSigismundMartyr : Saint Sigismund, Martyr
-5/16 f2.8 saintJohnNepomucenePriestAndMartyr : Saint John Nepomucene, Priest and Martyr
-5/20 m3.11 saintClementMaryHofbauerPriest : Saint Clement Mary Hofbauer, Priest
-5/30 m3.11 saintZdislava : Saint Zdislava
-6/15 saintVitusMartyr : Saint Vitus, Martyr
-6/19 saintJohnNeumannBishop : Saint John Neumann, Bishop
-7/4 saintProcopiusAbbot : Saint Procopius, Abbot
-7/5 s1.4 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
-7/11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
-7/14 blessedHroznataMartyr : Blessed Hroznata, Martyr
-7/17 blessedCeslausAndSaintHyacinthPriests : Blessed Ceslaus and Saint Hyacinth, Priests
-7/23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
-8/9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
-8/25 saintsBenedyktJanMateuszIsaakAndKrystynMartyrs : Saints Benedykt, Jan, Mateusz, Isaak and Krystyn, Martyrs
-9/5 saintTeresaOfCalcuttaReligious : Saint Teresa of Calcutta, Religious
-9/7 saintMelchiorGrodzieckiPriestAndMartyr : Saint Melchior Grodziecki, Priest and Martyr
-9/10 blessedCharlesSpinolaPriestAndMartyr : Blessed Charles Spinola, Priest and Martyr
-9/16 m3.11 saintLudmilaMartyr : Saint Ludmila, Martyr
-10/12 saintRadimBishop : Saint Radim, Bishop
-10/21 blessedKarlOfAustria : Blessed Karl of Austria
-10/31 saintWolfgangBishop : Saint Wolfgang, Bishop
-11/13 m3.11 saintAgnesOfBohemiaVirgin : Saint Agnes of Bohemia, Virgin
-12/1 saintEdmundCampionPriestAndMartyr : Saint Edmund Campion, Priest and Martyr
-6/7 f2.8 ourLordJesusChristTheEternalHighPriest : Our Lord Jesus Christ, The Eternal High Priest
+
+= 1
+18 m3.11 ourLadyMotherOfChristianUnity : Our Lady, Mother of Christian Unity
+
+= 4
+23 m3.11 R saintAdalbertBishopAndMartyr : Saint Wojciech (Adalbert of Prague), Bishop and Martyr
+29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+30 saintSigismundMartyr : Saint Sigismund, Martyr
+
+= 5
+8 ourLadyMediatrixOfAllGrace : Our Lady, Mediatrix of All Grace
+16 f2.8 saintJohnNepomucenePriestAndMartyr : Saint John Nepomucene, Priest and Martyr
+20 m3.11 saintClementMaryHofbauerPriest : Saint Clement Mary Hofbauer, Priest
+30 m3.11 saintZdislava : Saint Zdislava
+
+= 6
+15 saintVitusMartyr : Saint Vitus, Martyr
+19 saintJohnNeumannBishop : Saint John Neumann, Bishop
+7 f2.8 ourLordJesusChristTheEternalHighPriest : Our Lord Jesus Christ, The Eternal High Priest
+
+= 7
+4 saintProcopiusAbbot : Saint Procopius, Abbot
+5 s1.4 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
+11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
+14 blessedHroznataMartyr : Blessed Hroznata, Martyr
+17 blessedCeslausAndSaintHyacinthPriests : Blessed Ceslaus and Saint Hyacinth, Priests
+23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+
+= 8
+9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
+25 saintsBenedyktJanMateuszIsaakAndKrystynMartyrs : Saints Benedykt, Jan, Mateusz, Isaak and Krystyn, Martyrs
+
+= 9
+5 saintTeresaOfCalcuttaReligious : Saint Teresa of Calcutta, Religious
+7 saintMelchiorGrodzieckiPriestAndMartyr : Saint Melchior Grodziecki, Priest and Martyr
+10 blessedCharlesSpinolaPriestAndMartyr : Blessed Charles Spinola, Priest and Martyr
+16 m3.11 saintLudmilaMartyr : Saint Ludmila, Martyr
+
+= 10
+12 saintRadimBishop : Saint Radim, Bishop
+21 blessedKarlOfAustria : Blessed Karl of Austria
+31 saintWolfgangBishop : Saint Wolfgang, Bishop
+
+= 11
+13 m3.11 saintAgnesOfBohemiaVirgin : Saint Agnes of Bohemia, Virgin
+
+= 12
+1 saintEdmundCampionPriestAndMartyr : Saint Edmund Campion, Priest and Martyr

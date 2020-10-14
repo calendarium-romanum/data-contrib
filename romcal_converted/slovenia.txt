@@ -3,5 +3,9 @@ title: Slovenia
 locale: en
 parent: general.txt
 ---
-5/16 R saintJohnNepomucenePriestAndMartyr : Saint John Nepomucene, Priest and Martyr
-7/23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+
+= 5
+16 R saintJohnNepomucenePriestAndMartyr : Saint John Nepomucene, Priest and Martyr
+
+= 7
+23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
