@@ -1,3 +1,8 @@
+---
+title: France
+locale: en
+parent: general.txt
+---
 1/3 saintGenevieveVirgin : Saint Genevieve, Virgin
 1/15 saintRemigiusBishop : Saint Remigius, Bishop
 2/14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop

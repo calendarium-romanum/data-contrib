@@ -1,3 +1,8 @@
+---
+title: Lithuania
+locale: en
+parent: general.txt
+---
 1/27 blessedJerzyMatulewiczBishop : Blessed Jerzy Matulewicz, Bishop
 2/14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
 3/4 f2.8 saintCasimir : Saint Casimir

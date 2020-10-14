@@ -1,3 +1,8 @@
+---
+title: Canada
+locale: en
+parent: general.txt
+---
 1/7 m3.11 saintAndreBessetteReligious : Saint Andre Bessette, Religious
 1/8 saintRaymondOfPenyafortPriest : Saint Raymond of Penyafort, Priest
 1/12 m3.11 saintMargueriteBourgeoysVirgin : Saint Marguerite Bourgeoys, Virgin

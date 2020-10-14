@@ -1,3 +1,8 @@
+---
+title: New Zealand
+locale: en
+parent: general.txt
+---
 2/6 f2.8 waitangiDay : Waitangi Day
 2/7 m3.11 R saintPaulMikiAndCompanionsMartyrs : Saint Paul Miki and Companions, Martyrs
 3/17 f2.8 saintPatrickBishop : Saint Patrick, Bishop

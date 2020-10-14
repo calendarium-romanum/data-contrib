@@ -1,3 +1,8 @@
+---
+title: Lebanon
+locale: en
+parent: general.txt
+---
 12/4 m3.11 R saintBarbaraVirginAndMartyr : Saint Barbara, Virgin and Martyr
 12/6 m3.11 saintNicholasBishop : Saint Nicholas, Bishop
 12/24 saintCharbelMakhloufPriestAndHermit : Saint Charbel Makhlouf, Priest and Hermit

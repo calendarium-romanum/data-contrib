@@ -1,3 +1,8 @@
+---
+title: Russia
+locale: en
+parent: general.txt
+---
 1/27 m3.11 blessedGeorgeMatulewiczBishop : Blessed George Matulewicz, Bishop
 1/29 blessedBoleslawaMariaLamentVirginAndSaintAngelaMericiVirgin : Blessed Boleslawa Maria Lament, Virgin/Saint Angela Merici, Virgin
 2/14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop

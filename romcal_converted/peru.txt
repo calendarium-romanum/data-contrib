@@ -1,3 +1,8 @@
+---
+title: Peru
+locale: en
+parent: general.txt
+---
 5/3 f2.8 findingOfTheHolyCross : Finding of The Holy Cross
 5/24 ourLadyHelpOfChristians : Our Lady, Help of Christians
 5/26 f2.8 saintMarianaDeJesusDeParedesVirgin : Saint Mariana de Jesus de Paredes, Virgin

@@ -1,3 +1,8 @@
+---
+title: Wales
+locale: en
+parent: general.txt
+---
 2/9 saintTeiloBishop : Saint Teilo, Bishop
 2/14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
 3/1 s1.4 saintDavidBishop : Saint David, Bishop

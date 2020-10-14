@@ -1,3 +1,8 @@
+---
+title: Argentina
+locale: en
+parent: general.txt
+---
 1/22 blessedLauraVicunaVirgin : Blessed Laura Vicuna, Virgin
 1/24 ourLadyQueenOfPeace : Our Lady, Queen of Peace
 4/27 f2.8 saintTuribiusOfMogrovejoBishop : Saint Turibius of Mogrovejo, Bishop

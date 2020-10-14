@@ -1,3 +1,8 @@
+---
+title: Czech Republic
+locale: en
+parent: general.txt
+---
 1/18 m3.11 ourLadyMotherOfChristianUnity : Our Lady, Mother of Christian Unity
 5/8 ourLadyMediatrixOfAllGrace : Our Lady, Mediatrix of All Grace
 4/23 m3.11 R saintAdalbertBishopAndMartyr : Saint Wojciech (Adalbert of Prague), Bishop and Martyr

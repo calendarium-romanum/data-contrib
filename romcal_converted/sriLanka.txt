@@ -1,3 +1,8 @@
+---
+title: Sri Lanka
+locale: en
+parent: general.txt
+---
 1/16 blessedJosephVazPriest : Blessed Joseph Vaz, Priest
 2/4 f2.8 ourLadyOfLanka : Our Lady of Lanka
 7/2 f2.8 ourLadyOfMadhu : Our Lady of Madhu

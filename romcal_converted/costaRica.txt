@@ -1,2 +1,7 @@
+---
+title: Costa Rica
+locale: en
+parent: general.txt
+---
 7/23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
 6/7 f2.8 ourLordJesusChristTheEternalHighPriest : Our Lord Jesus Christ, The Eternal High Priest

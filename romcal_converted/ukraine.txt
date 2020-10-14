@@ -1,3 +1,8 @@
+---
+title: Ukraine
+locale: en
+parent: general.txt
+---
 1/5 blessedMarcelinaDarowskaReligious : Blessed Marcelina Darowska, Religious
 1/30 blessedBronislawMarkiewiczPriest : Blessed Bronislaw Markiewicz, Priest
 2/14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop

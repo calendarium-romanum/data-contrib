@@ -1,3 +1,8 @@
+---
+title: Croatia
+locale: en
+parent: general.txt
+---
 2/10 m3.11 R blessedAloysiusStepinacBishopAndMartyr : Blessed Aloysius Stepinac, Bishop and Martyr
 2/14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
 4/29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe

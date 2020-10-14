@@ -1,3 +1,8 @@
+---
+title: Chile
+locale: en
+parent: general.txt
+---
 1/22 blessedLauraVicunaVirgin : Blessed Laura Vicuna, Virgin
 2/7 blessedPiusIxPope : Blessed Pius IX, Pope
 2/11 m3.11 ourLadyOfLourdes : Our Lady of Lourdes

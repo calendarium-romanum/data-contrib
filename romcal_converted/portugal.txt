@@ -1,3 +1,8 @@
+---
+title: Portugal
+locale: en
+parent: general.txt
+---
 1/11 blessedGoncaloDeAmarantePriest : Blessed Goncalo de Amarante, Priest
 2/4 m3.11 R saintJohnDeBritoPriestAndMartyr : Saint John de Brito, Priest and Martyr
 2/7 f2.8 theFiveWoundsOfTheLord : The Five Wounds of The Lord

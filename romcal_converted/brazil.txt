@@ -1,3 +1,8 @@
+---
+title: Brazil
+locale: en
+parent: general.txt
+---
 6/9 m3.11 saintJoseDeAnchietaPriest : Saint Jose de Anchieta, Priest
 6/15 m3.11 R blessedAlbertinaBerkenbrockVirginAndMartyr : Blessed Albertina Berkenbrock, Virgin and Martyr
 7/9 m3.11 saintPaulinaOfTheAgonizingHeartOfJesusVirgin : Saint Paulina of The Agonizing Heart of Jesus, Virgin
