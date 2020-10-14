@@ -1,0 +1,214 @@
+---
+title: General
+locale: sk
+---
+
+= 1
+2 m basil_gregory : Svätých Bazila Veľkého a Gregora Nazianzského, biskupov a učiteľov Cirkvi
+3 name_jesus : Najsvätejšieho mena Ježiš
+7 raymond :  Svätého Rajmunda z Peňafortu, kňaza
+13 hilary : Svätého Hilára, biskupa, učiteľa Cirkvi
+17 m anthony_of_egypt : Svätého Antona, opáta
+20 fabian : Svätých Fabiána, pápeža, a Šebastiána, mučeníkov
+21 m R agnes : Svätej Agnesy, panny a mučenice
+22 vincent_deacon : Svätého Vincenta, diakona a mučeníka
+24 m francis_de_sales : Svätého Františka Saleského, biskupa a učiteľa Cirkvi
+25 f paul_conversion : Obrátenie svätého Pavla, apoštola
+26 m timothy_titus : Svätých Timoteja a Títa, biskupov
+27 merici : Svätej Angely Merici, panny
+28 m aquinas : Svätého Tomáša Akvinského, kňaza a učiteľa Cirkvi
+31 m bosco : Svätého Jána Boska, kňaza
+
+= 2
+3 blase : Svätého Blažeja, biskupa a mučeníka, a svätého Oskára, biskupa
+5 m R agatha : Svätej Agáty, panny a mučenice
+6 m R paul_miki : Svätého Pavla Mikiho a spoločníkov, mučeníkov
+8 jerome_emiliani : Svätého Hieronyma Emilianiho/Svätej Jozefíny Bakhity, panny
+10 m scholastica : Svätej Školastiky, panny
+11 bvm_lourdes : Preblahoslavenej Panny Márie Lurdskej
+14 m cyril_methodius : Svätých Cyrila a Metoda, slovanských vierozvestov
+17 servite_founders : Siedmich svätých zakladateľov rehole Služobníkov Panny Márie
+21 peter_damian : Svätého Petra Damianiho, biskupa a učiteľa Cirkvi
+22 f chair_of_peter : Katedra svätého Petra, apoštola
+23 m R polycarp : Svätého Polykarpa, biskupa a mučeníka
+
+= 3
+4 casimir : Svätého Kazimíra
+7 m R perpetua_felicity : Svätej Perpetuy a Felicity, mučeníc
+8 john_of_god : Svätého Jána z Boha, rehoľníka
+9 frances_of_rome : Svätej Františky Rímskej, rehoľnice
+17 patrick : Svätého Patrika, biskupa
+18 cyril_of_jerusalem : Svätého Cyrila Jeruzalemského, biskupa a učiteľa Cirkvi
+23 turibius : Svätého Turibia de Mongrovejo, biskupa
+
+= 4
+2 francis_of_paola : Svätého Františka z Paoly, pustovníka
+4 isidore : Svätého Izidora, biskupa a učiteľa Cirkvi
+5 vincent_ferrer : Svätého Vincenta Ferrera, kňaza
+7 m de_la_salle : Svätého Jána Krstiteľa de la Salle, kňaza
+11 m R stanislaus : Svätého Stanislava, biskupa a mučeníka
+13 R martin_i : Svätého Martina I., pápeža a mučeníka
+21 anselm : Svätého Anzelma, biskupa a učiteľa Cirkvi
+23 R george : Svätého Juraja, mučeníka/Svätého Vojtecha, biskupa a mučeníka
+24 R fidelis : Svätého Fidéla zo Sigmaringenu, kňaza a mučeníka
+25 f mark : Svätého Marka, evanjelistu
+28 peter_chanel : Svätého Petra Chanela, kňaza a mučeníka/Svätého Ľudovíta Márie Grignion de Montfort, kňaza
+29 m catherine_of_siena : Svätej Kataríny Sienskej, panny a učiteľky Cirkvi, patrónky Európy
+30 pius_v : Svätého Pia V., pápeža
+
+= 5
+1 joseph_worker : Svätého Jozefa, robotníka
+2 m athanasius : Svätého Atanáza, biskupa a učiteľa Cirkvi
+3 f philip_james : Svätých Filipa a Jakuba, apoštolov
+12 nereus_achilleus : Svätých Nerea a Achila, mučeníkov/Svätého Pankráca, mučeníka
+13 bvm_fatima : Blahoslavenej Panny Márie Fatimskej
+14 f matthias : Svätého Mateja, apoštola
+18 john_i : Svätého Jána I., pápeža a mučeníka
+20 bernardine : Svätého Bernardína Sienského, kňaza
+21 magallanes : Svätého Krištofa Magallanesa, kňaza, a spoločníkov, mučeníkov
+22 rita : Svätej Rity z Cascie, rehoľnice
+25 bede_venerable : Svätého Bédu Ctihodného, kňaza a učiteľa Cirkvi/Svätého Gregora VII., pápeža/Svätej Márie Magdalény de’ Pazzi, panny
+26 m neri : Svätého Filipa Neriho, kňaza
+27 augustine_of_canterbury : Svätého Augustína z Canterbury, biskupa
+31 f visitation : Návšteva Panny Márie
+
+= 6
+1 m R justin : Svätého Justína, mučeníka
+2 marcellinus_peter : Svätých Marcelína a Petra, mučeníkov
+3 m R ugandan_martyrs : Svätých Karola Lwangu a spoločníkov, mučeníkov
+5 m R boniface : Svätého Bonifáca, biskupa a mučeníka
+6 norbert : Svätého Norberta, biskupa
+9 ephrem : Svätého Efréma, diakona a učiteľa Cirkvi
+11 m barnabas : Svätého Barnabáša, apoštola
+13 m anthony_of_padua : Svätého Antona Paduánskeho, kňaza a učiteľa Cirkvi
+19 romuald : Svätého Romualda, opáta
+21 m aloysius : Svätého Alojza Gonzágu, rehoľníka
+22 paulinus : Svätého Pavlína z Noly, biskupa/Svätých Jána Fishera, biskupa, a Tomáša Mórusa, mučeníkov
+27 cyril_of_alexandria : Svätého Cyrila Alexandrijského, biskupa a učiteľa Cirkvi
+28 m R irenaeus : Svätého Ireneja, biskupa a mučeníka
+30 first_martyrs_of_rome : Prvých svätých mučeníkov Cirkvi v Ríme
+4 m mother_of_church : Preblahoslavenej Panny Márie, Matky Cirkvi
+
+= 7
+3 f thomas_apostle : Svätého Tomáša, apoštola
+4 elizabeth_of_portugal : Svätej Alžbety Portugalskej
+5 anthony_zaccaria : Svätého Antona Márie Zaccariu, kňaza
+6 R goretti : Svätej Márie Goretti, panny a mučenice
+9 chinese_martyrs : Svätých Augustína Zhao Rong, kňaza, a spoločníkov, mučeníkov
+11 m benedict : Svätého Benedikta, opáta, spolupatróna Európy
+13 henry : Svätého Henricha
+14 camillus_de_lellis : Svätého Kamila de Lellis, kňaza
+15 m bonaventure : Svätého Bonaventúru, biskupa a učiteľa Cirkvi
+16 bvm_mount_carmel : Preblahoslavenej Panny Márie Karmelskej
+20 apollinaris : Svätého Apolinára, biskupa a mučeníka
+21 lawrence_of_brindisi : Svätého Vavrinca z Brindisi, kňaza a učiteľa Cirkvi
+22 f mary_magdalene : Svätej Márie Magdalény
+23 f birgitta : Svätej Brigity, rehoľnice, patrónky Európy
+24 sharbel : Svätého Sarbela Makhlūfa, kňaza
+25 f james : Svätého Jakuba, apoštola
+26 m joachim_anne : Svätých Joachima a Anny, rodičov Panny Márie
+29 m martha : Svätej Marty
+30 peter_chrysologus : Svätého Petra Chryzológa, biskupa a učiteľa Cirkvi
+31 m ignatius_of_loyola : Svätého Ignáca z Loyoly, kňaza
+
+= 8
+1 m alphonsus : Svätého Alfonza Máriu de’ Liguori, biskupa a učiteľa Cirkvi
+2 eusebius : Svätého Euzébia Vercellského, biskupa/Svätého Petra Juliána Eymarda, kňaza
+4 m vianney : Svätého Jána Márie Vianneya, kňaza
+5 mary_major : Výročie posviacky Hlavnej mariánskej baziliky v Ríme
+7 sixtus_ii : Svätých Sixta II., pápeža, a jeho spoločníkov, mučeníkov/Svätého Kajetána, kňaza
+8 m dominic : Svätého Dominika, kňaza
+9 R stein : Svätej Terézie Benedikty z Kríža (Edity Steinovej), panny a mučenice, spolupatrónky Európy
+10 f R lawrence : Svätého Vavrinca, diakona a mučeníka
+11 m clare : Svätej Kláry, panny
+12 de_chantal : Svätej Jany Františky de Chantal, rehoľnice
+13 pontian_hippolytus : Svätých Ponciána, pápeža, a Hipolyta, kňaza, mučeníkov
+14 m R kolbe : Svätého Maximiliána Máriu Kolbeho, kňaza a mučeníka
+16 stephen_hungary : Svätého Štefana Uhorského
+19 eudes : Svätého Jána Eudes, kňaza
+20 m bernard : Svätého Bernarda, opáta a učiteľa Cirkvi
+21 m pius_x : Svätého Pia X., pápeža
+22 m bvm_queenship : Panny Márie Kráľovnej
+23 rose_lima : Svätej Ruženy Limskej, panny
+24 f bartholomew : Svätého Bartolomeja, apoštola
+25 louis : Svätého Ľudovíta/Svätého Jozefa Kalazanského, kňaza
+27 m monica : Svätej Moniky
+28 m augustine : Svätého Augustína, biskupa a učiteľa Cirkvi
+29 m R baptist_beheading : Mučenícka smrť svätého Jána Krstiteľa
+
+= 9
+3 m gregory_great : Svätého Gregora Veľkého, pápeža a učiteľa Cirkvi
+8 f bvm_birth : Narodenie Panny Márie
+9 claver : Svätého Petra Clavera, kňaza
+12 bvm_name : Najsvätejšieho mena Panny Márie
+13 m john_chrysostom : Svätého Jána Zlatoústeho, biskupa a učiteľa Cirkvi
+14 f R cross : 
+15 m bvm_sorrows : Sedembolestnej Panny Márie, patrónky Slovenska
+16 m R cornelius_cyprian : Svätých Kornélia, pápeža, a Cypriána, biskupa, mučeníkov
+17 bellarmine : Svätého Róberta Bellarmína, biskupa a učiteľa Cirkvi
+19 januarius : Svätého Januára, biskupa a mučeníka
+20 m R korean_martyrs : Svätých Ondreja Kima Taegona, kňaza, Pavla Chonga Hasanga a spoločníkov, mučeníkov
+21 f matthew : Svätého Matúša, apoštola a evanjelistu
+23 m padre_pio : Svätého Pia z Pietrelčiny, kňaza
+26 cosmas_damian : Svätých Kozmu a Damiána, mučeníkov
+27 m vincent_de_paul : Svätého Vincenta de Paul, kňaza
+28 wenceslaus : Svätého Václava, mučeníka/Svätého Vavrinca Ruiza a spoločníkov, mučeníkov
+29 f archangels : Svätých Michala, Gabriela a Rafaela, archanjelov
+30 m jerome : Svätého Hieronyma, kňaza a učiteľa Cirkvi
+
+= 10
+1 m therese_lisieux : Svätej Terézie od Dieťaťa Ježiša (z Lisieux), panny a učiteľky Cirkvi
+2 m guardian_angels : Svätých anjelov strážcov
+4 m francis_assisi : Svätého Františka Assiského
+6 bruno :  Svätého Bruna, kňaza
+7 m bvm_rosary : Ružencovej Panny Márie
+9 denis : Svätého Dionýza, biskupa, a spoločníkov, mučeníkov/Svätého Jána Leonardiho, kňaza
+11 john_xxiii : Svätého Jána XXIII., pápeža
+22 john_paul_ii : Svätého Jána Pavla II., pápeža
+14 callistus_i : Svätého Kalixta I., pápeža a mučeníka
+15 m teresa_avila : Svätej Terézie od Ježiša (z Ávily), panny a učiteľky Cirkvi
+16 hedwig : Svätej Hedvigy, rehoľnice/Svätej Margity Márie Alacoque, panny
+17 m R ignatius_of_antioch : Svätého Ignáca Antiochijského, biskupa a mučeníka
+18 f luke : Svätého Lukáša, evanjelistu
+19 brebeuf_jogues : Svätých Jána de Brébeuf a Izáka Joguesa, kňazov, a ich spoločníkov, mučeníkov/Svätého Pavla z Kríža, kňaza
+23 john_capistrano : Svätého Jána Kapistránskeho, kňaza
+24 claret : Svätého Antona Máriu Clareta, biskupa
+28 f simon_jude : Svätých Šimona a Júdu, apoštolov
+
+= 11
+2 f all_souls : Všetkých verných zosnulých
+3 de_porres : Svätého Martina de Porres, rehoľníka
+4 m borromeo : Svätého Karola Boromejského, biskupa
+9 f lateran_basilica : Výročie posviacky Lateránskej baziliky
+10 m leo_great : Svätého Leva Veľkého, pápeža a učiteľa Cirkvi
+11 m martin : Svätého Martina z Tours, biskupa
+12 m R josaphat : Svätého Jozafáta, biskupa a mučeníka
+15 albert : Svätého Alberta Veľkého, biskupa a učiteľa Cirkvi
+16 margaret_of_scotland : Svätej Margity Škótskej/Svätej Gertrúdy, panny
+17 m elizabeth_of_hungary : Svätej Alžbety Uhorskej, rehoľnice
+18 peter_paul_basilicas : Výročie posviacky bazilík svätého Petra a svätého Pavla, apoštolov
+21 m bvm_presentation : Obetovanie Panny Márie
+22 m R cecilia : Svätej Cecílie, panny a mučenice
+23 clement_i : Svätého Klementa I., pápeža a mučeníka/Svätého Kolumbána, opáta
+24 m R vietnamese_martyrs : Svätého Ondreja Dung-Laka, kňaza, a spoločníkov, mučeníkov
+25 catherine_of_alexandria : Svätej Kataríny Alexandrijskej, panny a mučenice
+30 f andrew : Svätého Ondreja, apoštola
+
+= 12
+3 m francis_xavier : Svätého Františka Xaverského, kňaza
+4 john_damascene : Svätého Jána Damascénskeho, kňaza a učiteľa Cirkvi
+6 nicholas : Svätého Mikuláša, biskupa
+7 m ambrose : Svätého Ambróza, biskupa a učiteľa Cirkvi
+9 juan_diego : Svätého Jána Didaka Cuauhtlatoatzina
+10 bvm_loreto : Preblahoslavenej Panny Márie Loretánskej
+11 damasus_i : Svätého Damaza I., pápeža
+12 bvm_guadalupe : Preblahoslavenej Panny Márie Guadalupskej
+13 m R lucy : Svätej Lucie, panny a mučenice
+14 m john_of_cross : Svätého Jána z Kríža, kňaza a učiteľa Cirkvi
+21 canisius : Svätého Petra Kanízia, kňaza a učiteľa Cirkvi
+23 john_of_kanty : Svätého Jána Kentského, kňaza
+26 f R stephen : Svätého Štefana, prvého mučeníka
+27 f john_evangelist : Svätého Jána, apoštola a evanjelistu
+28 f R innocents : Svätých Neviniatok, mučeníkov
+29 becket : Svätého Tomáša Becketa, biskupa a mučeníka
+31 sylvester_i : Svätého Silvestra I., pápeža

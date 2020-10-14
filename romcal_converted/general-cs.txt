@@ -1,6 +1,6 @@
 ---
 title: General
-locale: en
+locale: cs
 ---
 
 = 1

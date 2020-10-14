@@ -1,0 +1,214 @@
+---
+title: General
+locale: fr
+---
+
+= 1
+2 m basil_gregory : Saints Basile le Grand (✝ 379) et Grégoire de Naziance (✝ 390), Évêques et Docteurs de l’Église
+3 name_jesus : Saint Nom de Jésus
+7 raymond : Saint Raymond de Peñafort, Prêtre (✝ 1275)
+13 hilary : Saint Hilaire de Poitiers, Évêque et Docteur de l’Église (✝ 367)
+17 m anthony_of_egypt : Saint Antoine le Grand, Ermite en Egypte (✝ 356)
+20 fabian : Saint Fabien, Pape et Martyr (✝ 250), et Saint Sébastien, Martyr (✝ v. 284)
+21 m R agnes : Sainte Agnès, Vierge et Martyre (✝ v. 304)
+22 vincent_deacon : Saint Vincent, Diacre et Martyr (✝ 304)
+24 m francis_de_sales : Saint François de Sales, Evêque de Genève et Docteur de l’Église (✝ 1622)
+25 f paul_conversion : Conversion de Saint Paul, Apôtre
+26 m timothy_titus : Saints Timothée et Tite, Évêques, Disciples et compagnons de Saint Paul (1er s.)
+27 merici : Sainte Angèle Mérici, Religieuse, Fondatrice de la Compagnie de Sainte Ursule de Brescia (✝ 1540)
+28 m aquinas : Saint Thomas d’Aquin, Frère prêcheur, Docteur de l’Eglise (✝ 1274)
+31 m bosco : Saint Jean Bosco, Prêtre, Fondateur et Éducateur (✝ 1888)
+
+= 2
+3 blase : Saint Blaise de Sébaste, Évêque et Martyr (✝ 316), ou Saint Anschaire de Brême, Évêque (✝ 865)
+5 m R agatha : Sainte Agathe, Vierge et Martyre en Sicile (✝ 251)
+6 m R paul_miki : Saints Paul Miki et ses compagnons, Martyrs au Japon (✝ 1597)
+8 jerome_emiliani : Saint Jérôme Émilien, Fondateur (✝ 1537), ou Sainte Joséphine Bakhita, Vierge et Religieuse (✝ 1947)
+10 m scholastica : Sainte Scolastique, Moniale, Sœur de Saint Benoît (✝ 543)
+11 bvm_lourdes : Notre-Dame de Lourdes
+14 m cyril_methodius : Saints Cyrille, Moine, et Méthode, Évêque, Apôtres des Slaves au 9ème siècle, Copatrons de l’Europe
+17 servite_founders : Saint Alexis Falconieri et les fondateurs des Servites (✝ 1310)
+21 peter_damian : Saint Pierre Damien, Évêque d’Ostie, Docteur de l’Église (✝ 1072)
+22 f chair_of_peter : Chaire de Saint Pierre, Apôtre
+23 m R polycarp : Saint Polycarpe, Évêque et Martyre (✝ 167)
+
+= 3
+4 casimir : Saint Casimir (✝ 1484)
+7 m R perpetua_felicity : Saintes Perpétue et Félicité, Martyres à Carthage (✝ 203)
+8 john_of_god : Saint Jean de Dieu, Religieux, Fondateur des Frères de la Charité (✝ 1550)
+9 frances_of_rome : Sainte Françoise Romaine, Religieuse (✝ 1440)
+17 patrick : Saint Patrick, Évêque (✝ 461)
+18 cyril_of_jerusalem : Saint Cyrille de Jérusalem, Évêque de Jérusalem, Docteur de l’Église (✝ 387)
+23 turibius : Saint Alphonse Turibe de Mogrovejo, Évêque de Lima (✝ 1606)
+
+= 4
+2 francis_of_paola : Saint François de Paule, Ermite, Fondateur de l’ordre des Minimes (✝ 1507)
+4 isidore : Saint Isidore de Séville, Docteur de l’Eglise, Évêque et Confesseur (✝ 636)
+5 vincent_ferrer : Saint Vincent Ferrier, Prêtre de l’Ordre des Prêcheurs (✝ 1419)
+7 m de_la_salle : Saint Jean-Baptiste de La Salle, Prêtre et Fondateur des Frères des Ecoles Chrétiennes (✝ 1719)
+11 m R stanislaus : Saint Stanislas, Evêque de Cracovie, Martyr (✝ 1079)
+13 R martin_i : Saint Martin Ier, Pape et Martyr (✝ 656)
+21 anselm : Saint Anselme de Cantorbéry, Évêque, docteur de l’Eglise (✝ 1109)
+23 R george : Saint Georges, Martyr (✝ 303) ou Saint Adalbert, Évêque de Prague et Martyr (✝ 997)
+24 R fidelis : Saint Fidèle de Sigmaringen, Prêtre et Martyr (✝ 1622)
+25 f mark : Saint Marc, Évangéliste
+28 peter_chanel : Saint Pierre Chanel, Prêtre et Martyr (✝ 1841), ou Saint Louis-Marie Grignion de Montfort, Prêtre (✝ 1716)
+29 m catherine_of_siena : Sainte Catherine de Sienne, Vierge et Docteur de l’Eglise, Patronne de l’Europe (✝ 1380)
+30 pius_v : Saint Pie V, Pape (✝ 1572)
+
+= 5
+1 joseph_worker : Saint Joseph, Artisan (1er s.)
+2 m athanasius : Saint Athanase, Évêque, Docteur et Père de l’Église (✝ 373)
+3 f philip_james : Saint Philippe et Saint Jacques le Mineur, Apôtres
+12 nereus_achilleus : Saints Nérée et Achillée, Martyrs à Rome (✝ v. 304), ou Saint Pancrace, Martyr à Rome (✝ v. 304)
+13 bvm_fatima : Notre-Dame de Fatima
+14 f matthias : Saint Matthias, Apôtre
+18 john_i : Saint Jean Ier, Pape et Martyr (✝ 526)
+20 bernardine : Saint Bernardin de Sienne, Prêtre (✝ 1444)
+21 magallanes : Saints Cristóbal Magallanes, Prêtre, et ses 24 compagnons, Martyrs Mexicains (✝ 1927)
+22 rita : Sainte Rita da Cascia, Veuve puis Religieuse (✝ 1456)
+25 bede_venerable : Saint Bède le Vénérable, Prêtre et docteur de l’Église (✝ 735), ou Saint Grégoire VII, Pape (✝ 1085), ou Sainte Marie-Madeleine de Pazzi, Vierge de l’Ordre du Carmel (✝ 1607)
+26 m neri : Saint Philippe Néri, Prêtre (✝ 1595)
+27 augustine_of_canterbury : Saint Augustin, Évêque de Cantorbéry en Angleterre (✝ 604)
+31 f visitation : Visitation de la Vierge Marie
+
+= 6
+1 m R justin : Saint Justin, Martyr (✝ 165)
+2 marcellinus_peter : Saints Martyrs Marcellin, Prêtre, et Pierre, Exorciste (✝ 304)
+3 m R ugandan_martyrs : Saints Charles Lwanga et ses douze compagnons, Martyrs (✝ 618)
+5 m R boniface : Saint Boniface, Évêque et Martyr (✝ 754)
+6 norbert : Saint Norbert, Évêque (✝ 1134)
+9 ephrem : Saint Ephrem, Diacre et Docteur de l’Église, (✝ 373)
+11 m barnabas : Saint Barnabé, Apôtre
+13 m anthony_of_padua : Saint Antoine, Prêtre et Docteur de l’Église (✝ 1231)
+19 romuald : Saint Romuald, Anachorète et Père des moines Camaldules (✝ 1027)
+21 m aloysius : Saint Louis de Gonzague, Religieux Jésuite (✝ 1591)
+22 paulinus : Saint Paulin, Évêque (✝ 431), ou Saints Jean Fisher, Évêque, et Thomas More, Martyrs (✝ 1535)
+27 cyril_of_alexandria : Saint Cyrille, Évêque d’Alexandrie et Docteur de l’Église (✝ 444)
+28 m R irenaeus : Saint Irénée, Évêque et Martyr (✝ v. 201)
+30 first_martyrs_of_rome : Premiers Saints martyrs de la Sainte Église romaine (✝ 64)
+4 m mother_of_church : Mary, Mother of The Church
+
+= 7
+3 f thomas_apostle : Saint Thomas, Apôtre
+4 elizabeth_of_portugal : Sainte Elisabeth du Portugal, Reine (✝ 1336)
+5 anthony_zaccaria : Saint Antoine-Marie Zaccaria, Prêtre (✝ 1539)
+6 R goretti : Sainte Maria Goretti, Vierge et Martyre (✝ 1902)
+9 chinese_martyrs : Saints Augustin Zhao Rong et ses compagnons, Martyrs en Chine (entre 1648 et 1930)
+11 m benedict : Saint Benoît de Nursie, Patriarche des moines d’Occident, Fondateur de l’ordre des Bénédictins, Patron de l’Europe (✝ v. 547)
+13 henry : Saint Henri, Empereur Germanique (✝ 1024)
+14 camillus_de_lellis : Saint Camille de Lellis, Prêtre (✝ 1614)
+15 m bonaventure : Saint Bonaventure, Évêque d’Albano et Docteur de l’Église (✝ 1274)
+16 bvm_mount_carmel : Notre-Dame du Mont-Carmel
+20 apollinaris : Saint Apollinaire, Évêque (2ème s.)
+21 lawrence_of_brindisi : Saint Laurent de Brindisi, Prêtre et Docteur de l’Église (✝ 1619)
+22 f mary_magdalene : Sainte Marie-Madeleine, Disciple du Christ (1er s.)
+23 f birgitta : Sainte Brigitte de Suède, Veuve puis Religieuse, Fondatrice de l’ordre du Saint-Sauveur, Copatronne de l’Europe (✝ 1373)
+24 sharbel : Saint Charbel Makhlouf, Moine Prêtre Maronite (✝ 1898)
+25 f james : Saint Jacques le Majeur, Apôtre (✝ 44)
+26 m joachim_anne : Saints Anne et Joachim, Mère et Père de la Vierge Marie (1er siècle)
+29 m martha : Sainte Marthe, Disciple du Christ (1er s.)
+30 peter_chrysologus : Saint Pierre Chrysologue, Évêque de Ravenne et Docteur de l’Église (✝ 451)
+31 m ignatius_of_loyola : Saint Ignace de Loyola, Prêtre, Fondateur de la Compagnie de Jésus (✝ 1556)
+
+= 8
+1 m alphonsus : Saint Alphonse-Marie de Liguori, Bishop and Doctor of the Church
+2 eusebius : Saint Eusèbe de Verceil, Evêque (✝ 371), ou Saint Pierre-Julien Eymard, Prêtre, Fondateur des Pères du Saint-Sacrement (✝ 1868)
+4 m vianney : Saint Jean-Marie Vianney (Curé d’Ars), Prêtre (✝ 1859)
+5 mary_major : Dédicace de la basilique Sainte-Marie Majeure
+7 sixtus_ii : Saint Sixte II, Pape, et ses Diacres, Martyrs (✝ 258), ou Saint Gaétan de Thienne, Prêtre (✝ 1547)
+8 m dominic : Saint Dominique de Guzman, Prêtre, Fondateur de l’Ordre des Frères prêcheurs (✝ 1221)
+9 R stein : Sainte Thérèse-Bénédicte de la Croix (Edith Stein), Carmélite, Martyr en Pologne, Copatronne de l’Europe (✝ 1942)
+10 f R lawrence : Saint Laurent de Rome, Diacre et Martyr (✝ 258)
+11 m clare : Sainte Claire, Vierge
+12 de_chantal : Sainte Jeanne-Françoise de Chantal, Religieuse (✝ 1641)
+13 pontian_hippolytus : Saints Pontien, Pape, et Hippolyte, Prêtre de Rome, Martyrs (✝ 235)
+14 m R kolbe : Saint Maximilien-Marie Kolbe, Prêtre et Martyr (✝ 1941)
+16 stephen_hungary : Saint Etienne, Roi de Hongrie (✝ 1038)
+19 eudes : Saint Jean Eudes, Prêtre (✝ 1680)
+20 m bernard : Saint Bernard de Clairvaux, Abbé, Docteur de l’Église (✝ 1153)
+21 m pius_x : Saint Pie X, Pape (✝ 1914)
+22 m bvm_queenship : Vierge Marie Reine
+23 rose_lima : Sainte Rose de Lima, Vierge (✝ 1617)
+24 f bartholomew : Saint Barthélemy, Apôtre
+25 louis : Saint Louis, Roi de France (✝ 1270), ou Saint Joseph de Calasanz, Prêtre (✝ 1648)
+27 m monica : Sainte Monique, Mère de Saint Augustin d’Hippone (✝ 387)
+28 m augustine : Saint Augustin, Evêque d’Hippone, Docteur de l’Église (✝ 430)
+29 m R baptist_beheading : Martyre de Saint Jean-Baptiste
+
+= 9
+3 m gregory_great : Saint Grégoire le Grand, Pape et Docteur de l’Église (✝ 604)
+8 f bvm_birth : Nativité de la Vierge Marie
+9 claver : Saint Pierre Claver, Prêtre Jésuite (✝ 1654)
+12 bvm_name : Le Saint Nom de Marie
+13 m john_chrysostom : Saint Jean Chrysostome, Évêque de Constantinople et Docteur de l’Église (✝ 407)
+14 f R cross : 
+15 m bvm_sorrows : Notre-Dame des Douleurs
+16 m R cornelius_cyprian : Saints Martyrs Corneille, Pape, et Cyprien, Évêque (3ème s.)
+17 bellarmine : Saint Robert Bellarmin, Jésuite, Évêque et Docteur de l’Eglise (✝ 1621)
+19 januarius : Saint Janvier, Évêque de Bénévent et Martyr (✝ 305)
+20 m R korean_martyrs : Saint André Kim Taegon, Prêtre, et Paul Chong Ha-sang et ses compagnons, Martyrs en Corée (19ème s.)
+21 f matthew : Saint Matthieu, Apôtre et Évangéliste
+23 m padre_pio : Saint Pio de Pietrelcina (Padre Pio), Prêtre Capucin (✝ 1968)
+26 cosmas_damian : Saints Côme et Damien, Martyrs (3ème s.)
+27 m vincent_de_paul : Saint Vincent de Paul, Prêtre, Fondateur de la congrégation de la Mission et des Filles de la Charité (✝ 1660)
+28 wenceslaus : Saint Venceslas, Martyr (✝ 929), ou Saints Laurent Ruiz et 15 compagnons, Martyrs à Nagasaki au Japon (✝ v. 1635)
+29 f archangels : Saints Michel, Gabriel and Raphaël, Archanges
+30 m jerome : Saint Jérôme, Père et Docteur de l’Église (✝ 420)
+
+= 10
+1 m therese_lisieux : Sainte Thérèse de l’Enfant-Jésus, Vierge et Docteur de l’Église (✝ 1897)
+2 m guardian_angels : Saints Anges gardiens
+4 m francis_assisi : Saint François d’Assise, Fondateur de l’ordre des Frères mineurs (✝ 1226)
+6 bruno : Saint Bruno, Prêtre, Fondateur des Chartreux (✝ 1101)
+7 m bvm_rosary : Notre-Dame du Rosaire
+9 denis : Saint Denis, Évêque, et ses compagnons, martyrs à Paris (3ème s.), ou Saint Jean Léonardi, Prêtre (✝ 1609))
+11 john_xxiii : Saint Jean XXIII, Pape (✝ 1963)
+22 john_paul_ii : Saint Jean Paul II, Pape (✝ 2005)
+14 callistus_i : Saint Calixte Ier, Pape et Martyr (✝ 222)
+15 m teresa_avila : Sainte Thérèse de Jésus (d’Avila), Vierge et Docteur de l’Église (✝ 1582)
+16 hedwig : Sainte Edwige de Silésie, Veuve puis Religieuse (✝ 1243), ou Sainte Marguerite-Marie Alacoque, Visitandine à Paray-le-Monial (✝ 1690)
+17 m R ignatius_of_antioch : Saint Ignace d’Antioche, Évêque et Martyr, Père et Docteur de l’Eglise (✝ 115)
+18 f luke : Saint Luc, Évangéliste
+19 brebeuf_jogues : Saints Jean de Brébeuf, Isaac Jogues, Prêtres Jésuites, et leurs compagnons, Martyrs (17ème siècle), ou Saint Paul de la Croix, Prêtre (✝ 1776)
+23 john_capistrano : Saint Jean de Capistran, Prêtre de l’Ordre des Mineurs (✝ 1456)
+24 claret : Saint Antoine-Marie Claret, Évêque (✝ 1870)
+28 f simon_jude : Saint Simon (le Zélote) et Saint Jude (Thaddée), Apôtres
+
+= 11
+2 f all_souls : Commémoration de tous les fidèles défunts
+3 de_porres : Saint Martin de Porrès, Religieux Dominicain à Lima (✝ 1639)
+4 m borromeo : Saint Charles Borromée, Archevêque de Milan (✝ 1584)
+9 f lateran_basilica : Dédicace de la Basilique du Latran
+10 m leo_great : Saint Léon le Grand, Pape et Docteur de l’Église
+11 m martin : Saint Martin de Tours, Evêque (✝ 397)
+12 m R josaphat : Saint Josaphat Kuntsevych, Évêque Basilien et Martyr (✝ 1623)
+15 albert : Saint Albert le Grand, Frère prêcheur, Évêque de Ratisbonne, Docteur de l’Eglise (✝ 1280)
+16 margaret_of_scotland : Sainte Marguerite d’Ecosse (✝ 1093), ou Sainte Gertrude, Vierge Moniale (✝ 1301)
+17 m elizabeth_of_hungary : Sainte Élisabeth de Hongrie (✝ 1231)
+18 peter_paul_basilicas : Dédicace des basiliques de Saint Pierre et Saint Paul, Apôtres, à Rome
+21 m bvm_presentation : Présentation de la Vierge Marie
+22 m R cecilia : Sainte Cécile, Vierge et Martyre à Rome (✝ 230)
+23 clement_i : Saint Clément Ier, Pape et Martyr (✝ 97), ou Saint Colomban, Religieux (✝ 615)
+24 m R vietnamese_martyrs : Saint André Dung Lac, Prêtre, et ses compagnons, Martyrs (✝ entre 1745 et 1862)
+25 catherine_of_alexandria : Sainte Catherine d’Alexandrie, Vierge et Martyre (4ème s.)
+30 f andrew : Saint André, Apôtre
+
+= 12
+3 m francis_xavier : Saint François-Xavier, Prêtre, Jésuite Missionnaire (✝ 1552)
+4 john_damascene : Saint Jean Damascène, Prêtre et Docteur de l’Église (✝ 749)
+6 nicholas : Saint Nicolas, Évêque de Myre (✝ v. 350)
+7 m ambrose : Saint Ambroise, Évêque de Milan et Docteur de l’Église (✝ 397)
+9 juan_diego : Saint Juan Diego Cuauhtlatoatzin (✝ 1548)
+10 bvm_loreto : Our Lady of Loreto
+11 damasus_i : Saint Damase Ier, Pape (✝ 384)
+12 bvm_guadalupe : Notre-Dame de Guadalupe
+13 m R lucy : Sainte Lucie de Syracuse, Vierge et Martyre en Sicile (✝ v. 305)
+14 m john_of_cross : Saint Jean de la Croix, Prêtre et Docteur de l’Église (✝ 1591)
+21 canisius : Saint Pierre Canisius, Prêtre et Docteur de l’Église (✝ 1597)
+23 john_of_kanty : Saint Jean de Kenty, Prêtre (✝ 1473)
+26 f R stephen : Saint Étienne, Diacre et Premier Martyr (✝ 35)
+27 f john_evangelist : Saint Jean, Apôtre et Évangéliste
+28 f R innocents : Saints Innocents, Martyrs (1er s.)
+29 becket : Saint Thomas Becket, Évêque et Martyr (✝ 1170)
+31 sylvester_i : Saint Sylvestre Ier, Pape (✝ 335)

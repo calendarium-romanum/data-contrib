@@ -1,0 +1,214 @@
+---
+title: General
+locale: it
+---
+
+= 1
+2 m basil_gregory : Santi Basilio Magno e Gregorio Nazianzeno, vescovi e dottori della Chiesa
+3 name_jesus : Santissimo Nome di Gesú
+7 raymond : San Raimondo di Peñafort, sacerdote
+13 hilary : Sant’Ilario, vescovo e dottore della Chiesa
+17 m anthony_of_egypt : Sant'Antonio, abate
+20 fabian : San Fabiano, papa, e San Sebastiano, martire
+21 m R agnes : Sant'Agnese, vergine e martire
+22 vincent_deacon : San Vincenzo, diacono e martire
+24 m francis_de_sales : San Francesco di Sales, vescovo e dottore della Chiesa
+25 f paul_conversion : Conversione di San Paolo apostolo
+26 m timothy_titus : Santi Timoteo e Tito, vescovi
+27 merici : Sant'Angela Merici, vergine
+28 m aquinas : San Tommaso d'Aquino, sacerdote e dottore della Chiesa
+31 m bosco : San Giovanni Bosco, sacerdote
+
+= 2
+3 blase : San Biagio, vescovo e martire / Sant’Ansgario, vescovo
+5 m R agatha : Sant'Agata, vergine e martire
+6 m R paul_miki : San Paolo Miki sacerdote e compagni, martiri
+8 jerome_emiliani : San Girolamo Emiliani / Santa Giuseppina Bakhita, vergine
+10 m scholastica : Santa Scolastica, vergine
+11 bvm_lourdes : Beata Vergine Maria di Lourdes
+14 m cyril_methodius : Santi Cirillo, monaco e Metodio, vescovo, patroni d'Europa
+17 servite_founders : Santi Sette Fondatori dei Servi della Beata Vergine Maria
+21 peter_damian : San Pier Damiani, vescovo e dottore della Chiesa
+22 f chair_of_peter : Cattedra di San Pietro apostolo
+23 m R polycarp : San Policarpo, vescovo e martire
+
+= 3
+4 casimir : San Casimiro
+7 m R perpetua_felicity : Sante Perpetua e Felicita, martiri
+8 john_of_god : San Giovanni di Dio, religioso
+9 frances_of_rome : Santa Francesca Romana, religiosa
+17 patrick : San Patrizio, vescovo
+18 cyril_of_jerusalem : San Cirillo di Gerusalemme, vescovo e dottore della Chiesa
+23 turibius : San Turibio de Mogrovejo, vescovo
+
+= 4
+2 francis_of_paola : San Francesco da Paola, eremita
+4 isidore : Sant'Isidoro, vescovo e dottore della Chiesa
+5 vincent_ferrer : San Vincenzo Ferrer, sacerdote
+7 m de_la_salle : San Giovanni Battista de La Salle, sacerdote
+11 m R stanislaus : Santo Stanislao, vescovo e martire
+13 R martin_i : San Martino I, papa e martire
+21 anselm : Sant'Anselmo, vescovo e dottore della Chiesa
+23 R george : San Giorgio, martire / Sant'Adalberto, vescovo e martire
+24 R fidelis : San Fedele da Sigmaringen, sacerdote e martire 
+25 f mark : San Marco, evangelista
+28 peter_chanel : San Pietro Chanel, sacerdote e martire / San Luigi Maria Grignion de Montfort, sacerdote
+29 m catherine_of_siena : Santa Caterina da Siena, vergine e dottore della Chiesa, patrona d'Italia e d'Europa
+30 pius_v : San Pio V, papa
+
+= 5
+1 joseph_worker : San Giuseppe lavoratore
+2 m athanasius : Sant'Atanasio, vescovo e dottore della Chiesa
+3 f philip_james : Santi Filippo e Giacomo, apostoli
+12 nereus_achilleus : Santi Nereo e Achilleo, martiri / San Pancrazio, martire
+13 bvm_fatima : Beata Vergine Maria di Fatima
+14 f matthias : San Mattia, apostolo
+18 john_i : San Giovanni I, papa e martire
+20 bernardine : San Bernardino da Siena, sacerdote
+21 magallanes : Santi Cristoforo Magallanes, sacerdote, e compagni, martiri
+22 rita : Santa Rita da Cascia, religiosa
+25 bede_venerable : San Beda Venerabile, sacerdote e dottore della Chiesa / San Gregorio VII, papa / Santa Maria Maddalena de’ Pazzi, vergine
+26 m neri : San Filippo Neri, sacerdote
+27 augustine_of_canterbury : Sant'Agostino di Canterbury, vescovo
+31 f visitation : Visitazione della Beata Vergine Maria
+
+= 6
+1 m R justin : San Giustino, martire
+2 marcellinus_peter : Santi Marcellino e Pietro, martiri
+3 m R ugandan_martyrs : San Carlo Lwanga e compagni, martiri
+5 m R boniface : San Bonifacio, vescovo e martire
+6 norbert : San Norberto, vescovo
+9 ephrem : Sant’Efrem, diacono e dottore della Chiesa
+11 m barnabas : San Barnaba, apostolo
+13 m anthony_of_padua : Sant'Antonio di Padova, sacerdote e dottore della Chiesa
+19 romuald : San Romualdo, abate
+21 m aloysius : San Luigi Gonzaga, religioso
+22 paulinus : San Paolino di Nola, vescovo / Santi Giovanni Fisher, vescovo e Tommaso More, martiri
+27 cyril_of_alexandria : San Cirillo di Alessandria, vescovo e dottore della Chiesa
+28 m R irenaeus : Sant'Ireneo, vescovo e martire
+30 first_martyrs_of_rome : Santi Primi Martiri della Chiesa Romana
+4 m mother_of_church : Beata Vergine Maria Madre della Chiesa
+
+= 7
+3 f thomas_apostle : San Tommaso, apostolo
+4 elizabeth_of_portugal : Santa Elisabetta di Portogallo
+5 anthony_zaccaria : Sant'Antonio Maria Zaccaria, sacerdote
+6 R goretti : Santa Maria Goretti, vergine e martire
+9 chinese_martyrs : Santi Agostino Zhao Rong, sacerdote, e compagni, martiri
+11 m benedict : San Benedetto, abate, patrono d'Europa
+13 henry : Sant'Enrico
+14 camillus_de_lellis : San Camillo de Lellis, sacerdote
+15 m bonaventure : San Bonaventura, vescovo e dottore della Chiesa
+16 bvm_mount_carmel : Beata Vergine Maria del Carmelo
+20 apollinaris : Sant'Apollinare, vescovo e martire
+21 lawrence_of_brindisi : San Lorenzo da Brindisi, sacerdote e dottore della Chiesa
+22 f mary_magdalene : Santa Maria Maddalena
+23 f birgitta : Santa Brigida, religiosa, patrona d'Europa
+24 sharbel : San Charbel Makhluf, sacerdote
+25 f james : San Giacomo, apostolo
+26 m joachim_anne : Santi Gioacchino e Anna, genitori della Beata Vergine Maria
+29 m martha : Santa Marta
+30 peter_chrysologus : San Pietro Crisologo, vescovo e dottore della Chiesa
+31 m ignatius_of_loyola : Sant'Ignazio di Loyola, sacerdote
+
+= 8
+1 m alphonsus : Sant'Alfonso Maria de Liguori, vescovo e dottore della Chiesa
+2 eusebius : Sant'Eusebio di Vercelli, vescovo / San Pietro Giuliano Eymard, sacerdote
+4 m vianney : San Giovanni Maria Vianney, sacerdote
+5 mary_major : Dedicazione della Basilica di Santa Maria Maggiore
+7 sixtus_ii : San Sisto II, papa e compagni, martiri / San Gaetano, sacerdote
+8 m dominic : San Domenico, sacerdote
+9 R stein : Santa Teresa Benedetta della Croce, vergine e martire, patrona d'Europa
+10 f R lawrence : San Lorenzo, diacono e martire
+11 m clare : Santa Chiara, vergine
+12 de_chantal : Santa Giovanna Francesca de Chantal, religiosa
+13 pontian_hippolytus : Santi Ponziano, papa e Ippolito, sacerdote, martiri
+14 m R kolbe : San Massimiliano Maria Kolbe, sacerdote e martire
+16 stephen_hungary : Santo Stefano di Ungheria
+19 eudes : San Giovanni Eudes, sacerdote
+20 m bernard : San Bernardo, abate e dottore della Chiesa
+21 m pius_x : San Pio X, papa
+22 m bvm_queenship : Beata Vergine Maria regina
+23 rose_lima : Santa Rosa da Lima, vergine
+24 f bartholomew : San Bartolomeo, apostolo
+25 louis : San Ludovico / San Giuseppe Calasanzio, sacerdote
+27 m monica : Santa Monica
+28 m augustine : Sant'Agostino, vescovo e dottore della Chiesa
+29 m R baptist_beheading : Martirio di San Giovanni Battista
+
+= 9
+3 m gregory_great : San Gregorio Magno, papa e dottore della Chiesa
+8 f bvm_birth : Nativitá della Beata Vergine Maria
+9 claver : San Pietro Claver, sacerdote
+12 bvm_name : Santissimo Nome di Maria
+13 m john_chrysostom : San Giovanni Crisostomo, vescovo e dottore della Chiesa
+14 f R cross : 
+15 m bvm_sorrows : Beata Vergine Maria Addolorata
+16 m R cornelius_cyprian : Santi Cornelio, papa e Cipriano, vescovo, martiri
+17 bellarmine : San Roberto Bellarmino, vescovo e dottore della Chiesa
+19 januarius : San Gennaro, vescovo e martire
+20 m R korean_martyrs : Sant Andrea Kim Taegon, Paolo Chong Hasang e compagni, martiri
+21 f matthew : San Matteo, apostolo ed evangelista
+23 m padre_pio : San Pio da Pietrelcina, sacerdote
+26 cosmas_damian : Santi Cosma e Damiano, martiri
+27 m vincent_de_paul : San Vincenzo de' Paoli, sacerdote
+28 wenceslaus : San Venceslao, martire / Santi Lorenzo Ruiz e compagni, martiri
+29 f archangels : Santi Arcangeli Michele, Gabriele e Raffaele
+30 m jerome : San Girolamo, sacerdote e dottore della Chiesa
+
+= 10
+1 m therese_lisieux : Santa Teresa di Gesu' Bambino, vergine e dottore della Chiesa
+2 m guardian_angels : Santi Angeli Custodi
+4 m francis_assisi : San Francesco d'Assisi, patrono d'Italia
+6 bruno : San Bruno, sacerdote
+7 m bvm_rosary : Beata Vergine Maria del Rosario
+9 denis : San Dionigi, vescovo e compagni, martiri / San Giovanni Leonardi, sacerdote
+11 john_xxiii : San Giovanni XXIII, papa
+22 john_paul_ii : San Giovanni Paolo II, papa
+14 callistus_i : San Callisto I, papa e martire
+15 m teresa_avila : Santa Teresa d'Avila, vergine e dottore della Chiesa
+16 hedwig : Santa Edvige, religiosa / Santa Margherita Maria Alacoque, vergine
+17 m R ignatius_of_antioch : Sant'Ignazio di Antiochia, vescovo e martire
+18 f luke : San Luca, evangelista
+19 brebeuf_jogues : Santi Giovanni de Brébeuf e Isacco Jogues, sacerdoti e compagni, martiri / San Paolo della Croce, sacerdote
+23 john_capistrano : San Giovanni da Capestrano, sacerdote
+24 claret : Sant'Antonio Marla Claret, vescovo
+28 f simon_jude : Santi Simone e Giuda, apostoli
+
+= 11
+2 f all_souls : Commemorazione di tutti i fedeli defunti
+3 de_porres : San Martino di Porres, religioso
+4 m borromeo : San Carlo Borromeo, vescovo
+9 f lateran_basilica : Dedicazione della basilica Lateranense
+10 m leo_great : San Leone Magno, papa e dottore della Chiesa
+11 m martin : San Martino di Tours, vescovo
+12 m R josaphat : San Giosafat, vescovo e martire
+15 albert : Sant'Alberto Magno, vescovo e dottore della Chiesa
+16 margaret_of_scotland : Santa Margherita di Scozia / Santa Geltrude, vergine
+17 m elizabeth_of_hungary : Sant'Elisabetta di Ungheria, religiosa
+18 peter_paul_basilicas : Dedicazione delle Basiliche dei Santi Pietro e Paolo apostoli
+21 m bvm_presentation : Presentazione della Beata Vergine Maria
+22 m R cecilia : Santa Cecilia, vergine e martire
+23 clement_i : San Clemente I, papa e martire / San Colombano, abate
+24 m R vietnamese_martyrs : Santi Andrea Dung-Lac, sacerdote e compagni, martiri
+25 catherine_of_alexandria : Santa Caterina di Alessandria, vergine e martire
+30 f andrew : Sant'Andrea, apostolo
+
+= 12
+3 m francis_xavier : San Francesco Saverio, sacerdote
+4 john_damascene : San Giovanni Damasceno, sacerdote e dottore della Chiesa
+6 nicholas : San Nicola, vescovo
+7 m ambrose : Sant'Ambrogio, vescovo e dottore della Chiesa
+9 juan_diego : San Giovanni Diego Cuauhtlatoatzin
+10 bvm_loreto : Our Lady of Loreto
+11 damasus_i : San Damaso I, papa
+12 bvm_guadalupe : Beata Vergine Maria di Guadalupe
+13 m R lucy : Santa Lucia, vergine e martire
+14 m john_of_cross : San Giovanni della Croce, sacerdote e dottore della Chiesa
+21 canisius : San Pietro Canisio, sacerdote e dottore della Chiesa
+23 john_of_kanty : San Giovanni da Keti, sacerdote
+26 f R stephen : Santo Stefano, primo martire
+27 f john_evangelist : San Giovanni, apostolo ed evangelista
+28 f R innocents : Santi Innocenti, martiri
+29 becket : San Tommaso Becket, vescovo e martire
+31 sylvester_i : San Silvestro I, papa

@@ -1,0 +1,214 @@
+---
+title: General
+locale: pl
+---
+
+= 1
+2 m basil_gregory : Świętych Bazylego Wielkiego i Grzegorza z Nazjanzu, biskupów i doktorów Kościoła
+3 name_jesus : Najświętszego Imienia Jezus
+7 raymond : Św. Rajmunda z Penyafort, prezbitera
+13 hilary : Św. Hilarego, biskupa i doktora Kościoła
+17 m anthony_of_egypt : Św. Antoniego, opata
+20 fabian : Św. Fabiana, papieża i męczennika/Św. Sebastiana, męczennika
+21 m R agnes : Św. Agnieszki, dziewicy i męczennicy
+22 vincent_deacon : Św. Wincentego, diakona i męczennika
+24 m francis_de_sales : Św. Franciszka Salezego, biskupa i doktora Kościoła
+25 f paul_conversion : Nawrócenie św. Pawła, Apostoła
+26 m timothy_titus : Świętych biskupów Tymoteusza i Tytusa
+27 merici : Św. Anieli Merici, dziewicy
+28 m aquinas : Św. Tomasza z Akwinu, prezbitera i doktora Kościoła
+31 m bosco : Św. Jana Bosko, prezbitera
+
+= 2
+3 blase : Św. Błażeja, biskupa i męczennika/Św. Ansgara, biskupa
+5 m R agatha : Św. Agaty, dziewicy i męczennicy
+6 m R paul_miki : Świętych męczenników Pawła Miki i Towarzyszy
+8 jerome_emiliani : Św. Hieronima Emilianiego/Św. Józefiny Bakhity, dziewicy
+10 m scholastica : Św. Scholastyki, dziewicy
+11 bvm_lourdes : Najświętszej Maryi Panny z Lourdes
+14 m cyril_methodius : Świętych Cyryla, mnicha i Metodego, biskupa, patronów Europy
+17 servite_founders : Świętych siedmiu założycieli Zakonu Serwitów Najświętszej Maryi Panny
+21 peter_damian : Św. Piotra Damianiego, biskupa i doktora Kościoła
+22 f chair_of_peter : Katedry św. Piotra, Apostoła
+23 m R polycarp : Św. Polikarpa, biskupa i męczennika
+
+= 3
+4 casimir : Św. Kazimierza
+7 m R perpetua_felicity : Świętych męczennic Perpetuy i Felicyty
+8 john_of_god : Św. Jana Bożego, zakonnika
+9 frances_of_rome : Św. Franciszki Rzymianki, zakonnicy
+17 patrick : Św. Patryka, biskupa
+18 cyril_of_jerusalem : Św. Cyryla Jerozolimskiego, biskupa i doktora Kościoła
+23 turibius : Św. Turybiusza z Mongrovejo, biskupa
+
+= 4
+2 francis_of_paola : Św. Franciszka z Paoli, pustelnika
+4 isidore : Św. Izydora, biskupa i doktora Kościoła
+5 vincent_ferrer : Św. Wincentego Ferreriusza, prezbitera
+7 m de_la_salle : Św. Jana Chrzciciela de la Salle, prezbitera
+11 m R stanislaus : Św. Stanisława, biskupa i męczennika, głównego patrona Polski
+13 R martin_i : Św. Marcina I, papieża i męczennika
+21 anselm : Św. Anzelma, biskupa i doktora Kościoła
+23 R george : Św. Grzegorza, męczennika/Św. Wojciecha, biskupa i męczennika
+24 R fidelis : Św. Fidelisa z Sigmaringen, prezbitera i męczennika
+25 f mark : Św. Marka, Ewangelisty
+28 peter_chanel : Św. Piotra Chanela, prezbitera i męczennika/Św. Ludwika Marii Grignion de Montfort, prezbitera
+29 m catherine_of_siena : Św. Katarzyny Sieneńskiej, dziewicy i doktora Kościoła, patronki Europye
+30 pius_v : Św. Piusa V, papieża
+
+= 5
+1 joseph_worker : Św. Józefa, rzemieślnika
+2 m athanasius : Św. Atanazego, biskupa i doktora Kościoła
+3 f philip_james : Świętych Apostołów Filipa i Jakuba
+12 nereus_achilleus : Świętych męczenników Nereusza i Achillesa/Św. Pankracego, męczennika
+13 bvm_fatima : Najświętszej Maryi Panny z Fatimy
+14 f matthias : Św. Macieja, Apostoła
+18 john_i : Św. Jana I, papieża i męczennika
+20 bernardine : Św. Bernardyna ze Sieny, prezbitera
+21 magallanes : Świętych męczenników Krzysztofa Magallanesa, prezbitera, i Towarzyszy
+22 rita : Św. Rity z Cascii, zakonnicy
+25 bede_venerable : Św. Bedy Czcigodnego, prezbitera i doktora Kościoła/Św. Grzegorza VII, papieża/Św. Marii Magdaleny de Pazzi, dziewicy
+26 m neri : Św. Filipa Nereusza, prezbitera
+27 augustine_of_canterbury : Św. Augustyna z Canterbury, biskupa
+31 f visitation : Nawiedzenie Najświętszej Maryi Panny
+
+= 6
+1 m R justin : Św. Justyna, męczennika
+2 marcellinus_peter : Świętych męczenników Marcelina i Piotra
+3 m R ugandan_martyrs : Świętych męczenników Karola Lwangi i Towarzyszy
+5 m R boniface : Św. Bonifacego, biskupa i męczennika
+6 norbert : Św. Norberta, biskupa
+9 ephrem : Św. Efrema, diakona i doktora Kościoła
+11 m barnabas : Św. Barnaby, Apostoła
+13 m anthony_of_padua : Św. Antoniego z Padwy, prezbitera i doktora Kościoła
+19 romuald : Św. Romualda, opata
+21 m aloysius : Św. Alojzego Gonzagi, zakonnika
+22 paulinus : Św. Paulina z Noli, biskupa/Świętych męczenników Jana Fishera, biskupa i Tomasza More’a
+27 cyril_of_alexandria : Św. Cyryla Aleksandryjskiego, biskupa i doktora Kościoła
+28 m R irenaeus : Św. Ireneusza, biskupa i męczennika
+30 first_martyrs_of_rome : Świętych Pierwszych Męczenników Św. Kościoła Rzymskiego
+4 m mother_of_church : Najświętszej Maryi Panny, Matki Kościoła
+
+= 7
+3 f thomas_apostle : Św. Tomasza, Apostoła
+4 elizabeth_of_portugal : Św. Elżbiety Portugalskiej
+5 anthony_zaccaria : Św. Antoniego Marii Zaccarii, prezbitera
+6 R goretti : Św. Marii Goretti, dziewicy i męczennicy
+9 chinese_martyrs : Świętych męczenników Augustyna Zhao Rong, prezbitera, i Towarzyszy
+11 m benedict : Św. Benedykta, opata, patrona Europy
+13 henry : Św. Henryka, cesarza
+14 camillus_de_lellis : Św. Kamila de Lellis, prezbitera
+15 m bonaventure : Św. Bonawentury, biskupa i doktora Kościoła
+16 bvm_mount_carmel : Najświętszej Maryi Panny z Góry Karmel
+20 apollinaris : Św. Apolinarego, biskupa i męczennika
+21 lawrence_of_brindisi : Św. Wawrzyńca z Brindisi, prezbitera i doktora Kościoła
+22 f mary_magdalene : Św. Marii Magdaleny
+23 f birgitta : Św. Brygidy, zakonnicy, patronki Europy
+24 sharbel : Św. Sarbeliusza Makluf, prezbitera
+25 f james : Św. Jakuba, Apostoła
+26 m joachim_anne : Świętych Rodziców NMP Joachima i Anny
+29 m martha : Św. Marty
+30 peter_chrysologus : Św. Piotra Chryzologa, biskupa i doktora Kościoła
+31 m ignatius_of_loyola : Św. Ignacego z Loyoli, prezbitera
+
+= 8
+1 m alphonsus : Św. Alfonsa Marii Liguoriego, biskupa i doktora Kościoła
+2 eusebius : Św. Euzebiusza z Vercelii, biskupa/Św. Piotra Juliani Eymarda, prezbitera
+4 m vianney : Św. Jana Marii Vianneya, prezbitera
+5 mary_major : Rocznica poświęcenia rzymskiej Bazyliki Najświętszej Maryi Panny
+7 sixtus_ii : Świętych męczenników Sykstusa II, papieża, i Towarzyszy/Św. Kajetana, prezbitera
+8 m dominic : Św. Dominika, prezbitera
+9 R stein : Św. Teresy Benedykty od Krzyża, dziewicy i męczennicy, patronki Europy
+10 f R lawrence : Św. Wawrzyńca, diakona i męczennika
+11 m clare : Św. Klary, dziewicy
+12 de_chantal : Św. Joanny Franciszki de Chantal, zakonnicy
+13 pontian_hippolytus : Świętych męczenników Poncjana, papieża i Hipolita, prezbiteras
+14 m R kolbe : Św. Maksymiliana Marii Kolbego, prezbitera i męczennika
+16 stephen_hungary : Św. Stefana Węgierskiego
+19 eudes : Św. Jana Eudesa, prezbitera
+20 m bernard : Św. Bernarda, opata i doktora Kościoła
+21 m pius_x : Św. Piusa X, papieża
+22 m bvm_queenship : Najświętszej Maryi Panny, Królowej
+23 rose_lima : Św. Róży z Limy, dziewicy
+24 f bartholomew : Św. Bartłomieja, Apostoła
+25 louis : Św. Ludwika/Św. Józefa Kalasantego, prezbitera
+27 m monica : Św. Moniki
+28 m augustine : Św. Augustyna, biskupa i doktora Kościoła
+29 m R baptist_beheading : Męczeństwo św. Jana Chrzciciela
+
+= 9
+3 m gregory_great : Św. Grzegorza Wielkiego, papieża i doktora Kościoła
+8 f bvm_birth : Narodzenie Najświętszej Maryi Panny
+9 claver : Św. Piotra Klawera, prezbitera
+12 bvm_name : Najświętszego Imienia Maryi
+13 m john_chrysostom : Św. Jana Chryzostoma, biskupa i doktora Kościoła
+14 f R cross : 
+15 m bvm_sorrows : Najświętszej Maryi Panny Bolesnej
+16 m R cornelius_cyprian : Świętych męczenników Korneliusza, papieża, i Cypriana, biskupa
+17 bellarmine : Św. Roberta Bellarmina, biskupa i doktora Kościoła
+19 januarius : Św. Januarego, biskupa i męczennika
+20 m R korean_martyrs : Świętych męczenników Andrzeja Kim Taegon, prezbitera, Pawła Chong Hasang i Towarzyszy
+21 f matthew : Św. Mateusza, Apostoła i Ewangelisty
+23 m padre_pio : Św. Pio z Pietrelciny, prezbitera
+26 cosmas_damian : Świętych męczenników Kosmy i Damiana
+27 m vincent_de_paul : Św. Wincentego à Paulo, prezbitera
+28 wenceslaus : Św. Wacława, męczennika/Świętych męczenników Wawrzyńca Ruiz i Towarzyszy
+29 f archangels : Świętych Archaniołów Michała, Gabriela i Rafała
+30 m jerome : Św. Hieronima, prezbitera i doktora Kościoła
+
+= 10
+1 m therese_lisieux : Św. Teresy od Dzieciątka Jezus, dziewicy i doktora Kościoła
+2 m guardian_angels : Świętych Aniołów Stróżów
+4 m francis_assisi : Św. Franciszka z Asyżu
+6 bruno : Św. Brunona, prezbitera
+7 m bvm_rosary : Najświętszej Maryi Panny Różańcowej
+9 denis : Świętych męczenników Dionizego, biskupa, i Towarzyszy/Św. Jana Leonardiego, prezbitera
+11 john_xxiii : Św. Jana XXIII, papieża
+22 john_paul_ii : Św. Jana Pawła II, papieża
+14 callistus_i : Św. Kaliksta I, papieża i męczennika
+15 m teresa_avila : Św. Teresy od Jezusa, dziewicy i doktora Kościoła
+16 hedwig : Św. Jadwigi Śląskiej/Św. Małgorzaty Marii Alacoque, dziewicy
+17 m R ignatius_of_antioch : Św. Ignacego Antiocheńskiego, biskupa i męczennika
+18 f luke : Św. Łukasza, Ewangelisty
+19 brebeuf_jogues : Świętych męczenników Jana de Brebeuf, Izaaka Jogues’a, prezbiterów oraz Towarzyszy/Św. Pawła od Krzyża, prezbitera
+23 john_capistrano : Św. Jana Kapistrana, prezbitera
+24 claret : Św. Antoniego Marii Clareta, biskupa
+28 f simon_jude : Świętych Apostołów Szymona i Judy Tadeusza
+
+= 11
+2 f all_souls : Wspomnienie wszystkich wiernych zmarłych
+3 de_porres : Św. Marcina de Porres, zakonnika
+4 m borromeo : Św. Karola Boromeusza, biskupa
+9 f lateran_basilica : Rocznica poświęcenia Bazyliki Laterańskiej
+10 m leo_great : Św. Leona Wielkiego, papieża i doktora Kościoła
+11 m martin : Św. Marcina z Tours, biskupa
+12 m R josaphat : Św. Jozafata, biskupa i męczennika
+15 albert : Św. Alberta Wielkiego, biskupa i doktora Kościoła
+16 margaret_of_scotland : Św. Małgorzaty Szkockiej/Św. Gertrudy, dziewicy
+17 m elizabeth_of_hungary : Św. Elżbiety Węgierskiej, zakonnicy
+18 peter_paul_basilicas : Rocznica poświęcenia rzymskich bazylik świętych apostołów Piotra i Pawła
+21 m bvm_presentation : Ofiarowanie Najświętszej Maryi Panny
+22 m R cecilia : Św. Cecylii, dziewicy i męczennicy
+23 clement_i : Św. Klemensa I, papieża i męczennika/Św. Kolumbana, zakonnika
+24 m R vietnamese_martyrs : Świętych męczenników Andrzeja Dung-Lac, prezbitera, i Towarzyszy
+25 catherine_of_alexandria : Św. Katarzyny Aleksandryjskiej, dziewicy i męczennicy
+30 f andrew : Św. Andrzeja, Apostoła
+
+= 12
+3 m francis_xavier : Św. Franciszka Ksawerego, prezbitera
+4 john_damascene : Św. Jana Damasceńskiego, prezbitera i doktora Kościoła
+6 nicholas : Św. Mikołaja, biskupa
+7 m ambrose : Św. Ambrożego, biskupa i doktora Kościoła
+9 juan_diego : Św. Jana Diego Cuahtlatoatzin
+10 bvm_loreto : Najświętszej Maryi Panny Loretańskiej
+11 damasus_i : Św. Damazego I, papieża
+12 bvm_guadalupe : Najświętszej Maryi Panny z Guadalupe
+13 m R lucy : Św. Łucji, dziewicy i męczennicy
+14 m john_of_cross : Św. Jana od Krzyża, prezbitera i doktora Kościoła
+21 canisius : Św. Piotra Kanizjusza, prezbitera i doktora Kościoła
+23 john_of_kanty : Św. Jana Kantego, prezbitera
+26 f R stephen : Św. Szczepana, pierwszego męczennika
+27 f john_evangelist : Św. Jana, Apostoła i Ewangelisty
+28 f R innocents : Św. Młodzianków, męczenników
+29 becket : Św. Tomasza Becketa, biskupa i męczennika
+31 sylvester_i : Św. Sylwestra I, papieża

@@ -1,0 +1,53 @@
+---
+title: Czech Republic
+locale: en
+parent: general-en.txt
+---
+
+= 1
+18 m3.11 our_lady_mother_of_christian_unity : Our Lady, Mother of Christian Unity
+
+= 4
+23 m3.11 R adalbert : Saint Wojciech (Adalbert of Prague), Bishop and Martyr
+29 f2.8 catherine_of_siena : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+30 sigismund : Saint Sigismund, Martyr
+
+= 5
+8 our_lady_mediatrix_of_all_grace : Our Lady, Mediatrix of All Grace
+16 f2.8 john_nepomucene : Saint John Nepomucene, Priest and Martyr
+20 m3.11 clement_mary_hofbauer : Saint Clement Mary Hofbauer, Priest
+30 m3.11 zdislava : Saint Zdislava
+
+= 6
+15 vitus : Saint Vitus, Martyr
+19 john_neumann : Saint John Neumann, Bishop
+7 f2.8 our_lord_jesus_christ_the_eternal_high : Our Lord Jesus Christ, The Eternal High Priest
+
+= 7
+4 procopius_abbot : Saint Procopius, Abbot
+5 s1.4 cyril_methodius : Saints Cyril, Monk and Methodius, Bishop
+11 f2.8 benedict : Saint Benedict of Nursia, Abbot, Patron of Europe
+14 blessed_hroznata : Blessed Hroznata, Martyr
+17 blessed_ceslaus_and_saint_hyacinth_priests : Blessed Ceslaus and Saint Hyacinth, Priests
+23 f2.8 birgitta : Saint Bridget of Sweden, Religious, Patron of Europe
+
+= 8
+9 f2.8 R stein : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
+25 s_benedykt_jan_mateusz_isaak_and_krystyn_martyrs : Saints Benedykt, Jan, Mateusz, Isaak and Krystyn, Martyrs
+
+= 9
+5 teresa_of_calcutta : Saint Teresa of Calcutta, Religious
+7 melchior_grodziecki : Saint Melchior Grodziecki, Priest and Martyr
+10 blessed_charles_spinola : Blessed Charles Spinola, Priest and Martyr
+16 m3.11 ludmila : Saint Ludmila, Martyr
+
+= 10
+12 radim : Saint Radim, Bishop
+21 blessed_karl_of_austria : Blessed Karl of Austria
+31 wolfgang : Saint Wolfgang, Bishop
+
+= 11
+13 m3.11 agnes_of_bohemia : Saint Agnes of Bohemia, Virgin
+
+= 12
+1 edmund_campion : Saint Edmund Campion, Priest and Martyr

@@ -1,7 +1,7 @@
 ---
 title: Lebanon
 locale: en
-parent: general.txt
+parent: general-en.txt
 ---
 
 = 2

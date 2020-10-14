@@ -1,0 +1,29 @@
+---
+title: Italy
+locale: it
+parent: general-it.txt
+---
+
+= 2
+14 f2.8 cyril_methodius : Santi Cirillo, monaco e Metodio, vescovo, patroni d'Europa
+
+= 4
+29 f2.8 catherine_of_siena : Santa Caterina da Siena, vergine e dottore della Chiesa, patrona d'Italia e d'Europa
+
+= 6
+6 norbert : San Norberto, vescovo
+11 m3.11 barnabas : San Barnaba, apostolo
+4 m3.11 mother_of_church : Beata Vergine Maria Madre della Chiesa
+
+= 7
+11 f2.8 benedict : San Benedetto, abate, patrono d'Europa
+22 f2.8 mary_magdalene : Santa Maria Maddalena
+23 f2.8 birgitta : Santa Brigida, religiosa, patrona d'Europa
+
+= 8
+9 f2.8 R stein : Santa Teresa Benedetta della Croce, vergine e martire, patrona d'Europa
+
+= 10
+4 f2.8 francis_assisi : San Francesco d'Assisi, patrono d'Italia
+11 john_xxiii : San Giovanni XXIII, papa
+22 john_paul_ii : San Giovanni Paolo II, papa

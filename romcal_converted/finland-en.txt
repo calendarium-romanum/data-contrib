@@ -1,7 +1,7 @@
 ---
 title: Finland
 locale: en
-parent: general.txt
+parent: general-en.txt
 ---
 
 = 1

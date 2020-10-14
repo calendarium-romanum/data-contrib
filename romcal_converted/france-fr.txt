@@ -1,0 +1,35 @@
+---
+title: France
+locale: fr
+parent: general-fr.txt
+---
+
+= 1
+3 genevieve : Sainte Geneviève, Vierge à Paris (✝ 500)
+15 remigius : Saint Remi, Evêque de Reims (✝ 530)
+
+= 2
+14 f2.8 cyril_methodius : Saints Cyrille, Moine, et Méthode, Évêque, Apôtres des Slaves au 9ème siècle, Copatrons de l’Europe
+18 bernadette_soubirous : Sainte Bernadette Soubirous, Vierge (✝ 1879)
+
+= 4
+29 f2.8 catherine_of_siena : Sainte Catherine de Sienne, Vierge et Docteur de l’Eglise, Patronne de l’Europe (✝ 1380)
+
+= 5
+19 ivo : Saint Yves Hélory, Prêtre et Juge en Bretagne (✝ 1303)
+30 m3.11 joan_of_arc_virgin_secondary_patroness_of_france : Sainte Jeanne d’Arc, Vierge, Patronne Secondaires de la France (✝ 1431)
+
+= 6
+2 pothinus_bishop_saint_bl_andina_virgin_and_their_companions_martyrs : Saint Pothin, Évêque, Sainte Blandine, Vierge, et leurs 46 compagnons, Martyrs à Lyon (✝ 177)
+4 clotilde : Sainte Clotilde, Reine des Francs (✝ 545)
+
+= 7
+11 f2.8 benedict : Saint Benoît de Nursie, Patriarche des moines d’Occident, Fondateur de l’ordre des Bénédictins, Patron de l’Europe (✝ v. 547)
+23 f2.8 birgitta : Sainte Brigitte de Suède, Veuve puis Religieuse, Fondatrice de l’ordre du Saint-Sauveur, Copatronne de l’Europe (✝ 1373)
+
+= 8
+9 f2.8 R stein : Sainte Thérèse-Bénédicte de la Croix (Edith Stein), Carmélite, Martyr en Pologne, Copatronne de l’Europe (✝ 1942)
+26 caesarius_of_arles : Saint Césaire d’Arles, Évêque, Père de l’Eglise (✝ 542)
+
+= 10
+1 m3.11 therese_of_the_child_jesus_virgin_secondary_patroness_of_france : Sainte Thérèse de l’Enfant-Jésus, Docteur de l’Église, Seconde Patronne de la France (✝ 1897)
