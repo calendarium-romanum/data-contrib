@@ -5,45 +5,45 @@ parent: general.txt
 ---
 
 = 1
-7 m3.11 saintAndreBessetteReligious : Saint Andre Bessette, Religious
-8 saintRaymondOfPenyafortPriest : Saint Raymond of Penyafort, Priest
-12 m3.11 saintMargueriteBourgeoysVirgin : Saint Marguerite Bourgeoys, Virgin
+7 m3.11 andre_bessette : Saint Andre Bessette, Religious
+8 raymond : Saint Raymond of Penyafort, Priest
+12 m3.11 marguerite_bourgeoys : Saint Marguerite Bourgeoys, Virgin
 
 = 3
-19 s1.4 saintJosephSpouseOfTheBlessedVirginMaryPrincipalPatronOfCanada : Saint Joseph, Spouse of The Blessed Virgin Mary, Principal Patron of Canada
+19 s1.4 joseph_spouse_of_the_blessed_virgin_mary_principal_patron_of_canada : Saint Joseph, Spouse of The Blessed Virgin Mary, Principal Patron of Canada
 
 = 4
-17 saintKateriTekakwithaVirgin : Saint Kateri Tekakwitha, Virgin
-18 blessedMarieAnneBlondinVirgin : Blessed Marie Anne Blondin, Virgin
-26 ourLadyOfGoodCounsel : Our Lady of Good Counsel
-30 saintMarieOfTheIncarnationReligious : Saint Marie of The Incarnation, Religious
+17 kateri_tekakwitha : Saint Kateri Tekakwitha, Virgin
+18 blessed_marie_anne_blondin : Blessed Marie Anne Blondin, Virgin
+26 our_lady_of_good_counsel : Our Lady of Good Counsel
+30 marie_of_the_incarnation : Saint Marie of The Incarnation, Religious
 
 = 5
-4 blessedMarieLeonieParadisVirgin : Blessed Marie Leonie Paradis, Virgin
-6 saintFrancoisDeLavalBishop : Saint Francois de Laval, Bishop
-8 blessedCatherineOfSaintAugustineVirgin : Blessed Catherine of Saint Augustine, Virgin
-21 saintEugeneDeMazenodBishop : Saint Eugene de Mazenod, Bishop
-24 blessedLouisZephirinMoreauBishop : Blessed Louis Zephirin Moreau, Bishop
+4 blessed_marie_leonie_paradis : Blessed Marie Leonie Paradis, Virgin
+6 francois_de_laval : Saint Francois de Laval, Bishop
+8 blessed_catherine_of_saint_augustine : Blessed Catherine of Saint Augustine, Virgin
+21 eugene_de_mazenod : Saint Eugene de Mazenod, Bishop
+24 blessed_louis_zephirin_moreau : Blessed Louis Zephirin Moreau, Bishop
 
 = 6
-27 blessedsNykytaBudkaAndVasylVelychkowskyBishopsAndMartyrs : Blesseds Nykyta Budka and Vasyl Velychkowsky, Bishops and Martyrs
+27 blesseds_nykyta_budka_and_vasyl_velychkowsky_bishops_and_martyrs : Blesseds Nykyta Budka and Vasyl Velychkowsky, Bishops and Martyrs
 
 = 7
-26 f2.8 saintAnnePatronOfQuebecAndSaintJoachimParentsOfTheBlessedVirginMary : Saint Anne, Patron of Quebec, and Saint Joachim, Parents of The Blessed Virgin Mary
+26 f2.8 anne_patron_of_quebec_and_saint_joachim_parents_of_the_blessed_virgin_mary : Saint Anne, Patron of Quebec, and Saint Joachim, Parents of The Blessed Virgin Mary
 
 = 8
-5 blessedFredericJanssoonePriest : Blessed Frederic Janssoone, Priest
+5 blessed_frederic_janssoone : Blessed Frederic Janssoone, Priest
 
 = 9
-2 blessedAndreGrassetPriestAndMartyr : Blessed Andre Grasset, Priest and Martyr
-4 blessedDinaBelangerVirgin : Blessed Dina Belanger, Virgin
-24 blessedEmilieTavernierGamelinReligious : Blessed Emilie Tavernier Gamelin, Religious
-26 f2.8 R saintsJeanDeBrebeufAndIsaacJoguesPriestsAndCompanionsMartyrsSaintPaulOfTheCrossPriest : Saints Jean de Brebeuf and Isaac Jogues, Priests and Companions, Martyrs/Saint Paul of the Cross, Priest
+2 blessed_andre_grasset : Blessed Andre Grasset, Priest and Martyr
+4 blessed_dina_belanger : Blessed Dina Belanger, Virgin
+24 blessed_emilie_tavernier_gamelin : Blessed Emilie Tavernier Gamelin, Religious
+26 f2.8 R brebeuf_jogues : Saints Jean de Brebeuf and Isaac Jogues, Priests and Companions, Martyrs/Saint Paul of the Cross, Priest
 
 = 10
-6 blessedMarieRoseDurocherVirgin : Blessed Marie Rose Durocher, Virgin
-16 m3.11 saintMargueriteDYouvilleReligious : Saint Marguerite d'Youville, Religious
-20 saintHedwigReligiousOrSaintMargaretMaryAlacoqueVirgin : Saint Hedwig, Religious Or Saint Margaret Mary Alacoque, Virgin
+6 blessed_marie_rose_durocher : Blessed Marie Rose Durocher, Virgin
+16 m3.11 marguerite_d_youville : Saint Marguerite d'Youville, Religious
+20 hedwig_religious_or_saint_margaret_mary_alacoque : Saint Hedwig, Religious Or Saint Margaret Mary Alacoque, Virgin
 
 = 12
-12 f2.8 ourLadyOfGuadalupe : Our Lady of Guadalupe
+12 f2.8 bvm_guadalupe : Our Lady of Guadalupe

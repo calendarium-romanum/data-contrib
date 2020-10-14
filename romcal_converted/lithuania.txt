@@ -5,36 +5,36 @@ parent: general.txt
 ---
 
 = 1
-27 blessedJerzyMatulewiczBishop : Blessed Jerzy Matulewicz, Bishop
+27 blessed_jerzy_matulewicz : Blessed Jerzy Matulewicz, Bishop
 
 = 2
-14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
+14 f2.8 cyril_methodius : Saints Cyril, Monk and Methodius, Bishop
 
 = 3
-4 f2.8 saintCasimir : Saint Casimir
-9 saintBrunoBonifaceOfQuerfurtBishopAndMartyr : Saint Bruno Boniface Of Querfurt, Bishop And Martyr
+4 f2.8 casimir : Saint Casimir
+9 bruno_boniface_of_querfurt : Saint Bruno Boniface Of Querfurt, Bishop And Martyr
 
 = 4
-23 R saintAdalbertBishopAndMartyr : Saint Wojciech (Adalbert of Prague), Bishop and Martyr
-29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+23 R adalbert : Saint Wojciech (Adalbert of Prague), Bishop and Martyr
+29 f2.8 catherine_of_siena : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
 
 = 5
-16 saintAndrewBobolaPriestAndMartyr : Saint Andrew Bobola, Priest and Martyr
+16 andrew_bobola : Saint Andrew Bobola, Priest and Martyr
 
 = 7
-11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
-23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+11 f2.8 benedict : Saint Benedict of Nursia, Abbot, Patron of Europe
+23 f2.8 birgitta : Saint Bridget of Sweden, Religious, Patron of Europe
 
 = 8
-9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
-16 saintRocco : Saint Rocco
-17 saintHyacinthPriest : Saint Hyacinth, Priest
+9 f2.8 R stein : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
+16 rocco : Saint Rocco
+17 hyacinth : Saint Hyacinth, Priest
 
 = 9
-8 s1.4 birthOfTheBlessedVirginMary : Birth of the Blessed Virgin Mary
+8 s1.4 bvm_birth : Birth of the Blessed Virgin Mary
 
 = 10
-5 saintFaustinaKowalskaVirginAndReligious : Saint Faustina Kowalska, Virgin and Religious
+5 faustina_kowalska : Saint Faustina Kowalska, Virgin and Religious
 
 = 11
-16 s1.4 ourLadyMotherOfMercy : Our Lady, Mother of Mercy
+16 s1.4 our_lady_mother_of_mercy : Our Lady, Mother of Mercy

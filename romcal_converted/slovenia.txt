@@ -5,7 +5,7 @@ parent: general.txt
 ---
 
 = 5
-16 R saintJohnNepomucenePriestAndMartyr : Saint John Nepomucene, Priest and Martyr
+16 R john_nepomucene : Saint John Nepomucene, Priest and Martyr
 
 = 7
-23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+23 f2.8 birgitta : Saint Bridget of Sweden, Religious, Patron of Europe

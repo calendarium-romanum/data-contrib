@@ -5,46 +5,46 @@ parent: general.txt
 ---
 
 = 1
-27 m3.11 blessedGeorgeMatulewiczBishop : Blessed George Matulewicz, Bishop
-29 blessedBoleslawaMariaLamentVirginAndSaintAngelaMericiVirgin : Blessed Boleslawa Maria Lament, Virgin/Saint Angela Merici, Virgin
+27 m3.11 blessed_george_matulewicz : Blessed George Matulewicz, Bishop
+29 blessed_boleslawa_maria_lament_virgin_and_saint_angela_merici : Blessed Boleslawa Maria Lament, Virgin/Saint Angela Merici, Virgin
 
 = 2
-14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
+14 f2.8 cyril_methodius : Saints Cyril, Monk and Methodius, Bishop
 
 = 4
-29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+29 f2.8 catherine_of_siena : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
 
 = 5
-6 m3.11 R saintGeorgeMartyr : Saint George, Martyr
-16 m3.11 saintTheodosiusOfTheCavesAbbot : Saint Theodosius of The Caves, Abbot
+6 m3.11 R george : Saint George, Martyr
+16 m3.11 theodosius_of_the_caves_abbot : Saint Theodosius of The Caves, Abbot
 
 = 6
-27 ourLadyOfPerpetualHelpOrBlessedLeonidFeodorovPriestAndMartyr : Our Lady of Perpetual Help Or Blessed Leonid Feodorov, Priest and Martyr
+27 our_lady_of_perpetual_help_or_blessed_leonid_feodorov : Our Lady of Perpetual Help Or Blessed Leonid Feodorov, Priest and Martyr
 
 = 7
-11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
-23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
-24 saintAnthonyOfTheCavesMonk : Saint Anthony of The Caves, Monk
-24 saintOlga : Saint Olga
-28 m3.11 saintVladimirTheGreat : Saint Vladimir The Great
+11 f2.8 benedict : Saint Benedict of Nursia, Abbot, Patron of Europe
+23 f2.8 birgitta : Saint Bridget of Sweden, Religious, Patron of Europe
+24 anthony_of_the_caves_monk : Saint Anthony of The Caves, Monk
+24 olga : Saint Olga
+28 m3.11 vladimir_the_great : Saint Vladimir The Great
 
 = 8
-5 saintsBorisAndGlebMartyrs : Saints Boris and Gleb, Martyrs
-9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
-26 ourLadyOfCzestochowa : Our Lady of Czestochowa
+5 s_boris_and_gleb_martyrs : Saints Boris and Gleb, Martyrs
+9 f2.8 R stein : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
+26 our_lady_of_czestochowa : Our Lady of Czestochowa
 
 = 9
-7 ourLadyOfVladimir : Our Lady of Vladimir
+7 our_lady_of_vladimir : Our Lady of Vladimir
 
 = 10
-5 m3.11 saintFaustinaKowalskaVirginAndReligious : Saint Faustina Kowalska, Virgin and Religious
-30 m3.11 blessedOleksiyZarytskyiPriestAndMartyr : Blessed Oleksiy Zarytskyi, Priest and Martyr
+5 m3.11 faustina_kowalska : Saint Faustina Kowalska, Virgin and Religious
+30 m3.11 blessed_oleksiy_zarytskyi : Blessed Oleksiy Zarytskyi, Priest and Martyr
 
 = 11
-16 ourLadyOfTheGateOfDawn : Our Lady of The Gate of Dawn
-20 m3.11 saintRafalKalinowskiPriest : Saint Rafal Kalinowski, Priest
-30 s1.4 saintAndrewTheApostlePatronOfRussia : Saint Andrew The Apostle, Patron of Russia
+16 our_lady_of_the_gate_of_dawn : Our Lady of The Gate of Dawn
+20 m3.11 rafal_kalinowski : Saint Rafal Kalinowski, Priest
+30 s1.4 andrew_the_apostle_patron_of_russia : Saint Andrew The Apostle, Patron of Russia
 
 = 12
-4 saintBarbaraVirginAndMartyr : Saint Barbara, Virgin and Martyr
-6 m3.11 saintNicholasBishop : Saint Nicholas, Bishop
+4 barbara : Saint Barbara, Virgin and Martyr
+6 m3.11 nicholas : Saint Nicholas, Bishop

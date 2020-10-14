@@ -5,24 +5,24 @@ parent: general.txt
 ---
 
 = 6
-9 m3.11 saintJoseDeAnchietaPriest : Saint Jose de Anchieta, Priest
-15 m3.11 R blessedAlbertinaBerkenbrockVirginAndMartyr : Blessed Albertina Berkenbrock, Virgin and Martyr
+9 m3.11 jose_de_anchieta : Saint Jose de Anchieta, Priest
+15 m3.11 R blessed_albertina_berkenbrock : Blessed Albertina Berkenbrock, Virgin and Martyr
 
 = 7
-9 m3.11 saintPaulinaOfTheAgonizingHeartOfJesusVirgin : Saint Paulina of The Agonizing Heart of Jesus, Virgin
-16 f2.8 ourLadyOfMountCarmel : Our Lady of Mount Carmel
-17 m3.11 R blessedInacioDeAzevedoPriestAndCompanionsMartyrs : Blessed Inacio de Azevedo, Priest, and Companions, Martyrs
+9 m3.11 paulina_of_the_agonizing_heart_of_jesus : Saint Paulina of The Agonizing Heart of Jesus, Virgin
+16 f2.8 bvm_mount_carmel : Our Lady of Mount Carmel
+17 m3.11 R blessed_inacio_de_azevedo_priest_and_companions_martyrs : Blessed Inacio de Azevedo, Priest, and Companions, Martyrs
 
 = 8
-23 f2.8 saintRoseOfLima : Saint Rose of Lima, Virgin
+23 f2.8 rose_lima : Saint Rose of Lima, Virgin
 
 = 10
-3 m3.11 R blessedsAndreDeSoveralAndAmbrosioFranciscoFerroPriestsAndMartyrs : Blesseds Andre de Soveral and Ambrosio Francisco Ferro, Priests and Martyrs
-12 s1.4 ourLadyOfAparecidaPatronessOfBrazil : Our Lady of Aparecida (Nossa Senhora Aparecida), Patroness of Brazil
-25 m3.11 saintAnthonyOfSaintAnneGalvaoFreiGalvaoPriest : Saint Anthony of Saint Anne Galvao (Frei Galvao), Priest
+3 m3.11 R blesseds_andre_de_soveral_and_ambrosio_francisco_ferro_priests_and_martyrs : Blesseds Andre de Soveral and Ambrosio Francisco Ferro, Priests and Martyrs
+12 s1.4 our_lady_of_aparecida_patroness_of_brazil : Our Lady of Aparecida (Nossa Senhora Aparecida), Patroness of Brazil
+25 m3.11 anthony_of_saint_anne_galvao_frei_galvao : Saint Anthony of Saint Anne Galvao (Frei Galvao), Priest
 
 = 11
-19 m3.11 R saintsRoqueGonzalezAlfonsoRodriguezOlmedoAndJuanDelCastilloPriestsAndMartyrs : Saints Roque Gonzalez, Alfonso Rodriguez Olmedo, and Juan del Castillo, Priests and Martyrs
+19 m3.11 R s_roque_gonzalez_alfonso_rodriguez_olmedo_and_juan_del_castillo_priests_and_martyrs : Saints Roque Gonzalez, Alfonso Rodriguez Olmedo, and Juan del Castillo, Priests and Martyrs
 
 = 12
-12 f2.8 ourLadyOfGuadalupe : Our Lady of Guadalupe
+12 f2.8 bvm_guadalupe : Our Lady of Guadalupe

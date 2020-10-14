@@ -5,25 +5,25 @@ parent: general.txt
 ---
 
 = 2
-14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
+14 f2.8 cyril_methodius : Saints Cyril, Monk and Methodius, Bishop
 
 = 4
-29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+29 f2.8 catherine_of_siena : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
 
 = 6
-6 saintNorbertBishop : Saint Norbert, Bishop
-11 m3.11 saintBarnabasTheApostle : Saint Barnabas the Apostle
-4 m3.11 maryMotherOfTheChurch : Mary, Mother of The Church
+6 norbert : Saint Norbert, Bishop
+11 m3.11 barnabas : Saint Barnabas the Apostle
+4 m3.11 mother_of_church : Mary, Mother of The Church
 
 = 7
-11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
-22 f2.8 saintMaryMagdalene : Saint Mary Magdalene
-23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+11 f2.8 benedict : Saint Benedict of Nursia, Abbot, Patron of Europe
+22 f2.8 mary_magdalene : Saint Mary Magdalene
+23 f2.8 birgitta : Saint Bridget of Sweden, Religious, Patron of Europe
 
 = 8
-9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
+9 f2.8 R stein : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
 
 = 10
-4 f2.8 saintFrancisOfAssisi : Saint Francis of Assisi
-11 popeSaintJohnXXIII : Pope Saint John XXIII
-22 popeSaintJohnPaulII : Pope Saint John Paul II
+4 f2.8 francis_assisi : Saint Francis of Assisi
+11 john_xxiii : Pope Saint John XXIII
+22 john_paul_ii : Pope Saint John Paul II

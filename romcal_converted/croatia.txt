@@ -5,31 +5,31 @@ parent: general.txt
 ---
 
 = 2
-10 m3.11 R blessedAloysiusStepinacBishopAndMartyr : Blessed Aloysius Stepinac, Bishop and Martyr
-14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
+10 m3.11 R blessed_aloysius_stepinac : Blessed Aloysius Stepinac, Bishop and Martyr
+14 f2.8 cyril_methodius : Saints Cyril, Monk and Methodius, Bishop
 
 = 4
-29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+29 f2.8 catherine_of_siena : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
 
 = 5
-10 m3.11 blessedIvanMerz : Blessed Ivan Merz
-12 m3.11 saintLeopoldMandicPriest : Saint Leopold Mandic, Priest
+10 m3.11 blessed_ivan_merz : Blessed Ivan Merz
+12 m3.11 leopold_mandic : Saint Leopold Mandic, Priest
 
 = 6
-4 saintQuirinusOfSescia : Saint Quirinus of Sescia
+4 quirinus_of_sescia : Saint Quirinus of Sescia
 
 = 7
-9 blessedMaryOfJesusCrucifiedPetkovicVirgin : Blessed Mary of Jesus Crucified Petkovic, Virgin
-11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
-13 f2.8 ourLadyOfBistrica : Our Lady of Bistrica
-23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+9 blessed_mary_of_jesus_crucified_petkovic : Blessed Mary of Jesus Crucified Petkovic, Virgin
+11 f2.8 benedict : Saint Benedict of Nursia, Abbot, Patron of Europe
+13 f2.8 our_lady_of_bistrica : Our Lady of Bistrica
+23 f2.8 birgitta : Saint Bridget of Sweden, Religious, Patron of Europe
 
 = 8
-3 blessedAugustinKazoticBishopAndMartyr : Blessed Augustin Kazotic, Bishop and Martyr
-9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
+3 blessed_augustin_kazotic : Blessed Augustin Kazotic, Bishop and Martyr
+9 f2.8 R stein : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
 
 = 9
-7 m3.11 saintMarkoKrizinPriestAndMartyr : Saint Marko Krizin, Priest and Martyr
+7 m3.11 marko_krizin : Saint Marko Krizin, Priest and Martyr
 
 = 11
-14 f2.8 saintNikolaTavelicPriestAndMartyr : Saint Nikola Tavelic, Priest and Martyr
+14 f2.8 nikola_tavelic : Saint Nikola Tavelic, Priest and Martyr

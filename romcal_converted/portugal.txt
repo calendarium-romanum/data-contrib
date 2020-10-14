@@ -5,49 +5,49 @@ parent: general.txt
 ---
 
 = 1
-11 blessedGoncaloDeAmarantePriest : Blessed Goncalo de Amarante, Priest
+11 blessed_goncalo_de_amarante : Blessed Goncalo de Amarante, Priest
 
 = 2
-4 m3.11 R saintJohnDeBritoPriestAndMartyr : Saint John de Brito, Priest and Martyr
-7 f2.8 theFiveWoundsOfTheLord : The Five Wounds of The Lord
-14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
-18 m3.11 saintTheotoniusPriest : Saint Theotonius, Priest
-20 blessedJacintaAndFranciscoMarto : Blessed Jacinta and Francisco Marto
+4 m3.11 R john_de_brito : Saint John de Brito, Priest and Martyr
+7 f2.8 the_five_wounds_of_the_lord : The Five Wounds of The Lord
+14 f2.8 cyril_methodius : Saints Cyril, Monk and Methodius, Bishop
+18 m3.11 theotonius : Saint Theotonius, Priest
+20 blessed_jacinta_and_francisco_marto : Blessed Jacinta and Francisco Marto
 
 = 3
-8 m3.11 saintJohnOfGodPriest : Saint John of God, Priest
+8 m3.11 john_of_god : Saint John of God, Priest
 
 = 4
-29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+29 f2.8 catherine_of_siena : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
 
 = 5
-12 blessedJoanOfPortugalVirgin : Blessed Joan of Portugal, Virgin
-13 f2.8 ourLadyOfFatima : Our Lady of Fatima
+12 blessed_joan_of_portugal : Blessed Joan of Portugal, Virgin
+13 f2.8 bvm_fatima : Our Lady of Fatima
 
 = 6
-10 m3.11 guardianAngelOfPortugal : Guardian Angel of Portugal
-13 f2.8 saintAnthonyOfLisbonPriestAndDoctorOfTheChurch : Saint Anthony of Lisbon, Priest and Doctor of The Church
-20 blessedSanchaAndMafaldaVirginsOrBlessedTheresaOfPOrtugalReligious : Blessed Sancha and Mafalda, Virgins, Or Blessed Theresa of POrtugal, Religious
+10 m3.11 guardian_angel_of_portugal : Guardian Angel of Portugal
+13 f2.8 anthony_of_lisbon_priest_and_doctor_of_the_church : Saint Anthony of Lisbon, Priest and Doctor of The Church
+20 blessed_sancha_and_mafalda_virgins_or_blessed_theresa_of_p_ortugal : Blessed Sancha and Mafalda, Virgins, Or Blessed Theresa of POrtugal, Religious
 
 = 7
-4 m3.11 saintElizabethOfPortugal : Saint Elizabeth of Portugal
-11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
-17 m3.11 blessedInacioDeAzevedoPriestAndCompanionsMartyrs : Blessed Inacio de Azevedo, Priest, and Companions, Martyrs
-18 m3.11 blessedBartholomewOfTheMartyrsBishop : Blessed Bartholomew of The Martyrs, Bishop
-23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+4 m3.11 elizabeth_of_portugal : Saint Elizabeth of Portugal
+11 f2.8 benedict : Saint Benedict of Nursia, Abbot, Patron of Europe
+17 m3.11 blessed_inacio_de_azevedo_priest_and_companions_martyrs : Blessed Inacio de Azevedo, Priest, and Companions, Martyrs
+18 m3.11 blessed_bartholomew_of_the_martyrs : Blessed Bartholomew of The Martyrs, Bishop
+23 f2.8 birgitta : Saint Bridget of Sweden, Religious, Patron of Europe
 
 = 8
-9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
+9 f2.8 R stein : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
 
 = 9
-1 m3.11 saintBeatriceOfSilvaVirgin : Saint Beatrice of Silva, Virgin
+1 m3.11 beatrice_of_silva : Saint Beatrice of Silva, Virgin
 
 = 10
-9 saintDenisAndCompanionsMartyrsSaintJohnLeonardiPriestBlessedJohnNewmanBishop : Saint Denis and Companions, Martyrs/Saint John Leonardi, Priest/Blessed John Newman, Bishop
-27 blessedGoncaloDeLagosPriest : Blessed Goncalo de Lagos, Priest
+9 denis_and_companions_martyrs_saint_john_leonardi_priest_blessed_john_newman : Saint Denis and Companions, Martyrs/Saint John Leonardi, Priest/Blessed John Newman, Bishop
+27 blessed_goncalo_de_lagos : Blessed Goncalo de Lagos, Priest
 
 = 11
-6 m3.11 saintNunoDeSantaMaria : Saint Nuno de Santa Maria
+6 m3.11 nuno_de_santa_maria : Saint Nuno de Santa Maria
 
 = 12
-5 m3.11 saintFructuosusSaintMartinOfDumeAndSaintGeraldBishops : Saint Fructuosus, Saint Martin of Dume and Saint Gerald, Bishops
+5 m3.11 fructuosus_saint_martin_of_dume_and_saint_gerald_bishops : Saint Fructuosus, Saint Martin of Dume and Saint Gerald, Bishops

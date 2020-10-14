@@ -5,29 +5,29 @@ parent: general.txt
 ---
 
 = 5
-3 f2.8 findingOfTheHolyCross : Finding of The Holy Cross
-24 ourLadyHelpOfChristians : Our Lady, Help of Christians
-26 f2.8 saintMarianaDeJesusDeParedesVirgin : Saint Mariana de Jesus de Paredes, Virgin
+3 f2.8 finding_of_the_holy_cross : Finding of The Holy Cross
+24 our_lady_help_of_christians : Our Lady, Help of Christians
+26 f2.8 mariana_de_jesus_de_paredes : Saint Mariana de Jesus de Paredes, Virgin
 
 = 6
-7 f2.8 ourLordJesusChristTheEternalHighPriest : Our Lord Jesus Christ, The Eternal High Priest
+7 f2.8 our_lord_jesus_christ_the_eternal_high : Our Lord Jesus Christ, The Eternal High Priest
 
 = 7
-14 f2.8 saintFrancisSolanusPriest : Saint Francis Solanus, Priest
-28 f2.8 ourLadyOfPeace : Our Lady of Peace
+14 f2.8 francis_solanus : Saint Francis Solanus, Priest
+28 f2.8 our_lady_of_peace : Our Lady of Peace
 
 = 8
-23 s1.4 saintRoseOfLima : Saint Rose of Lima, Virgin
+23 s1.4 rose_lima : Saint Rose of Lima, Virgin
 
 = 9
-18 f2.8 saintJohnMaciasReligious : Saint John Macias, Religious
-24 ourLadyOfMercy : Our Lady of Mercy
+18 f2.8 john_macias : Saint John Macias, Religious
+24 our_lady_of_mercy : Our Lady of Mercy
 
 = 10
-28 f2.8 ourLordOfMiracles : Our Lord of Miracles
+28 f2.8 our_lord_of_miracles : Our Lord of Miracles
 
 = 11
-3 s1.4 saintMartinDePorresReligious : Saint Martin de Porres, Religious
+3 s1.4 de_porres : Saint Martin de Porres, Religious
 
 = 12
-12 f2.8 ourLadyOfGuadalupe : Our Lady of Guadalupe
+12 f2.8 bvm_guadalupe : Our Lady of Guadalupe

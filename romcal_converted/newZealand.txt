@@ -5,23 +5,23 @@ parent: general.txt
 ---
 
 = 2
-6 f2.8 waitangiDay : Waitangi Day
-7 m3.11 R saintPaulMikiAndCompanionsMartyrs : Saint Paul Miki and Companions, Martyrs
+6 f2.8 waitangi_day : Waitangi Day
+7 m3.11 R paul_miki : Saint Paul Miki and Companions, Martyrs
 
 = 3
-17 f2.8 saintPatrickBishop : Saint Patrick, Bishop
+17 f2.8 patrick : Saint Patrick, Bishop
 
 = 4
-26 f2.8 saintMarkApostle : Saint Mark, Apostle
-27 saintLouisGrignonDeMontfortPriest : Saint Louis Grignon de Montfort, Priest
-28 f2.8 R saintPeterChanelPriestAndMartyrSaintLouisGrignonDeMontfortPriest : Saint Peter Chanel, Priest and Martyr/Saint Louis Grignon de Montfort, Priest
+26 f2.8 mark : Saint Mark, Apostle
+27 louis_grignon_de_montfort : Saint Louis Grignon de Montfort, Priest
+28 f2.8 R peter_chanel : Saint Peter Chanel, Priest and Martyr/Saint Louis Grignon de Montfort, Priest
 
 = 5
-24 m3.11 ourLadyHelpOfChristians : Our Lady, Help of Christians
+24 m3.11 our_lady_help_of_christians : Our Lady, Help of Christians
 
 = 6
-6 saintMarcellinChampagnatPriest : Saint Marcellin Champagnat, Priest
+6 marcellin_champagnat : Saint Marcellin Champagnat, Priest
 
 = 8
-7 saintDominicPriest/SaintSixtusIiPopeAndCompanionsMartyrsSaintCajetanPriest : Saint Dominic, Priest/Saint Sixtus II, Pope, and Companions, Martyrs/Saint Cajetan, Priest
-8 f2.8 saintMaryMacKillopVirgin : Saint Mary MacKillop, Virgin
+7 dominic_priest_saint_sixtus_ii_pope_and_companions_martyrs_saint_cajetan : Saint Dominic, Priest/Saint Sixtus II, Pope, and Companions, Martyrs/Saint Cajetan, Priest
+8 f2.8 mary_mac_killop : Saint Mary MacKillop, Virgin

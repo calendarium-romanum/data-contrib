@@ -5,39 +5,39 @@ parent: general.txt
 ---
 
 = 1
-5 blessedMarcelinaDarowskaReligious : Blessed Marcelina Darowska, Religious
-30 blessedBronislawMarkiewiczPriest : Blessed Bronislaw Markiewicz, Priest
+5 blessed_marcelina_darowska : Blessed Marcelina Darowska, Religious
+30 blessed_bronislaw_markiewicz : Blessed Bronislaw Markiewicz, Priest
 
 = 2
-14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
+14 f2.8 cyril_methodius : Saints Cyril, Monk and Methodius, Bishop
 
 = 4
-29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+29 f2.8 catherine_of_siena : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
 
 = 5
-16 saintAndrewBobolaPriestAndMartyr : Saint Andrew Bobola, Priest and Martyr
-21 saintJohnNepomucenePriestAndMartyr : Saint John Nepomucene, Priest and Martyr
+16 andrew_bobola : Saint Andrew Bobola, Priest and Martyr
+21 john_nepomucene : Saint John Nepomucene, Priest and Martyr
 
 = 6
-4 f2.8 maryMotherOfTheChurch : Mary, Mother of The Church
-17 saintAlbertChmielowskiReligious : Saint Albert Chmielowski, Religious
-26 saintZygmuntGorazdowskiPriest : Saint Zygmunt Gorazdowski, Priest
+4 f2.8 mother_of_church : Mary, Mother of The Church
+17 albert_chmielowski : Saint Albert Chmielowski, Religious
+26 zygmunt_gorazdowski : Saint Zygmunt Gorazdowski, Priest
 
 = 7
-8 saintJohnOfDuklaPriest : Saint John of Dukla, Priest
-18 saintHedwigOfPoland : Saint Hedwig of Poland
-24 saintOlga : Saint Olga
-28 m3.11 saintVladimirTheGreat : Saint Vladimir The Great
-11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
-23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+8 john_of_dukla : Saint John of Dukla, Priest
+18 hedwig_of_poland : Saint Hedwig of Poland
+24 olga : Saint Olga
+28 m3.11 vladimir_the_great : Saint Vladimir The Great
+11 f2.8 benedict : Saint Benedict of Nursia, Abbot, Patron of Europe
+23 f2.8 birgitta : Saint Bridget of Sweden, Religious, Patron of Europe
 
 = 8
-9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
-26 ourLadyOfCzestochowa : Our Lady of Czestochowa
+9 f2.8 R stein : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
+26 our_lady_of_czestochowa : Our Lady of Czestochowa
 
 = 9
-9 R blessedWladyslawBladzinskiPriestAndCompanionsMartyrs : Blessed Wladyslaw Bladzinski, Priest and Companions, Martyrs
-18 m3.11 saintStanislausKostkaReligious : Saint Stanislaus Kostka, Religious
+9 R blessed_wladyslaw_bladzinski_priest_and_companions_martyrs : Blessed Wladyslaw Bladzinski, Priest and Companions, Martyrs
+18 m3.11 stanislaus_kostka : Saint Stanislaus Kostka, Religious
 
 = 10
-23 saintJozefBilczewskiBishop : Saint Jozef Bilczewski, Bishop
+23 jozef_bilczewski : Saint Jozef Bilczewski, Bishop

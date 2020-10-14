@@ -5,18 +5,18 @@ parent: general.txt
 ---
 
 = 2
-9 m3.11 saintMaroun : Saint Maroun
+9 m3.11 maroun : Saint Maroun
 
 = 3
-23 m3.11 saintRafqaRebeccaVirgin : Saint Rafqa (Rebecca), Virgin
+23 m3.11 rafqa_rebecca : Saint Rafqa (Rebecca), Virgin
 
 = 4
-23 m3.11 R saintGeorgeMartyr : Saint George, Martyr
+23 m3.11 R george : Saint George, Martyr
 
 = 5
-1 f2.8 ourLadyOfLebanon : Our Lady of Lebanon
+1 f2.8 our_lady_of_lebanon : Our Lady of Lebanon
 
 = 12
-4 m3.11 R saintBarbaraVirginAndMartyr : Saint Barbara, Virgin and Martyr
-6 m3.11 saintNicholasBishop : Saint Nicholas, Bishop
-24 saintCharbelMakhloufPriestAndHermit : Saint Charbel Makhlouf, Priest and Hermit
+4 m3.11 R barbara : Saint Barbara, Virgin and Martyr
+6 m3.11 nicholas : Saint Nicholas, Bishop
+24 sharbel : Saint Charbel Makhlouf, Priest and Hermit

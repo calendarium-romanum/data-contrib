@@ -5,32 +5,32 @@ parent: general.txt
 ---
 
 = 1
-19 s1.4 R saintHenryBishopAndMartyr : Saint Henry, Bishop and Martyr
+19 s1.4 R henry : Saint Henry, Bishop and Martyr
 
 = 2
-14 f2.8 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
+14 f2.8 cyril_methodius : Saints Cyril, Monk and Methodius, Bishop
 
 = 4
-29 f2.8 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+29 f2.8 catherine_of_siena : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
 
 = 5
-18 m3.11 saintEricIxMartyr : Saint Eric IX, Martyr
-22 m3.11 blessedHemmingBishop : Blessed Hemming, Bishop
-29 saintUrsulaLedochowskaVirgin : Saint Ursula Ledochowska, Virgin
-29 m3.11 R saintOlafIiMartyr : Saint Olaf II, Martyr
+18 m3.11 eric_ix : Saint Eric IX, Martyr
+22 m3.11 blessed_hemming : Blessed Hemming, Bishop
+29 ursula_ledochowska : Saint Ursula Ledochowska, Virgin
+29 m3.11 R olaf_ii : Saint Olaf II, Martyr
 
 = 6
-4 blessedElisabethHesselbaldVirgin : Blessed Elisabeth Hesselbald, Virgin
-26 saintJosemariaEscrivaDeBalaguerPriest : Saint Josemaria Escriva de Balaguer, Priest
+4 blessed_elisabeth_hesselbald : Blessed Elisabeth Hesselbald, Virgin
+26 josemaria_escriva_de_balaguer : Saint Josemaria Escriva de Balaguer, Priest
 
 = 7
-10 m3.11 saintCanuteMartyr : Saint Canute, Martyr
-11 f2.8 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
-20 m3.11 saintThorlacBishop : Saint Thorlac, Bishop
-23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+10 m3.11 canute : Saint Canute, Martyr
+11 f2.8 benedict : Saint Benedict of Nursia, Abbot, Patron of Europe
+20 m3.11 thorlac : Saint Thorlac, Bishop
+23 f2.8 birgitta : Saint Bridget of Sweden, Religious, Patron of Europe
 
 = 8
-9 f2.8 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
+9 f2.8 R stein : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
 
 = 11
-25 blessedNicolasStenoBishop : Blessed Nicolas Steno, Bishop
+25 blessed_nicolas_steno : Blessed Nicolas Steno, Bishop

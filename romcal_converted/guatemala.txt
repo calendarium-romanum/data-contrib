@@ -5,4 +5,4 @@ parent: general.txt
 ---
 
 = 6
-7 f2.8 ourLordJesusChristTheEternalHighPriest : Our Lord Jesus Christ, The Eternal High Priest
+7 f2.8 our_lord_jesus_christ_the_eternal_high : Our Lord Jesus Christ, The Eternal High Priest

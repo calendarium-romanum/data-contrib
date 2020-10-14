@@ -5,40 +5,40 @@ parent: general.txt
 ---
 
 = 1
-22 blessedLauraVicunaVirgin : Blessed Laura Vicuna, Virgin
-24 ourLadyQueenOfPeace : Our Lady, Queen of Peace
+22 blessed_laura_vicuna : Blessed Laura Vicuna, Virgin
+24 our_lady_queen_of_peace : Our Lady, Queen of Peace
 
 = 4
-27 f2.8 saintTuribiusOfMogrovejoBishop : Saint Turibius of Mogrovejo, Bishop
-28 m3.11 ourLadyOfTheValley : Our Lady of The Valley
+27 f2.8 turibius : Saint Turibius of Mogrovejo, Bishop
+28 m3.11 our_lady_of_the_valley : Our Lady of The Valley
 
 = 5
-8 s1.4 ourLadyOfLujanPatronessOfArgentina : Our Lady of Luján, Patroness of Argentina
-15 saintIsidoreTheFarmer : Saint Isidore the Farmer
-16 saintLuigiOrionePriest : Saint Luigi Orione, Priest
+8 s1.4 our_lady_of_lujan_patroness_of_argentina : Our Lady of Luján, Patroness of Argentina
+15 isidore_the_farmer : Saint Isidore the Farmer
+16 luigi_orione : Saint Luigi Orione, Priest
 
 = 7
-9 m3.11 ourLadyOfItati : Our Lady of Itati
-10 saintsAugustineZhaoRongPriestAndCompanionsMartyrs : Saints Augustine Zhao Rong, Priest, and Companions, Martyrs
-16 m3.11 ourLadyOfMountCarmel : Our Lady of Mount Carmel
-23 saintCharbelMakhloufPriestAndHermit : Saint Charbel Makhlouf, Priest and Hermit
-24 m3.11 saintFrancisSolanusPriest : Saint Francis Solanus, Priest
+9 m3.11 our_lady_of_itati : Our Lady of Itati
+10 chinese_martyrs : Saints Augustine Zhao Rong, Priest, and Companions, Martyrs
+16 m3.11 bvm_mount_carmel : Our Lady of Mount Carmel
+23 sharbel : Saint Charbel Makhlouf, Priest and Hermit
+24 m3.11 francis_solanus : Saint Francis Solanus, Priest
 
 = 8
-16 saintRocco : Saint Rocco
-26 blessedCeferinoNamuncura : Blessed Ceferino Namuncura
-30 f2.8 saintRoseOfLima : Saint Rose of Lima, Virgin
+16 rocco : Saint Rocco
+26 blessed_ceferino_namuncura : Blessed Ceferino Namuncura
+30 f2.8 rose_lima : Saint Rose of Lima, Virgin
 
 = 9
-24 m3.11 ourLadyOfMercy : Our Lady of Mercy
+24 m3.11 our_lady_of_mercy : Our Lady of Mercy
 
 = 10
-9 saintHectorValdivielsoSaezMartyr : Saint Héctor Valdivielso Sáez, Martyr
-12 ourLadyOfThePillar : Our Lady of The Pillar
+9 hector_valdivielso_saez : Saint Héctor Valdivielso Sáez, Martyr
+12 our_lady_of_the_pillar : Our Lady of The Pillar
 
 = 11
-17 m3.11 R saintsRoqueGonzalezAlfonsoRodriguezOlmedoAndJuanDelCastilloPriestsAndMartyrs : Saints Roque Gonzalez, Alfonso Rodriguez Olmedo, and Juan del Castillo, Priests and Martyrs
-18 m3.11 saintElizabethOfHungary : Saint Elizabeth of Hungary
+17 m3.11 R s_roque_gonzalez_alfonso_rodriguez_olmedo_and_juan_del_castillo_priests_and_martyrs : Saints Roque Gonzalez, Alfonso Rodriguez Olmedo, and Juan del Castillo, Priests and Martyrs
+18 m3.11 elizabeth_of_hungary : Saint Elizabeth of Hungary
 
 = 12
-12 f2.8 ourLadyOfGuadalupe : Our Lady of Guadalupe
+12 f2.8 bvm_guadalupe : Our Lady of Guadalupe
