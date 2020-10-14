@@ -1,6 +1,7 @@
 const calendarModule = process.argv[2]; // first commandline argument
 const calendar = require(calendarModule);
 
+const fs = require('fs');
 const utils = require('romcal/dist/lib/Utils');
 const _ = require('lodash');
 const yaml = require('js-yaml');
@@ -29,8 +30,23 @@ const rankMapGeneral = {
 };
 const rankMap = isGeneralCalendar ? rankMapGeneral : rankMapProper;
 
+const celebrationIdMap = yaml.safeLoad(fs.readFileSync('bin/id_map.yml'));
+
 const monthHeading = momentjsMonth =>
       '= ' + (parseInt(momentjsMonth) + 1); // momentjs has zero-based months
+
+/** Convert romcal celebration ID to (more or less) our format */
+const convertRomcalId = romcalId =>
+      _.snakeCase(
+        romcalId
+          .replace(/^saint/i, '')
+          .replace(/(Apostle|Martyr|Priest|Pope|Bishop|Virgin|Religious|Companions|And)*$/, '')
+      );
+
+/** If available, take celebration ID from the mapping;
+    otherwise convert romcal ID to a calendarium-romanum-like format */
+const celebrationId = romcalId =>
+      _.get(celebrationIdMap, romcalId, convertRomcalId(romcalId));
 
 const celebrationEntry = (celebration) => {
   const c = celebration;
@@ -45,7 +61,7 @@ const celebrationEntry = (celebration) => {
       + ' '
       + (null !== rank ? (rank + ' ') : '')
       + (isColourRed ? ('R ') : '')
-      + c.key
+      + celebrationId(c.key)
       + ' : '
       + c.name
   );
