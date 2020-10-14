@@ -1,30 +1,30 @@
-1/2 m3.11 saintsBasilTheGreatAndGregoryNazianzenBishopsAndDoctors : Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors
+1/2 m saintsBasilTheGreatAndGregoryNazianzenBishopsAndDoctors : Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors
 1/3 theMostHolyNameOfJesus : The Most Holy Name of Jesus
 1/7 saintRaymondOfPenyafortPriest : Saint Raymond of Penyafort, Priest
 1/13 saintHilaryOfPoitiersBishopAndDoctor : Saint Hilary of Poitiers, Bishop and Doctor
-1/17 m3.11 saintAnthonyOfEgyptAbbot : Saint Anthony of Egypt, Abbot
+1/17 m saintAnthonyOfEgyptAbbot : Saint Anthony of Egypt, Abbot
 1/20 saintsFabianPopeAndSebastianMartyrs : Saints Fabian, Pope, and Sebastian, Martyrs
-1/21 m3.11 R saintAgnesVirginAndMartyr : Saint Agnes, Virgin and Martyr
+1/21 m R saintAgnesVirginAndMartyr : Saint Agnes, Virgin and Martyr
 1/22 saintVincentDeaconAndMartyr : Saint Vincent, Deacon and Martyr
-1/24 m3.11 saintFrancisDeSalesBishopAndDoctor : Saint Francis de Sales, Bishop and Doctor
-1/25 f2.8 conversionOfSaintPaulApostle : Conversion of Saint Paul, Apostle
-1/26 m3.11 saintsTimothyAndTitusBishops : Saints Timothy and Titus, Bishops
+1/24 m saintFrancisDeSalesBishopAndDoctor : Saint Francis de Sales, Bishop and Doctor
+1/25 f conversionOfSaintPaulApostle : Conversion of Saint Paul, Apostle
+1/26 m saintsTimothyAndTitusBishops : Saints Timothy and Titus, Bishops
 1/27 saintAngelaMericiVirgin : Saint Angela Merici, Virgin
-1/28 m3.11 saintThomasAquinasPriestAndDoctor : Saint Thomas Aquinas, Priest and Doctor
-1/31 m3.11 saintJohnBoscoPriest : Saint John Bosco, Priest
+1/28 m saintThomasAquinasPriestAndDoctor : Saint Thomas Aquinas, Priest and Doctor
+1/31 m saintJohnBoscoPriest : Saint John Bosco, Priest
 2/3 saintBlaseBishopAndMartyrSaintAnsgarBishop : Saint Blase, Bishop Martyr and Saint Ansgar, Bishop
-2/5 m3.11 R saintAgathaVirginAndMartyr : Saint Agatha, Virgin and Martyr
-2/6 m3.11 R saintPaulMikiAndCompanionsMartyrs : Saint Paul Miki and Companions, Martyrs
+2/5 m R saintAgathaVirginAndMartyr : Saint Agatha, Virgin and Martyr
+2/6 m R saintPaulMikiAndCompanionsMartyrs : Saint Paul Miki and Companions, Martyrs
 2/8 saintJeromeEmilianiSaintJosephineBakhitaVirgin : Saint Jerome Emiliani and Saint Josephine Bakhita, Virgin
-2/10 m3.11 saintScholasticaVirgin : Saint Scholastica, Virgin
+2/10 m saintScholasticaVirgin : Saint Scholastica, Virgin
 2/11 ourLadyOfLourdes : Our Lady of Lourdes
-2/14 m3.11 saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
+2/14 m saintsCyrilMonkAndMethodiusBishop : Saints Cyril, Monk and Methodius, Bishop
 2/17 sevenHolyFoundersOfTheServiteOrder : Seven Holy Founders of the Servite Order
 2/21 saintPeterDamianBishopAndDoctorOfTheChurch : Saint Peter Damian, Bishop and Doctor of the Church
-2/22 f2.8 chairOfSaintPeterApostle : Chair of Saint Peter, Apostle
-2/23 m3.11 R saintPolycarpBishopAndMartyr : Saint Polycarp, Bishop and Martyr
+2/22 f chairOfSaintPeterApostle : Chair of Saint Peter, Apostle
+2/23 m R saintPolycarpBishopAndMartyr : Saint Polycarp, Bishop and Martyr
 3/4 saintCasimir : Saint Casimir
-3/7 m3.11 R saintsPerpetuaAndFelicityMartyrs : Saints Perpetua and Felicity, Martyrs
+3/7 m R saintsPerpetuaAndFelicityMartyrs : Saints Perpetua and Felicity, Martyrs
 3/8 saintJohnOfGodReligious : Saint John of God, Religious
 3/9 saintFrancesOfRomeReligious : Saint Frances of Rome, Religious
 3/17 saintPatrickBishop : Saint Patrick, Bishop
@@ -33,154 +33,154 @@
 4/2 saintFrancisOfPaolaHermit : Saint Francis of Paola, Hermit
 4/4 saintIsidoreOfSevilleBishopAndDoctorOfTheChurch : Saint Isidore of Seville, Bishop and Doctor of the Church
 4/5 saintVincentFerrerPriest : Saint Vincent Ferrer, Priest
-4/7 m3.11 saintJohnBaptistDeLaSallePriest : Saint John Baptist de la Salle, Priest
-4/11 m3.11 R saintStanislausBishopAndMartyr : Saint Stanislaus, Bishop and Martyr
+4/7 m saintJohnBaptistDeLaSallePriest : Saint John Baptist de la Salle, Priest
+4/11 m R saintStanislausBishopAndMartyr : Saint Stanislaus, Bishop and Martyr
 4/13 R saintMartinIPopeAndMartyr : Saint Martin I, Pope and Martyr
 4/21 saintAnselmOfCanterburyBishopAndDoctorOfTheChurch : Saint Anselm of Canterbury, Bishop and Doctor of the Church
 4/23 R saintGeorgeMartyrSaintAdalbertBishopAndMartyr : Saint George, Martyr/Saint Adalbert, Bishop and Martyr
 4/24 R saintFidelisOfSigmaringenPriestAndMartyr : Saint Fidelis of Sigmaringen, Priest and Martyr
-4/25 f2.8 saintMarkTheEvangelist : Saint Mark the Evangelist
+4/25 f saintMarkTheEvangelist : Saint Mark the Evangelist
 4/28 saintPeterChanelPriestAndMartyrSaintLouisGrignonDeMontfortPriest : Saint Peter Chanel, Priest and Martyr/Saint Louis Grignon de Montfort, Priest
-4/29 m3.11 saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
+4/29 m saintCatherineOfSienaVirginAndDoctorOfTheChurch : Saint Catherine of Siena, Virgin and Doctor of The Church, Patron of Europe
 4/30 saintPiusVPope : Saint Pius V, Pope
 5/1 saintJosephTheWorker : Saint Joseph the Worker
-5/2 m3.11 saintAthanasiusBishopAndDoctor : Saint Athanasius, Bishop and Doctor
-5/3 f2.8 saintsPhilipAndJamesApostles : Saints Philip and James, Apostles
+5/2 m saintAthanasiusBishopAndDoctor : Saint Athanasius, Bishop and Doctor
+5/3 f saintsPhilipAndJamesApostles : Saints Philip and James, Apostles
 5/12 saintsNereusAndAchilleusMartyrsSaintPancrasMartyr : Saints Nereus and Achilleus, Martyrs/Saint Pancras, Martyr
 5/13 ourLadyOfFatima : Our Lady of Fatima
-5/14 f2.8 saintMatthiasTheApostle : Saint Matthias the Apostle
+5/14 f saintMatthiasTheApostle : Saint Matthias the Apostle
 5/18 saintJohnIPopeAndMartyr : Saint John I, Pope and Martyr
 5/20 saintBernardineOfSienaPriest : Saint Bernardine of Siena, Priest
 5/21 saintChristopherMagallanesAndCompanionsMartyrs : Saint Christopher Magallanes and Companions, Martyrs
 5/22 saintRitaOfCascia : Saint Rita of Cascia
 5/25 saintBedeTheVenerablePriestAndDoctorSaintGregoryViiPopeSaintMaryMagdaleneDePazziVirgin : Saint Bede the Venerable, Priest and Doctor/Saint Gregory VII, Pope/Saint Mary Magdalene de Pazzi, Virgin
-5/26 m3.11 saintPhilipNeriPriest : Saint Philip Neri, Priest
+5/26 m saintPhilipNeriPriest : Saint Philip Neri, Priest
 5/27 saintAugustineOfCanterburyBishop : Saint Augustine of Canterbury, Bishop
-5/31 f2.8 visitationOfTheBlessedVirginMary : Visitation of the Blessed Virgin Mary
-6/1 m3.11 R saintJustinMartyr : Saint Justin Martyr
+5/31 f visitationOfTheBlessedVirginMary : Visitation of the Blessed Virgin Mary
+6/1 m R saintJustinMartyr : Saint Justin Martyr
 6/2 saintsMarcellinusAndPeterMartyrs : Saints Marcellinus and Peter, Martyrs
-6/3 m3.11 R saintsCharlesLwangaAndCompanionsMartyrs : Saints Charles Lwanga and Companions, Martyrs
-6/5 m3.11 R saintBonifaceBishopAndMartyr : Saint Boniface, Bishop and Martyr
+6/3 m R saintsCharlesLwangaAndCompanionsMartyrs : Saints Charles Lwanga and Companions, Martyrs
+6/5 m R saintBonifaceBishopAndMartyr : Saint Boniface, Bishop and Martyr
 6/6 saintNorbertBishop : Saint Norbert, Bishop
 6/9 saintEphremDeaconAndDoctor : Saint Ephrem, Deacon and Doctor
-6/11 m3.11 saintBarnabasTheApostle : Saint Barnabas the Apostle
-6/13 m3.11 saintAnthonyOfPaduaPriestAndDoctor : Saint Anthony of Padua, Priest and Doctor
+6/11 m saintBarnabasTheApostle : Saint Barnabas the Apostle
+6/13 m saintAnthonyOfPaduaPriestAndDoctor : Saint Anthony of Padua, Priest and Doctor
 6/19 saintRomualdAbbot : Saint Romuald, Abbot
-6/21 m3.11 saintAloysiusGonzagaReligious : Saint Aloysius Gonzaga, Religious
+6/21 m saintAloysiusGonzagaReligious : Saint Aloysius Gonzaga, Religious
 6/22 saintPaulinusOfNolaBishopSaintsJohnFisherBishopAndThomasMoreMartyrs : Saint Paulinus of Nola, Bishop/Saints John Fisher, Bishop and Thomas More, Martyrs
 6/27 saintCyrilOfAlexandriaBishopAndDoctor : Saint Cyril of Alexandria, Bishop and Doctor
-6/28 m3.11 R saintIrenaeusBishopAndMartyr : Saint Irenaeus, Bishop and Martyr
+6/28 m R saintIrenaeusBishopAndMartyr : Saint Irenaeus, Bishop and Martyr
 6/30 firstMartyrsOfTheChurchOfRome : First Martyrs of the Church of Rome
-7/3 f2.8 saintThomasTheApostle : Saint Thomas the Apostle
+7/3 f saintThomasTheApostle : Saint Thomas the Apostle
 7/4 saintElizabethOfPortugal : Saint Elizabeth of Portugal
 7/5 saintAnthonyZaccariaPriest : Saint Anthony Zaccaria, Priest
 7/6 R saintMariaGorettiVirginAndMartyr : Saint Maria Goretti, Virgin and Martyr
 7/9 saintsAugustineZhaoRongPriestAndCompanionsMartyrs : Saints Augustine Zhao Rong, Priest, and Companions, Martyrs
-7/11 m3.11 saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
+7/11 m saintBenedictOfNursiaAbbot : Saint Benedict of Nursia, Abbot, Patron of Europe
 7/13 saintHenryBishopAndMartyr : Saint Henry, Bishop and Martyr
 7/14 saintCamillusDeLellisPriest : Saint Camillus de Lellis, Priest
-7/15 m3.11 saintBonaventureBishopAndDoctor : Saint Bonaventure, Bishop and Doctor
+7/15 m saintBonaventureBishopAndDoctor : Saint Bonaventure, Bishop and Doctor
 7/16 ourLadyOfMountCarmel : Our Lady of Mount Carmel
 7/20 saintApollinaris : Saint Apollinaris
 7/21 saintLawrenceOfBrindisiPriestAndDoctor : Saint Lawrence of Brindisi, Priest and Doctor
-7/22 f2.8 saintMaryMagdalene : Saint Mary Magdalene
-6/4 m3.11 maryMotherOfTheChurch : Mary, Mother of The Church
-7/23 f2.8 saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
+7/22 f saintMaryMagdalene : Saint Mary Magdalene
+6/4 m maryMotherOfTheChurch : Mary, Mother of The Church
+7/23 f saintBridgetOfSwedenReligious : Saint Bridget of Sweden, Religious, Patron of Europe
 7/24 saintCharbelMakhloufPriestAndHermit : Saint Charbel Makhlouf, Priest and Hermit
-7/25 f2.8 saintJamesApostle : Saint James, Apostle
-7/26 m3.11 saintsJoachimAndAnne : Saints Joachim and Anne
-7/29 m3.11 saintMartha : Saint Martha
+7/25 f saintJamesApostle : Saint James, Apostle
+7/26 m saintsJoachimAndAnne : Saints Joachim and Anne
+7/29 m saintMartha : Saint Martha
 7/30 saintPeterChrysologusBishopAndDoctor : Saint Peter Chrysologus, Bishop and Doctor
-7/31 m3.11 saintIgnatiusOfLoyolaPriest : Saint Ignatius of Loyola, Priest
-8/1 m3.11 saintAlphonsusMariaDeLiguoriBishopAndDoctorOfTheChurch : Saint Alphonsus Maria de Liguori, Bishop and Doctor of the Church
+7/31 m saintIgnatiusOfLoyolaPriest : Saint Ignatius of Loyola, Priest
+8/1 m saintAlphonsusMariaDeLiguoriBishopAndDoctorOfTheChurch : Saint Alphonsus Maria de Liguori, Bishop and Doctor of the Church
 8/2 saintEusebiusOfVercelliBishopSaintPeterJulianEymardPriest : Saint Eusebius of Vercelli, Bishop/Saint Peter Julian Eymard, Priest
-8/4 m3.11 saintJeanVianneyTheCureOfArsPriest : Saint Jean Vianney (the Cure of Ars), Priest
+8/4 m saintJeanVianneyTheCureOfArsPriest : Saint Jean Vianney (the Cure of Ars), Priest
 8/5 dedicationOfTheBasilicaOfSaintMaryMajor : Dedication of the Basilica of Saint Mary Major
 8/7 saintSixtusIiPopeAndCompanionsMartyrsSaintCajetanPriest : Saint Sixtus II, Pope, and Companions, Martyrs/Saint Cajetan, Priest
-8/8 m3.11 saintDominicPriest : Saint Dominic, Priest
+8/8 m saintDominicPriest : Saint Dominic, Priest
 8/9 R saintTeresaBenedictaOfTheCrossEdithSteinVirginAndMartyr : Saint Teresa Benedicta of The Cross (Edith Stein), Virgin and Martyr, Patron of Europe
-8/10 f2.8 R saintLawrenceOfRomeDeaconAndMartyr : Saint Lawrence of Rome, Deacon and Martyr
-8/11 m3.11 saintClareVirgin : Saint Clare, Virgin
+8/10 f R saintLawrenceOfRomeDeaconAndMartyr : Saint Lawrence of Rome, Deacon and Martyr
+8/11 m saintClareVirgin : Saint Clare, Virgin
 8/12 saintJaneFrancesDeChantalReligious : Saint Jane Frances de Chantal, Religious
 8/13 saintsPontianPopeAndHippolytusPriestMartyrs : Saints Pontian, Pope and Hippolytus, Priest, Martyrs
-8/14 m3.11 R saintMaximilianMaryKolbePriestAndMartyr : Saint Maximilian Mary Kolbe, Priest and Martyr
+8/14 m R saintMaximilianMaryKolbePriestAndMartyr : Saint Maximilian Mary Kolbe, Priest and Martyr
 8/16 saintStephenOfHungary : Saint Stephen of Hungary
 8/19 saintJohnEudesPriest : Saint John Eudes, Priest
-8/20 m3.11 saintBernardOfClairvauxAbbotAndDoctorOfTheChurch : Saint Bernard of Clairvaux, Abbot and Doctor of the Church
-8/21 m3.11 saintPiusXPope : Saint Pius X, Pope
-8/22 m3.11 queenshipOfBlessedVirginMary : Queenship of Blessed Virgin Mary
+8/20 m saintBernardOfClairvauxAbbotAndDoctorOfTheChurch : Saint Bernard of Clairvaux, Abbot and Doctor of the Church
+8/21 m saintPiusXPope : Saint Pius X, Pope
+8/22 m queenshipOfBlessedVirginMary : Queenship of Blessed Virgin Mary
 8/23 saintRoseOfLima : Saint Rose of Lima, Virgin
-8/24 f2.8 saintBartholomewTheApostle : Saint Bartholomew the Apostle
+8/24 f saintBartholomewTheApostle : Saint Bartholomew the Apostle
 8/25 saintLouisSaintJosephOfCalasanzPriest : Saint Louis/Saint Joseph of Calasanz, Priest
-8/27 m3.11 saintMonica : Saint Monica
-8/28 m3.11 saintAugustineOfHippoBishopAndDoctorOfTheChurch : Saint Augustine of Hippo, Bishop and Doctor of the Church
-8/29 m3.11 R theBeheadingOfSaintJohnTheBaptistMartyr : The Beheading of Saint John the Baptist, Martyr
-9/3 m3.11 saintGregoryTheGreatPopeAndDoctor : Saint Gregory the Great, Pope and Doctor of the Church
-9/8 f2.8 birthOfTheBlessedVirginMary : Birth of the Blessed Virgin Mary
+8/27 m saintMonica : Saint Monica
+8/28 m saintAugustineOfHippoBishopAndDoctorOfTheChurch : Saint Augustine of Hippo, Bishop and Doctor of the Church
+8/29 m R theBeheadingOfSaintJohnTheBaptistMartyr : The Beheading of Saint John the Baptist, Martyr
+9/3 m saintGregoryTheGreatPopeAndDoctor : Saint Gregory the Great, Pope and Doctor of the Church
+9/8 f birthOfTheBlessedVirginMary : Birth of the Blessed Virgin Mary
 9/9 saintPeterClaverPriest : Saint Peter Claver, Priest
 9/12 holyNameOfTheBlessedVirginMary : Holy Name of the Blessed Virgin Mary
-9/13 m3.11 saintJohnChrysostomBishopAndDoctor : Saint John Chrysostom, Bishop and Doctor of the Church
-9/14 f2.8 R theExaltationOfTheHolyCross : 
-9/15 m3.11 ourLadyOfSorrows : Our Lady of Sorrows
-9/16 m3.11 R saintsCorneliusPopeAndCyprianBishopMartyrs : Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs
+9/13 m saintJohnChrysostomBishopAndDoctor : Saint John Chrysostom, Bishop and Doctor of the Church
+9/14 f R theExaltationOfTheHolyCross : 
+9/15 m ourLadyOfSorrows : Our Lady of Sorrows
+9/16 m R saintsCorneliusPopeAndCyprianBishopMartyrs : Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs
 9/17 saintRobertBellarmineBishopAndDoctor : Saint Robert Bellarmine, Bishop and Doctor of the Church
 9/19 saintJanuariusBishopAndMartyr : Saint Januarius, Bishop and Martyr
-9/20 m3.11 R saintAndrewKimTaegonPriestAndPaulChongHasangAndCompanionsMartyrs : Saint Andrew Kim Taegon, Priest, and Paul Chong Hasang and Companions, Martyrs
-9/21 f2.8 saintMatthewApostleAndEvangelist : Saint Matthew, Apostle and Evangelist
-9/23 m3.11 saintPioOfPietrelcinaPadrePioPriest : Saint Pio of Pietrelcina (Padre Pio), Priest
+9/20 m R saintAndrewKimTaegonPriestAndPaulChongHasangAndCompanionsMartyrs : Saint Andrew Kim Taegon, Priest, and Paul Chong Hasang and Companions, Martyrs
+9/21 f saintMatthewApostleAndEvangelist : Saint Matthew, Apostle and Evangelist
+9/23 m saintPioOfPietrelcinaPadrePioPriest : Saint Pio of Pietrelcina (Padre Pio), Priest
 9/26 saintsCosmasAndDamianMartyrs : Saints Cosmas and Damian, Martyrs
-9/27 m3.11 saintVincentDePaulPriest : Saint Vincent de Paul, Priest
+9/27 m saintVincentDePaulPriest : Saint Vincent de Paul, Priest
 9/28 saintWenceslausMartyrSaintsLawrenceRuizAndCompanionsMartyrs : Saint Wenceslaus, Martyr/Saints Lawrence Ruiz and Companions, Martyrs
-9/29 f2.8 saintsMichaelGabrielAndRaphaelArchangels : Saints Michael, Gabriel and Raphael, Archangels
-9/30 m3.11 saintJeromePriestAndDoctor : Saint Jerome, Priest and Doctor
-10/1 m3.11 saintThereseOfTheChildJesusVirginAndDoctor : Saint Therese of the Child Jesus, Virgin and Doctor
-10/2 m3.11 guardianAngels : Guardian Angels
-10/4 m3.11 saintFrancisOfAssisi : Saint Francis of Assisi
+9/29 f saintsMichaelGabrielAndRaphaelArchangels : Saints Michael, Gabriel and Raphael, Archangels
+9/30 m saintJeromePriestAndDoctor : Saint Jerome, Priest and Doctor
+10/1 m saintThereseOfTheChildJesusVirginAndDoctor : Saint Therese of the Child Jesus, Virgin and Doctor
+10/2 m guardianAngels : Guardian Angels
+10/4 m saintFrancisOfAssisi : Saint Francis of Assisi
 10/6 saintBrunoPriest : Saint Bruno, Priest
-10/7 m3.11 ourLadyOfTheRosary : Our Lady of the Rosary
+10/7 m ourLadyOfTheRosary : Our Lady of the Rosary
 10/9 saintDenisAndCompanionsMartyrsSaintJohnLeonardiPriest : Saint Denis and Companions Martyrs/Saint John Leonardi, Priest
 10/11 popeSaintJohnXXIII : Pope Saint John XXIII
 10/22 popeSaintJohnPaulII : Pope Saint John Paul II
 10/14 saintCallistusIPopeAndMartyr : Saint Callistus I, Pope and Martyr
-10/15 m3.11 saintTeresaOfJesusVirginAndDoctorOfTheChurch : Saint Teresa of Jesus, Virgin and Doctor
+10/15 m saintTeresaOfJesusVirginAndDoctorOfTheChurch : Saint Teresa of Jesus, Virgin and Doctor
 10/16 saintHedwigReligiousSaintMargaretMaryAlacoqueVirgin : Saint Hedwig, Religious/Saint Margaret Mary Alacoque, Virgin
-10/17 m3.11 R saintIgnatiusOfAntiochBishopAndMartyr : Saint Ignatius of Antioch, Bishop and Martyr
-10/18 f2.8 saintLukeTheEvangelist : Saint Luke the Evangelist
+10/17 m R saintIgnatiusOfAntiochBishopAndMartyr : Saint Ignatius of Antioch, Bishop and Martyr
+10/18 f saintLukeTheEvangelist : Saint Luke the Evangelist
 10/19 saintsJeanDeBrebeufAndIsaacJoguesPriestsAndCompanionsMartyrsSaintPaulOfTheCrossPriest : Saints Jean de Brebeuf and Isaac Jogues, Priests and Companions, Martyrs/Saint Paul of the Cross, Priest
 10/23 saintJohnOfCapistranoPriest : Saint John of Capistrano, Priest
 10/24 saintAnthonyMaryClaretBishop : Saint Anthony Mary Claret, Bishop
-10/28 f2.8 saintsSimonAndJudeApostles : Saints Simon and Jude, Apostles
-11/2 f2.8 allSouls : All Souls
+10/28 f saintsSimonAndJudeApostles : Saints Simon and Jude, Apostles
+11/2 f allSouls : All Souls
 11/3 saintMartinDePorresReligious : Saint Martin de Porres, Religious
-11/4 m3.11 saintCharlesBorromeoBishop : Saint Charles Borromeo, Bishop
-11/9 f2.8 dedicationOfTheLateranBasilica : Dedication of the Lateran Basilica
-11/10 m3.11 saintLeoTheGreatPopeAndDoctor : Saint Leo the Great, Pope and Doctor
-11/11 m3.11 saintMartinOfToursBishop : Saint Martin of Tours, Bishop
-11/12 m3.11 R saintJosaphatBishopAndMartyr : Saint Josaphat, Bishop and Martyr
+11/4 m saintCharlesBorromeoBishop : Saint Charles Borromeo, Bishop
+11/9 f dedicationOfTheLateranBasilica : Dedication of the Lateran Basilica
+11/10 m saintLeoTheGreatPopeAndDoctor : Saint Leo the Great, Pope and Doctor
+11/11 m saintMartinOfToursBishop : Saint Martin of Tours, Bishop
+11/12 m R saintJosaphatBishopAndMartyr : Saint Josaphat, Bishop and Martyr
 11/15 saintAlbertTheGreatBishopAndDoctor : Saint Albert the Great, Bishop and Doctor
 11/16 saintMargaretOfScotlandSaintGertrudeTheGreatVirgin : Saint Margaret of Scotland/Saint Gertrude the Great, Virgin
-11/17 m3.11 saintElizabethOfHungary : Saint Elizabeth of Hungary
+11/17 m saintElizabethOfHungary : Saint Elizabeth of Hungary
 11/18 dedicationOfTheBasilicasOfSaintsPeterAndPaulApostles : Dedication of the basilicas of Saints Peter and Paul, Apostles
-11/21 m3.11 presentationOfTheBlessedVirginMary : Presentation of The Blessed Virgin Mary
-11/22 m3.11 R saintCeciliaVirginAndMartyr : Saint Cecilia, Virgin and Martyr
+11/21 m presentationOfTheBlessedVirginMary : Presentation of The Blessed Virgin Mary
+11/22 m R saintCeciliaVirginAndMartyr : Saint Cecilia, Virgin and Martyr
 11/23 saintClementIPopeAndMartyrSaintColumbanReligious : Saint Clement I, Pope and Martyr/Saint Columban, Religious
-11/24 m3.11 R saintAndrewDungLacAndCompanionsMartyrs : Saint Andrew Dung-Lac and Companions, Martyrs
+11/24 m R saintAndrewDungLacAndCompanionsMartyrs : Saint Andrew Dung-Lac and Companions, Martyrs
 11/25 saintCatherineOfAlexandriaVirginAndMartyr : Saint Catherine of Alexandria, Virgin and Martyr
-11/30 f2.8 saintAndrewTheApostle : Saint Andrew the Apostle
-12/3 m3.11 saintFrancisXavierPriest : Saint Francis Xavier, Priest
+11/30 f saintAndrewTheApostle : Saint Andrew the Apostle
+12/3 m saintFrancisXavierPriest : Saint Francis Xavier, Priest
 12/4 saintJohnDamascenePriestAndDoctor : Saint John Damascene, Priest and Doctor
 12/6 saintNicholasBishop : Saint Nicholas, Bishop
-12/7 m3.11 saintAmbroseBishopAndDoctor : Saint Ambrose, Bishop and Doctor
+12/7 m saintAmbroseBishopAndDoctor : Saint Ambrose, Bishop and Doctor
 12/9 saintJuanDiegoCuauhtlatoatzin : Saint Juan Diego Cuauhtlatoatzin
 12/10 ourLadyOfLoreto : Our Lady of Loreto
 12/11 saintDamasusIPope : Saint Damasus I, Pope
 12/12 ourLadyOfGuadalupe : Our Lady of Guadalupe
-12/13 m3.11 R saintLucyOfSyracuseVirginAndMartyr : Saint Lucy of Syracuse, Virgin and Martyr
-12/14 m3.11 saintJohnOfTheCrossPriestAndDoctor : Saint John of the Cross, Priest and Doctor
+12/13 m R saintLucyOfSyracuseVirginAndMartyr : Saint Lucy of Syracuse, Virgin and Martyr
+12/14 m saintJohnOfTheCrossPriestAndDoctor : Saint John of the Cross, Priest and Doctor
 12/21 saintPeterCanisiusPriestAndDoctor : Saint Peter Canisius, Priest and Doctor
 12/23 saintJohnOfKantyPriest : Saint John of Kenty, Priest
-12/26 f2.8 R saintStephenTheFirstMartyr : Saint Stephen, The First Martyr
-12/27 f2.8 saintJohnTheApostleAndEvangelist : Saint John the Apostle and Evangelist
-12/28 f2.8 R holyInnocentsMartyrs : Holy Innocents, Martyrs
+12/26 f R saintStephenTheFirstMartyr : Saint Stephen, The First Martyr
+12/27 f saintJohnTheApostleAndEvangelist : Saint John the Apostle and Evangelist
+12/28 f R holyInnocentsMartyrs : Holy Innocents, Martyrs
 12/29 saintThomasBecketBishopAndMartyr : Saint Thomas Becket, Bishop and Martyr
 12/31 saintSylvesterIPope : Saint Sylvester I, Pope
