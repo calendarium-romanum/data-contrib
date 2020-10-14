@@ -9,13 +9,20 @@ const year = 1990; // any year would work
 utils.setLocale('en');
 
 // maps romcal ranks to calendarium-romanum rank codes
-const rankMap = {
+const rankMapProper = {
   'OPT_MEMORIAL': null,
   // we will be importing proper celebrations, hence the numbers
   'MEMORIAL': 'm3.11',
   'FEAST': 'f2.8',
   'SOLEMNITY': 's1.4',
 };
+const rankMapGeneral = {
+  'OPT_MEMORIAL': null,
+  'MEMORIAL': 'm',
+  'FEAST': 'f',
+  'SOLEMNITY': 's',
+};
+const rankMap = calendarModule.endsWith('general.js') ? rankMapGeneral : rankMapProper;
 
 const celebrationEntry = (celebration) => {
   const c = celebration;
