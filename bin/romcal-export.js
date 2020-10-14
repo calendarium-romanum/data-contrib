@@ -29,6 +29,9 @@ const rankMapGeneral = {
 };
 const rankMap = isGeneralCalendar ? rankMapGeneral : rankMapProper;
 
+const monthHeading = momentjsMonth =>
+      '= ' + (parseInt(momentjsMonth) + 1); // momentjs has zero-based months
+
 const celebrationEntry = (celebration) => {
   const c = celebration;
   const rank = rankMap[c.type];
@@ -37,15 +40,14 @@ const celebrationEntry = (celebration) => {
         _.get(c, 'data.titles', []).includes('MARTYR');
 
   console.log(
-    (c.moment.month() + 1) + // momentjs has zero-based months
-      '/' +
-      c.moment.date() +
-      ' ' +
-      (null !== rank ? (rank + ' ') : '') +
-      (isColourRed ? ('R ') : '') +
-      c.key +
-      ' : ' +
-      c.name
+    // (c.moment.month() + 1) + '/' + // momentjs has zero-based months
+    c.moment.date()
+      + ' '
+      + (null !== rank ? (rank + ' ') : '')
+      + (isColourRed ? ('R ') : '')
+      + c.key
+      + ' : '
+      + c.name
   );
 };
 
@@ -73,6 +75,9 @@ const yamlFrontMatter = () => {
 };
 
 console.log(yamlFrontMatter());
-calendar
-  .dates(year)
-  .forEach(celebrationEntry);
+byMonth = _.groupBy(calendar.dates(year), i => i.moment.month());
+for (let month in byMonth) {
+  console.log();
+  console.log(monthHeading(month));
+  byMonth[month].forEach(celebrationEntry);
+}
