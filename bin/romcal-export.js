@@ -1,4 +1,5 @@
 const calendarModule = process.argv[2]; // first commandline argument
+const locale = process.argv[3];
 const calendar = require(calendarModule);
 
 const fs = require('fs');
@@ -8,7 +9,6 @@ const yaml = require('js-yaml');
 
 const year = 1990; // any year would work
 
-const locale = 'en';
 utils.setLocale(locale);
 
 const calendarName = _.last(calendarModule.split('/')).replace('.js', '');
@@ -79,7 +79,7 @@ const yamlFrontMatter = () => {
     locale: locale
   };
   if (!isGeneralCalendar) {
-    frontMatter['parent'] = 'general.txt';
+    frontMatter['parent'] = 'general-' + locale + '.txt';
   }
 
   const yfmDelimiter = '---'
