@@ -3,10 +3,15 @@ const calendar = require(calendarModule);
 
 const utils = require('romcal/dist/lib/Utils');
 const _ = require('lodash');
+const yaml = require('js-yaml');
 
 const year = 1990; // any year would work
 
-utils.setLocale('en');
+const locale = 'en';
+utils.setLocale(locale);
+
+const calendarName = _.last(calendarModule.split('/')).replace('.js', '');
+const isGeneralCalendar = calendarName === 'general';
 
 // maps romcal ranks to calendarium-romanum rank codes
 const rankMapProper = {
@@ -22,7 +27,7 @@ const rankMapGeneral = {
   'FEAST': 'f',
   'SOLEMNITY': 's',
 };
-const rankMap = calendarModule.endsWith('general.js') ? rankMapGeneral : rankMapProper;
+const rankMap = isGeneralCalendar ? rankMapGeneral : rankMapProper;
 
 const celebrationEntry = (celebration) => {
   const c = celebration;
@@ -44,6 +49,30 @@ const celebrationEntry = (celebration) => {
   );
 };
 
+const camelCaseToWords = str => {
+  return _.upperFirst(
+    str.replace(/([A-Z])/g, match => ' ' + match)
+  );
+};
+
+const yamlFrontMatter = () => {
+  let frontMatter = {
+    title: camelCaseToWords(calendarName),
+    locale: locale
+  };
+  if (!isGeneralCalendar) {
+    frontMatter['parent'] = 'general.txt';
+  }
+
+  const yfmDelimiter = '---'
+
+  return yfmDelimiter
+    + "\n"
+    + yaml.safeDump(frontMatter)
+    + yfmDelimiter;
+};
+
+console.log(yamlFrontMatter());
 calendar
   .dates(year)
   .forEach(celebrationEntry);
