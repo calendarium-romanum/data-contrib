@@ -1,7 +1,7 @@
 ---
 title: Puerto Rico
 locale: en
-parent: general-en.txt
+extends: general-en.txt
 ---
 
 = 1

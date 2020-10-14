@@ -1,7 +1,7 @@
 ---
 title: Italy
 locale: it
-parent: general-it.txt
+extends: general-it.txt
 ---
 
 = 2

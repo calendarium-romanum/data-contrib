@@ -1,5 +1,5 @@
 ---
 title: England
 locale: en
-parent: general-en.txt
+extends: general-en.txt
 ---
