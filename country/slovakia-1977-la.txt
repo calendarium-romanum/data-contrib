@@ -1,0 +1,28 @@
+---
+title: Calendarium proprium dioecesium Slovachiae
+source: |
+  Liturgia horarum : Propria dioecesium Slovachiae, Trnava 1977, p.91-94.
+  https://christ-net.sk/node/3671
+# TODO: proper celebrations only, General Roman Calendar + European feasts
+#   should be added as parent
+notice: |
+  Outdated as of now. Please don't update this file (except of proof-reading
+  against the source). For purposes of creating an up-to-date version of the calendar
+  create a copy.
+---
+
+# celebrations listed in the source, but limited to a place or region, not included
+
+4/23 mp R adalbert : S. Adalberti, episcopi et martyris
+4/24 R george : S. Georgii, martyris
+
+5/16 mp R john_nepomuk : S. Ioannis Nepomuceni, presbyteris et martyris
+
+7/5 sp cyril_methodius : SS. Cyrilli, monachi et Methodii, episcopi
+7/17 mp : SS. Andreae-Zoerardi et Benedicti, eremitarum
+7/27 gorazd : SS. Gorasdi et sociorum
+
+9/7 mp R : Beatorum Martyrum Cassoviensium, sacerdotum et martyrum
+9/15 sp R : Beatae Mariae Virginis Perdolentis Patronae Slovachiae
+
+# 9/26 sp : Anniversarium consecrationis ecclesiae propriae, cuius dies consecrationis ignoratur
