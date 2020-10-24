@@ -23,6 +23,6 @@ notice: |
 7/27 gorazd : SS. Gorasdi et sociorum
 
 9/7 mp R : Beatorum Martyrum Cassoviensium, sacerdotum et martyrum
-9/15 sp R : Beatae Mariae Virginis Perdolentis Patronae Slovachiae
+9/15 sp R bvm_sorrows : Beatae Mariae Virginis Perdolentis Patronae Slovachiae
 
-# 9/26 sp : Anniversarium consecrationis ecclesiae propriae, cuius dies consecrationis ignoratur
+# 9/26 sp dedication : Anniversarium consecrationis ecclesiae propriae, cuius dies consecrationis ignoratur
