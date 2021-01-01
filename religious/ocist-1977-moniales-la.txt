@@ -1,0 +1,12 @@
+---
+title: Calendarium proprium Ordinis Cisterciensis - variants for houses of nuns
+approved: SCSCD Prot. N. CD 452/77
+source: Missae propriae ad usum Ordinis Cisterciensis, Romae 1983, p. 9-22; http://win.ocist.org/pdf/LAT_%20MIS_PROP_1983.pdf
+extends: ocist-1977-la.txt
+---
+
+1/21 f R agnes : S. Agnetis, virginis et martyris # festum vel memoria
+
+2/10 f scholastica : S. Scholasticae, virginis
+
+11/16 f gertrude : S. Gertrudis, virginis O. N. # festum vel memoria

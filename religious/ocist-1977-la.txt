@@ -1,0 +1,300 @@
+---
+title: Calendarium proprium Ordinis Cisterciensis
+approved: SCSCD Prot. N. CD 452/77
+source: Missae propriae ad usum Ordinis Cisterciensis, Romae 1983, p. 9-22; http://win.ocist.org/pdf/LAT_%20MIS_PROP_1983.pdf
+---
+
+= 1
+
+# 1 s : In octava Nativitatis. SOLLEMNITAS SANCTAE DEI GENETRICIS MARIAE # handled by Temporale
+2 m basil_gregory : Ss. Basilii Magni et Gregorii Nazianzeni, episcoporum et Ecclesiae doctorum
+# 6 s : IN EPIPHANIA DOMINI # handled by Temporale
+7 raymond : S. Raimundi de Penyafort, presbyteri
+10 gregory_nyssa : S. Gregorii Nysseni, episcopi
+10 : S. Gulielmi Bituricensis, episcopi O. N.
+12 mp aelred : S. Aelredi Rievallensis, abbatis O. N.
+13 hilary : S. Hilarii, episcopi et Ecclesiae doctoris
+15 m : Ss. Mauri et Placidi, discipulorum Sancti Patris nostri Benedicti
+17 anthony_of_egypt : S. Antonii, abbatis
+20 R fabian : S. Fabiani, papae et martyris
+20 R sebastian : S. Sebastiani, martyris
+21 m R agnes : S. Agnetis, virginis et martyris # apud moniales: festum vel memoria
+22 R vincent_deacon : S. Vincentii, diaconi et martyris
+24 m francis_de_sales : S. Francisci de Sales, episcopi et Ecclesiae doctoris
+25 f paul_conversion : IN CONVERSIONE S. PAULI, APOSTOLI
+26 sp ocist_founders : SS. PATRUM NOSTRORUM ROBERTI, ALBERICI ET STEPHANI, ABBATUM ET FUNDATORUM O. N.
+27 m timothy_titus : Ss. Timothei et Titi, episcoporum
+28 m aquinas : S. Thomae de Aquino, presbyteri et Ecclesiae doctoris
+30 : IN COMMEMORATIONE SUPERIORUM O. N. DEFUNCTORUM
+31 m bosco : S. Ioannis Bosco, presbyteri
+
+= 2
+
+1 : S. Raimundi de Fitero, abbatis O. N.
+2 f2.5 presentation_of_lord : IN PRAESENTATIONE DOMINI
+3 ansgar : S. Ansgarii, episcopi
+3 R blase : S. Blasii, episcopi et martyris
+# in martyrologio: B. Helinandi de Froidmont, monachi O. N.
+5 m R agatha : S. Agathae, virginis et martyris
+6 m R paul_miki : Ss. Pauli Miki et sociorum, martyrum
+8 jerome_emiliani : S. Hieronymi Emiliani
+# in martyrologio: S. Stephani de Muret, abbatis
+# 9 in martyrologio: S. Conradi Bavari, eremitae O. N.
+10 m scholastica : S. Scholasticae, virginis # apud moniales: festum
+11 bvm_lourdes : B. Mariae Virginis de Lourdes
+11 benedict_aniane : S. Benedicti Anianensis, abbatis
+12 : B. Humbelinae, monialis
+# 13 in martyrologio: S. Adolphi Osnabrugensis, episcopi O. N.
+14 m cyril_methodius : Ss. Cyrilli, monachi, et Methodii, episcopi # in Europa: festum
+16 R : S. Petri de Castelnau, monachi et martyris O. N.
+17 servite_founders : Ss. Fundatorum Ordinis Servorum B. M. V.
+# 19 in martyrologio: B. Bonifatii Bruxellensis, episcopi
+21 m peter_damian : S. Petri Damiani, episcopi et Ecclesiae doctoris
+22 f chair_of_peter : CATHEDRAE S. PETRI, APOSTOLI
+23 m R polycarp : S. Polycarpi, episcopi et martyris
+
+= 3
+
+4 casimir : S. Casimiri
+7 m R perpetua_felicity : Ss. Perpetuae et Felicitatis, martyrum
+8 : S. Stephani Obazinensis, abbatis O. N.
+8 john_of_god : S. Ioannis a Deo, religiosi
+9 m frances_of_rome : S. Franciscae Romanae, religiosae
+17 patrick : S. Patricii, episcopi
+18 cyril_of_jerusalem : S. Cyrilli Hierosolymitani, episcopi et Ecclesiae doctoris
+19 s joseph : S. IOSEPH, SPONSI BEATAE MARIAE VIRGINIS
+21 f benedict_transitus : TRANSITUS SANCTI PATRIS NOSTRI BENEDICTI, ABBATIS
+23 turibius : S. Turibii de Mongrovejo, episcopi
+25 s annunciation : IN ANNUNTIATIONE DOMINI
+
+= 4
+
+# in martyrologio: B. Hugonis Bonnaevallis, abbatis O. N.
+2 francis_of_paola : S. Francisci de Paola, eremitae
+4 isidore : S. Isidori, episcopi et Ecclesiae doctoris
+5 vincent_ferrer : S. Vincentii Ferrer, presbyteri
+# 5 in martyrologio: S. Iulianae Montis Cornelii, virginis
+7 m de_la_salle : S. Ioannis Baptistae de la Salle, presbyteri
+11 m R stanislaus : S. Stanislai, episcopi et martyris
+13 R martin_i : S. Martini I, papae et martyris
+# 13 in martyrologio: B. Idae Lovaniensis, virginis O. N.
+# 18 in martyrologio: B. Idesbaldi, abbatis O. N.
+21 m anselm : S. Anselmi, episcopi et Ecclesiae doctoris
+22 : B. Mariae Gabrielae, virginis O. N.
+23 R george : S. Georgii, martyris
+# 23 in martyrologio: adalbert : S. Adalberti, episcopi et martyris
+24 : S. Franchae, virginis O. N.
+24 R fidelis : S. Fidelis de Sigmaringen, presbyteri et martyris
+25 f R mark : S. MARCI, EVANGELISTAE
+# 26 in martyrologio: S. Ioannis de Valentia, episcopi O. N.
+28 R peter_chanel : S. Petri Chanel, presbyteri et martyris
+29 m catherine_of_siena : S. Catharinae Senensis, virginis et Ecclesiae doctoris
+30 pius_v : S. Pii V, papae
+
+= 5
+
+1 joseph_worker : S. loseph Opificis
+2 m athanasius : S. Athanasii, episcopi et Ecclesiae doctoris
+3 f R philip_james : SS. PHILIPPI ET IACOBI, APOSTOLORUM
+11 m cluny : Ss. Odonis, Maioli, Odilonis, Hugonis et B. Petri Venerabilis, abbatum Cluniacensium
+12 R nereus_achilleus : Ss. Nerei et Achillei, martyrum
+12 R pancras : S. Pancratii, martyris
+14 f R matthias : S. MATTHIAE, APOSTOLI
+15 m pachomius : S. Pacomii, abbatis
+18 R john_i : S. Ioannis I, papae et martyris
+# 19 in martyrologio: celestine : S. Caelestini, papae et eremitae
+20 bernardine : S. Bernardini Senensis, presbyteri
+25 m bede_venerable : S. Bedae Venerabilis, presbyteri et Ecclesiae doctoris
+26 gregory_vii : S. Gregorii VII, papae
+26 neri : S. Philippi Neri, presbyteri
+27 augustine_of_canterbury : S. Augustini Cantuariensis, episcopi
+31 s visitation : IN VISITATIONE B. MARIAE VIRGINIS # sollemnitas vel festum
+
+= 6
+
+1 m R justin : S. Iustini, martyris
+2 R marcellinus_peter : Ss. Marcellini et Petri, martyrum
+3 m R ugandan_martyrs : Ss. Caroli Lwanga et sociorum, martyrum
+5 m R boniface : S. Bonifatii, episcopi et martyris
+6 norbert : S. Norberti, episcopi
+# 7 in martyrologio: S. Roberti Neomonasteriensis, abbatis O. N.
+9 ephrem : S. Ephraem, diaconi et Ecclesiae doctoris
+11 m R barnabas : S. Barnabae, apostoli
+12 : S. Aleydis, virginis O. N.
+13 m anthony_of_padua : S. Antonii de Padova, presbyteri et Ecclesiae doctoris
+14 : B. Gerardi, monachi O. N.
+16 m : S. Lutgardis, virginis O. N.
+# 17 in martyrologio: BB. Sanciae et Mafaldae, virginum O. N., et Teresiae, monialis O. N.
+19 romuald : S. Romualdi, abbatis
+20 : IN COMMEMORATIONE PARENTUM ET FRATRUM NOSTRORUM DEFUNCTORUM
+21 m aloysius : S. Aloisii Gonzaga, religiosi
+22 R fisher_more : Ss. Ioannis Fisher, episcopi, et Thomae More, martyrum
+24 s baptist_birth : IN NATIVITATE S. IOANNIS BAPTISTAE
+27 cyril_of_alexandria : S. Cyrilli Alexandrini, episcopi et Ecclesiae doctoris
+28 m R irenaeus : S. Irenaei, episcopi et martyris
+29 s R peter_paul : SS. PETRI ET PAULI, APOSTOLORUM
+30 R first_martyrs_of_rome : Ss. Protomartyrum S. Romanae Ecclesiae
+
+= 7
+
+3 f R thomas_apostle : S. THOMAE, APOSTOLI
+4 elizabeth_of_portugal : S. Elisabeth Lusitaniae
+5 anthony_zaccaria : S. Antonii Mariae Zaccaria, presbyteri
+6 R goretti : S. Mariae Goretti, virginis et martyris
+# 7 in martyrologio: S. Theobaldi, abbatis O. N.
+8 m : B. Eugenii III, papae O. N.
+# 9 in martyrologio: B. Alberti de Sestri, conversi et eremitae O. N.
+# 10 in martyrologio: B. Bertrandi de Grandselve, abbatis O. N.
+11 s benedict : S. PATRIS NOSTRI BENEDICTI, ABBATIS
+12 : S. Ioannis Gualberti, abbatis
+13 henry : S. Henrici
+14 camillus_de_lellis : S. Camilli de Lellis, presbyteri
+15 m bonaventure : S. Bonaventurae, episcopi et Ecclesiae doctoris
+16 bvm_mount_carmel : Beatae Mariae Virginis de Monte Carmelo
+16 R : Bb. Virginum Martyrum Arausicanarum
+21 lawrence_of_brindisi : S. Laurentii de Brindisi, presbyteri et Ecclesiae doctoris
+22 m mary_magdalene : S. Mariae Magdalenae
+23 birgitta : S. Birgittae, religiosae
+# 24 in martyrologio: S. Balduini, abbatis O. N.
+25 f R james : S. IACOBI, APOSTOLI
+26 m joachim_anne : Ss. Ioachim et Annae, parentum Beatae Mariae Virginis
+29 m martha : S. Marthae, Mariae et Lazari, hospitum Domini
+30 m peter_chrysologus : S. Petri Chrysologi, episcopi et Ecclesiae doctoris
+31 m ignatius_of_loyola : S. Ignatii de Loyola, presbyteri
+
+= 8
+
+1 m alphonsus : S. Alfonsi Maria de Liguori, episcopi et Ecclesiae doctoris
+2 m eusebius : S. Eusebii Vercellensis, episcopi
+4 m vianney : S. Ioannis Mariae Vianney, presbyteri
+5 mary_major : In Dedicatione basilicae S. Mariae
+6 f2.5 transfiguration : IN TRANSFIGURATIONE DOMINI
+7 R sixtus_ii : Ss. Xysti II, papae, et sociorum, martyrum
+7 cajetan : S. Caietani, presbyteri
+8 m dominic : S. Dominici, presbyteri
+# 9 in martyrologio: S. Famiani, monachi et peregrini O. N.
+10 f R lawrence : S. LAURENTII, DIACONI ET MARTYRIS
+11 m clare : S. Clarae, virginis
+13 R pontian_hippolytus : Ss. Pontiani, papae, et Hippolyti, presbyteri, martyrum
+15 s assumption : IN ASSUMPTIONE BEATAE MARIAE VIRGINIS, PATRONAE O. N.
+16 stephen_hungary : S. Stephani Hungariae
+# 16 in martyrologio: S. Beatricis de Silva, virginis
+19 m : B. Guerrici, abbatis O. N.
+20 s bernard : S. PATRIS NOSTRI BERNARDI, ABBATIS ET ECCLESIAE DOCTORIS
+21 m pius_x : S. Pii X, papae
+22 m bvm_queenship : B. Mariae Virginis Reginae
+23 rose_lima : S. Rosae de Lima, virginis
+24 f R bartholomew : S. BARTHOLOMAEI, APOSTOLI
+25 louis : S. Ludovici
+25 joseph_calasanz : S. Ioseph de Calasanz, presbyteri
+27 m monica : S. Monicae
+28 m augustine : S. Augustini, episcopi et Ecclesiae doctoris
+29 m R baptist_beheading : In Passione S. Ioannis Baptistae, martyris # rank uncertain, missing in the source document (which otherwise explicitly annotates even optional memorials); rank inferred - O. Cist. has in this case no reason to change the rank from the General Roman Calendar
+30 : Ss. Guarini et Amedei, episcoporum O. N.
+30 : S. Amedei, episcopi O. N.
+# 30 in martyrologio: S. Guarini, episcopi O. N.
+
+= 9
+
+# 2 in martyrologio: BB. Bernardi, monachi O. N., Mariae et Gratiae, martyrum
+3 m gregory_great : S. Gregorii I Magni, papae et Ecclesiae doctoris
+# 7 in martyrologio: B. Ottonis de Freising, episcopi O. N.
+8 s bvm_birth : IN NATIVITATE BEATAE MARIAE VIRGINIS # sollemnitas vel festum
+10 : B. Oglerii, abbatis O. N.
+12 : S. Petri Tarentasiensis, episcopi O. N.
+13 m john_chrysostom : S. Ioannis Chrysostomi, episcopi et Ecclesiae doctoris
+14 f R cross : IN EXALTATIONE SANCTAE CRUCIS
+15 m bvm_sorrows : Beatae Mariae Virginis Perdolentis
+16 m R cornelius_cyprian : Ss. Cornelii, papae, et Cypriani, episcopi, martyrum
+17 : S. Martini de Finojosa, episcopi O. N.
+17 hildegardis : S. Hildegardis, virginis
+17 bellarmine : S. Roberti Bellarmino, episcopi et Ecclesiae doctoris
+18 : IN COMMEMORATIONE FRATRUM, PARENTUM, FAMILIARIUM ET BENEFACTORUM O. N. AB ANNO DEFUNCTORUM
+19 R januarius : S. Ianuarii, episcopi et martyris
+21 f R matthew : S. MATTHAEI, APOSTOLI ET EVANGELISTAE
+26 R cosmas_damian : Ss. Cosmae et Damiani, martyrum
+27 m vincent_de_paul : S. Vincentii de Paul, presbyteri
+28 R wenceslaus : S. Wenceslai, martyris
+# 28 in martyrologio: B. Ioannis de Montmirail, monachi O. N.
+29 f all_angels : SS. MICHAELIS ET OMNIUM ANGELORUM
+30 m jerome : S. Hieronymi, presbyteri et Ecclesiae doctoris
+
+= 10
+
+1 m therese_lisieux : S. Teresiae a Iesu Infante, virginis
+2 m guardian_angels : Ss. Angelorum Custodum
+# 3 in martyrologio: S. Adalgotti, episcopi O. N.
+4 m francis_assisi : S. Francisci Assisiensis
+6 m bruno : S. Brunonis, presbyteri
+7 m bvm_rosary : B. Mariae Virginis a Rosario
+# 8 in martyrologio: S. Martini Cid, abbatis O. N.
+9 : B. Vincentii Kadlubek, episcopi O. N.
+9 R denis : Ss. Dionysii, episcopi, et sociorum, martyrum
+9 leonardi : S. Ioannis Leonardi, presbyteri
+# 13 in martyrologio: S. Mauritii, abbatis O. N.
+14 R callistus_i : S. Callisti I, papae et martyris
+15 m teresa_avila : S. Teresiae de Avila, virginis et Ecclesiae doctoris
+16 hedwig : S. Hedwigis, religiosae O. N.
+16 alacoque : S. Margaritae Mariae Alacoque, virginis
+17 m R ignatius_of_antioch : S. Ignatii Antiocheni, episcopi et martyris
+18 f R luke : S. LUCAE, EVANGELISTAE
+19 R brebeuf_jogues : Ss. Ioannis de Brébeuf et Isaac Jogues presbyterorum, et sociorum, martyrum
+19 paul_of_cross : S. Pauli a Cruce, presbyteri
+# 20 in martyrologio: B. Gilberti de Cistercio, abbatis O. N.
+23 john_capistrano : S. Ioannis de Capestrano, presbyteri
+24 claret : S. Antonii Mariae Claret, episcopi
+25 : S. Bernardi Calbo, episcopi O. N.
+28 f R simon_jude : SS. SIMONIS ET IUDAE, APOSTOLORUM
+
+= 11
+
+1 s all_saints : OMNIUM SANCTORUM
+2 s all_souls : IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM
+3 de_porres : S. Martini de Porres, religiosi
+# 3 in martyrologio: S. Malachiae, episcopi
+4 m borromeo : S. Caroli Borromeo, episcopi
+# 7 in martyrologio: willibrord : S. Willibrordi, episcopi
+9 f2.5 lateran_basilica : IN DEDICATIONE BASILICAE LATERANENSIS
+10 m leo_great : S. Leonis Magni, papae et Ecclesiae doctoris
+11 f martin : S. MARTINI TURONENSIS, EPISCOPI
+12 studite : S. Theodori Studitae, abbatis
+12 R josaphat : S. Iosaphat, episcopi et martyris
+13 f : OMNIUM SANCTORUM QUI SUB REGULA S. P. N. BENEDICTI MILITAVERUNT
+14 : IN COMMEMORATIONE OMNIUM DEFUNCTORUM QUI SUB REGULA S. P. N. BENEDICTI MILITAVERUNT
+15 albert : S. Alberti Magni, episcopi et Ecclesiae doctoris
+# 15 in martyrologio: S. Leopoldi, marchionis Austriae
+16 m gertrude : S. Gertrudis, virginis O. N.
+17 m elizabeth_of_hungary : S. Elisabeth Hungariae, religiosae
+18 peter_paul_basilicas : In Dedicatione basilicarum Ss. Petri et Pauli, apostolorum
+# 20 in martyrologio: S. Edmundi Cantuariensis, episcopi
+# 20 in martyrologio: S. Hugonis de Noaria, abbatis O. N.
+21 m bvm_presentation : In Praesentatione Beatae Mariae Virginis
+22 m R cecilia : S. Caeciliae, virginis et martyris
+23 R clement_i : S. Clementis I, papae et martyris
+24 columban : S. Columbani, abbatis
+# in martyrologio: 26 sylvester_abbot : S. Sylvestri, abbatis
+30 f R andrew : S. ANDREAE, APOSTOLI
+
+= 12
+
+3 m francis_xavier : S. Francisci Xavier, presbyteri
+4 john_damascene : S. Ioannis Damasceni, presbyteri et Ecclesiae doctoris
+5 sabbas : S. Sabbae, abbatis
+# 5 in martyrologio: S. Galgani, eremitae
+6 nicholas : S. Nicolai, episcopi
+7 m ambrose : S. Ambrosii, episcopi et Ecclesiae doctoris
+8 s bvm_immaculate : IN CONCEPTIONE IMMACULATA BEATAE MARIAE VIRGINIS
+# 9 in martyrologio: S. Gerardi, abbatis O. N.
+11 : B. David, monachi O. N.
+11 damasus_i : S. Damasi I, papae
+12 de_chantal : S. Ioannae Franciscae de Chantal, religiosae
+13 m R lucy : S. Luciae, virginis et martyris
+14 m john_of_cross : S. Ioannis a Cruce, presbyteri et Ecclesiae doctoris
+21 canisius : S. Petri Canisii, presbyteri et Ecclesiae doctoris
+23 john_of_kanty : S. Ioannis de Kety, presbyteri
+# 25 : IN NATIVITATE DOMINI # handled by Temporale
+26 f R stephen : S. STEPHANI, PROTOMARTYRIS
+27 f john_evangelist : S. IOANNIS, APOSTOLI ET EVANGELISTAE
+28 f R innocents : SS. INNOCENTIUM, MARTYRUM
+29 R becket : S. Thomae Becket, episcopi et martyris
+31 sylvester_i : S. Silvestri I, papae
