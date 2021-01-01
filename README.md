@@ -2,12 +2,18 @@
 
 This repository contains a collection of various sanctorale data files
 (see [specification of their format][data])
-for software computing Roman Catholic liturgical calendar by means of the
+in the format understood by the
 [calendarium-romanum][caro] Ruby gem.
 
 Unlike the data files packaged in the gem itself, there are no promises regarding correctness
 of the data or their being up to date. While some of the data files may be updated by someone
 from time to time, there is noone actively taking care of the whole.
+
+## Contributions
+
+are most welcome. Have you created a `calendarium-romanum` sanctorale data file
+encoding the liturgical calendar of you country/diocese/order/...?
+Share it with others!
 
 ## Usage
 
