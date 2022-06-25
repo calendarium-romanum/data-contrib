@@ -102,3 +102,4 @@ RSpec.configure do |config|
 end
 
 require 'calendarium-romanum/cr'
+require_relative '../lib/calendarium-romanum/data_contrib'

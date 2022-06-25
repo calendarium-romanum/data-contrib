@@ -37,8 +37,12 @@ p day.celebrations
 
 ## Directory Structure
 
-`romcal_converted/` - data files created by converting data packaged
-in the [romcal][romcal] JavaScript library.
+* `country` - various local calendars
+* `interop` - data supporting interoperability with other tools and data sets
+* `lib` - potentially useful code related to the data files
+* `religious` - calendars of religious institutes
+* `romcal_converted/` - data files created by converting data packaged
+  in the [romcal][romcal] JavaScript library.
 
 ## Contributing
 
