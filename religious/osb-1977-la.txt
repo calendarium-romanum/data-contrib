@@ -130,7 +130,7 @@ notice: |
 23 birgitta : S. Birgittae, religiosae
 25 f R james : S. IACOBI, APOSTOLI
 26 m joachim_anne : Ss. Ioachim et Annae, parentum B. M. V.
-29 m martha : S. Marthae, Mariae et Lazari, hospitum Domini
+29 m martha_mary_lazarus : S. Marthae, Mariae et Lazari, hospitum Domini
 30 peter_chrysologus : S. Petri Chrysologi, episcopi et Ecclesiae doctoris
 31 m ignatius_of_loyola : S. Ignatii de Loyola, presbyteri
 
